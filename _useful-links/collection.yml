@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - School Service Providers/Information on Parents Gateway.md
       - School Service Providers/Presentation Slides.md
       - School Service Providers/E Open House 2022.md
       - School Service Providers/Information on ART Kits.md
