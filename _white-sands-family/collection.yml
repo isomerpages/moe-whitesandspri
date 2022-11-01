@@ -2,6 +2,7 @@ collections:
   white-sands-family:
     output: true
     order:
+      - School Executive Committee.md
       - Teaching Staff.md
       - Non Teaching Staff.md
       - School Advisory Committee.md
