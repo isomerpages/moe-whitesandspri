@@ -2,4 +2,5 @@ collections:
   about-wsps:
     output: true
     order:
+      - School Hours and School Terms.md
       - School Rules and Regulations.md
