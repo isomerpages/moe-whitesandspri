@@ -19,4 +19,18 @@ sections:
         - title: Facebook
           description: ""
           url: https://www.facebook.com/whitesandsprimaryschoolofficial/
+  - infobar:
+      title: Parent Support Group
+      subtitle: White Sands' Primary School
+      description: For more information
+      button: Click here
+      url: /white-sands-family/psg/
+  - infopic:
+      title: Join White Sands' Primary School PSG!
+      subtitle: White Sands' Primary School
+      description: Interested to join us?
+      button: Click here
+      url: https://tinyurl.com/PSGWSPSsignup
+      image: /images/psgqr.png
+      alt: Image alt text
 ---
