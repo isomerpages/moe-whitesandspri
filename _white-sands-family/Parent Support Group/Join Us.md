@@ -15,4 +15,4 @@ for the benefit of our children and school
 **Sign-up link**<br>
 **[https://tinyurl.com/PSGWSPSsignup](https://tinyurl.com/PSGWSPSsignup)**
 
-<img src="/images/psgqr.png" style="width:25%">
+<img src="/images/psgqr.png" style="width:25%" align=left>
