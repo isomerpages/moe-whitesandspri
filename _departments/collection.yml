@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Chinese.md
       - Malay.md
       - Tamil.md
       - Physical Education/Physical Education.md
