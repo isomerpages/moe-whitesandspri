@@ -2,4 +2,5 @@ collections:
   passionate-learners:
     output: true
     order:
+      - Departments/.keep
       - Co Curricular Activities (CCA).md
