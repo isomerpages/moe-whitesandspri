@@ -2,8 +2,8 @@ title: White Sands Primary School
 url: https://whitesandspri.sg
 favicon: /images/logo.png
 colors:
-  primary-color: "#e1f1f7"
-  secondary-color: "#134e9c"
+  primary-color: "#134e9c"
+  secondary-color: "#e1f1f7"
   media-colors:
     - title: media-color-one
       color: "#49759a"
