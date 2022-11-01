@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Uniformed Group/.keep
       - Visual & Performing Arts/.keep
       - Sports & Games/.keep
       - Co Curricular Activities (CCA).md
