@@ -6,5 +6,12 @@ links:
     collection: white-sands-family
   - title: Distinctive Programmes
     collection: distinctive-programmes
+  - title: Passionate Learners
+    url: /passionate-learners/departments/english/
+    sublinks:
+      - title: Departments
+        url: /passionate-learners/departments/english/
+      - title: Co-Curricular Activities
+        url: /passionate-learners/cca/
   - title: Exemplary Character
     collection: exemplary-character
