@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Student Care Centre.md
       - WSPS Facebook.md
       - Parent Volunteer Scheme (Phase 2B).md
       - Useful Links.md
