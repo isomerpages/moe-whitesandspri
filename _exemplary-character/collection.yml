@@ -2,5 +2,6 @@ collections:
   exemplary-character:
     output: true
     order:
+      - Sexuality Education.md
       - Student Leadership.md
       - Values In Action.md
