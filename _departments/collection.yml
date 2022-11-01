@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education/.keep
       - Aesthetics.md
       - Information & Communication Technology.md
