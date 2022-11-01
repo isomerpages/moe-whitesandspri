@@ -1,4 +1,5 @@
 collections:
   about-wsps:
     output: true
-    order: []
+    order:
+      - School Rules and Regulations.md
