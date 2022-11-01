@@ -42,14 +42,47 @@ description: ""
 
 #### **Primary 4**
 
-
+|  |  |  |  |
+|---|---|---|---|
+| **4A** | Mr Chong Thiam Hock | Ms Charlene Yeong Min |  |
+| **4B** | Ms Helen  | Ms Gunita | Mr Alvin Tan |
+| **4C** | Ms L T Melwani | Ms Maybelline Chan |  |
+| **4D** | Ms May Soh | Mdm Shi Haixia | Mr Ismail Bin Kasim |
+| **4E** | Mdm Zainab Bte Abdullah | Mr Mohd Raizi | Mr Bryan Foo |
+| **4F** | Mr Sim Joo Sen Jason | Ms Parimala | Mrs Low Chiew Chuet |
+|
 
 #### **Primary 5**
 
-
+|  |  |  |  |
+|---|---|---|---|
+| **5A** | Ms Eve Tan Jia Ee | Mdm Nur Diana | Mrs Susan Tan |
+| **5B** | Mrs Ho-Yap Yuh Kian | Mr Teo Yizuo | Mrs Joycelyn Lok |
+| **5C** | Mrs Teo-Sim Hwee Khoon | Mdm Fatimah M T |  |
+| **5D** | Mdm Nadera Bawany | Mdm Amy Ong | Mrs Beverly Peh |
+| **5E** | Mdm Norhayati | Mdm Nadia Hezryn Bte Osman |  |
+| **5F** | Mr Mazlan Bin Hussein | Mr Mohd Jamaluddin Affandi | Mrs Droze |
+|
 
 #### **Primary 6**
 
-
+|  |  |  |  |
+|---|---|---|---|
+| **6A** | Ms Chua Xiao Ying | Mr Jiang Yang |  |
+| **6B** | Mdm Vasathakumari | Mdm Rab'iah Bte Rahmat | Mr Wong Yexiang |
+| **6C** | Ms Hariza | Mr Amos Sim |  |
+| **6D** | Ms Jean Tham | Miss Khadijah Bte Aron | Mrs Linda Chan |
+| **6E** | Ms Kathryn Kan | Mdm Fatimah S | Ms Joyce Soon |
+| **6F** | Mdm Jacqueline Bay | Mdm Shahira Bte Daud |  |
+| **6G** | Mr Shahrunizam | Mr Mohd Faisal |  Ms Lim Hui Yuen |
+|
 
 #### **Teachers**
+
+|  |  |  |
+|---|---|---|
+| Mrs Carine Ong | Mrs Mak Pui See, Nicole | Miss Leong Yin Leng |
+| Mr Aaron Yeo | Mdm Ang Whee Chin (Mrs Goh) | Mrs Goh Bee Chew |
+| Mrs Lee Puay Hoon | Mr Ian Kwok Jien Chi | Mdm Farahdilla Bte Ariffin |
+| Mdm Rohana Bte Ibrahim |   |   |
+|
