@@ -2,4 +2,5 @@ collections:
   exemplary-character:
     output: true
     order:
+      - Student Leadership.md
       - Values In Action.md
