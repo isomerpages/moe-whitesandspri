@@ -2,5 +2,6 @@ collections:
   white-sands-family:
     output: true
     order:
+      - Parent Support Group/Join Us.md
       - Parent Support Group/.keep
       - Fathers @ WSPS.md
