@@ -3,7 +3,7 @@ url: https://whitesandspri.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#134e9c"
-  secondary-color: "#e1f1f7"
+  secondary-color: "#134e9c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
