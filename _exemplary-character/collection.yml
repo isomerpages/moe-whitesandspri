@@ -1,4 +1,5 @@
 collections:
   exemplary-character:
     output: true
-    order: []
+    order:
+      - Values In Action.md
