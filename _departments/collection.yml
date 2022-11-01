@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue/.keep
       - Chinese.md
       - Malay.md
       - Tamil.md
