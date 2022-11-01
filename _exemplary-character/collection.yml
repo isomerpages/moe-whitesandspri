@@ -1,0 +1,4 @@
+collections:
+  exemplary-character:
+    output: true
+    order: []
