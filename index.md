@@ -20,9 +20,9 @@ sections:
           description: ""
           url: https://www.facebook.com/whitesandsprimaryschoolofficial/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Parent Support Group
+      subtitle: White Sands Primary School
+      description: For more information
+      button: click here
+      url: /white-sands-family/psg/
 ---
