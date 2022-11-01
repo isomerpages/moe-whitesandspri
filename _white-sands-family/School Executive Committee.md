@@ -22,8 +22,8 @@ description: ""
 <img src="/images/viceprincipal1.jpg" style="width:30%;margin-right:75px;" align = "right">
 <img src="/images/viceprincipal.jpg" style="width:28%;margin-right:130px;" align = "right">
 
-
-<br clear="left">
+<br clear="left"><br clear="left">
+<br clear="left"><br clear="left">
 
 | | |
 |:---:|:---:|
