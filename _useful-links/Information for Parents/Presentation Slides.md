@@ -28,7 +28,7 @@ third_nav_title: Information for Parents
 [Primary 1E](/files/p1careteacher5.pdf)<br>
 [Primary 1F](/files/p1careteacher6.pdf)
 
-Click the E-Open House 2021 on the right menu to visit our Virtual Tour Page.
+Click the E-Open House 2021 on the left menu to visit our Virtual Tour Page.
 
 #### **2022 P1 SPECS Slides**
 
