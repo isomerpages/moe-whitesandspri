@@ -2,6 +2,7 @@ collections:
   wsps:
     output: true
     order:
+      - In Link Bulletin.md
       - Announcements.md
       - Privacy Statement.md
       - Sitemap.md
