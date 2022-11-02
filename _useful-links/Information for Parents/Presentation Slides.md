@@ -28,56 +28,59 @@ third_nav_title: Information for Parents
 [Primary 1E](/files/p1careteacher5.pdf)<br>
 [Primary 1F](/files/p1careteacher6.pdf)
 
+Click the E-Open House 2021 on the right menu to visit our Virtual Tour Page.
+
 #### **2022 P1 SPECS Slides**
 
-[Primary 1A]
-[Primary 1B]
-[Primary 1C]
-[Primary 1D]
-[Primary 1E]
-[Primary 1F]
+[Primary 1A](/files/p1specs1.pdf)<br>
+[Primary 1B](/files/p1specs2.pdf)<br>
+[Primary 1C](/files/p1specs3.pdf)<br>
+[Primary 1D](/files/p1specs4.pdf)<br>
+[Primary 1E](/files/p1specs5.pdf)<br>
+[Primary 1F](/files/p1specs6.pdf)
 
 #### **2022 P2 SPECS Slides**
 
-[Primary 2A]
-[Primary 2B]
-[Primary 2C]
-[Primary 2D]
-[Primary 2E]
-[Primary 2F]
+[Primary 2A](/files/p2specs1.pdf)<br>
+[Primary 2B](/files/p2specs2.pdf)<br>
+[Primary 2C](/files/p2specs3.pdf)<br>
+[Primary 2D](/files/p2specs4.pdf)<br>
+[Primary 2E](/files/p2specs5.pdf)<br>
+[Primary 2F](/files/p2specs6.pdf)
 
 #### **2022 P3 SPECS Slides**
 
-[Primary 3A]
-[Primary 3B]
-[Primary 3C]
-[Primary 3D]
-[Primary 3E]
-[Primary 3F]
+[Primary 3A](/files/p3specs1.pdf)<br>
+[Primary 3B](/files/p3specs2.pdf)<br>
+[Primary 3C](/files/p3specs3.pdf)<br>
+[Primary 3D](/files/p3specs4.pdf)<br>
+[Primary 3E](/files/p3specs5.pdf)<br>
+[Primary 3F](/files/p3specs6.pdf)
 
 #### **2022 P4 SPECS Slides**
 
-[Primary 4A]
-[Primary 4B]
-[Primary 4C]
-[Primary 4D]
-[Primary 4E]
-[Primary 4F]
+[Primary 4A](/files/p4specs1.pdf)<br>
+[Primary 4B](/files/p4specs2.pdf)<br>
+[Primary 4C](/files/p4specs3.pdf)<br>
+[Primary 4D](/files/p4specs4.pdf)<br>
+[Primary 4E](/files/p4specs5.pdf)<br>
+[Primary 4F](/files/p4specs6.pdf)
 
 #### **2022 P5 SPECS Slides**
 
-[Primary 5A]
-[Primary 5B]
-[Primary 5C]
-[Primary 5D]
-[Primary 5E]
-[Primary 5F]
+[Primary 5A](/files/p5specs1.pdf)<br>
+[Primary 5B](/files/p5specs2.pdf)<br>
+[Primary 5C](/files/p5specs3.pdf)<br>
+[Primary 5D](/files/p5specs4.pdf)<br>
+[Primary 5E](/files/p5specs5.pdf)<br>
+[Primary 5F](/files/p5specs6.pdf)
 
 #### **2022 P6 SPECS Slides**
 
-[Primary 6A]
-[Primary 6B]
-[Primary 6C]
-[Primary 6D]
-[Primary 6E]
-[Primary 6F]
+[Primary 6A](/files/p6specs1.pdf)<br>
+[Primary 6B](/files/p6specs2.pdf)<br>
+[Primary 6C](/files/p6specs3.pdf)<br>
+[Primary 6D](/files/p6specs4.pdf)<br>
+[Primary 6E](/files/p6specs5.pdf)<br>
+[Primary 6F](/files/p6specs6.pdf)<br>
+[Primary 6G](/files/p6specs7.pdf)
