@@ -44,7 +44,7 @@ The process of overcoming their fears and challenging their limits helps student
 </figure>
 
 <figure>
-<img src="/images/pe3.png" style="width:65%">
+<img src="/images/pe3.png" style="width:75%">
 <figcaption>  Mini-campfire where students did their reflection within the groups.
  </figcaption>
 </figure>
@@ -52,6 +52,11 @@ The process of overcoming their fears and challenging their limits helps student
 ##### Primary 5
 Students will undergo Kayaking as another water experience to build water confidence and camaraderie spirit.
 
-<img src="/images/pe4.png" style="width:65%">
+<img src="/images/pe4.png" style="width:75%">
 
 ##### Primary 6
+Students would usually trek to MacRitchie Reservoir.
+
+<img src="/images/pe5.png" style="width:75%">
+
+The students will have 2 different routes to trek as they walk through the vegetation. They are to listen and observe the surroundings.
