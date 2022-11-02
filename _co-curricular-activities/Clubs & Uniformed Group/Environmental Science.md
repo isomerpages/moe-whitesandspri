@@ -25,4 +25,4 @@ By participating in these programmes, our club members develop important 21st ce
 
 <br clear="left">
 
-<img src="/images/environmentalsci5.jpg" style="width:49%" align=left>
+<img src="/images/environmentalsci5.jpg" style="width:55%" align=left>
