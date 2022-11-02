@@ -44,3 +44,28 @@ Our partner, MWS Family Support Programme, has created a tip sheet on the topic 
 #### **8. Growth Mindset Nuggets #10: Building Positive Relationships**
 In October’s issue, we invited parents to share their success stories on how you foster gratitude in your child at home. We thank all parents for your contributions.
 
+|  |
+|:---:|
+| **Sharing from P4B and P6C students’ mother, Mdm Carolyn Lim** |
+| These days, instilling the value of gratitude seems more challenging than before. Children tend to take people and things for granted when everything is practically done for them. Thus, at home we have started with routines for our children to be responsible for household chores like washing the dishes they used for their own meals, vacuuming the floor, doing their own laundry including folding their own clothes and changing their own bedsheets. For us, it is a place to begin with that can at least make them realize that it takes time and effort to maintain and keep the household running and start appreciating the things we do for them. |
+|
+
+Positive relationships need to be built. Take time to listen when your children share, get to know their interests and dreams, affirm their positive qualities and encourage them to grow despite their limitations. Participate in activities and events with them. It is also important to choose activities that build on their interests and connect them with the community. For example, volunteering or participating in community-orientated activities enhances a parent-child relationship and increases their circle of empathy.
+
+Here are some ways to build a strong relationship with your child:
+*   Develop parent-child relationships that are loving, warm and responsive.
+*   Encourage your child to share ideas based on his/her interests.
+*   Allow and encourage your child to lead when playing together.
+*   Build your child’s self-esteem and confidence by recognising his/her efforts and not just his/her successes.
+
+When we have something exciting to share, we look forward to telling our loved ones. Close relationships are our social support in both good times and bad. Click the link to join Bobby in this short animation video as he enhances his relationships with the people around him.
+
+|  |  |
+|:---:|:---:|
+| School bag video | [https://www.schoolbag.edu.sg/story/why-relationships-matter](https://www.schoolbag.edu.sg/story/why-relationships-matter) |
+|
+
+We would love to hear your stories of how you foster positive relationships at home during the holidays. Share your experience with us via [https://go.gov.sg/dpr-wsps](https://go.gov.sg/dpr-wsps) or scan the QR code here.
+
+**require image to be provided**
+
