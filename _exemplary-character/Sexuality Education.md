@@ -39,4 +39,34 @@ c. Character and Citizenship Education (CCE)
 
 ##### **At White Sands Primary School, the following lessons from the Growing Years Programme for Primary 5 and Primary 6 pupils will be taught in 2022:**
 
+##### **Primary 5**
 
+| UNIT | LESSONS/DURATION | LESSON OBJECTIVES<br>At the end of the lessons, pupils will be able to: | TIME PERIOD |
+|:---:|:---:|---|:---:|
+| Gosh! I Am Changing | What Is Happening To Me?<br>(30 min) | - know what puberty is<br>- identify the physical changes during puberty | Term 2 Week 5 |
+|  | What Can I Do?<br>(Part 1)<br>(30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 2 Week 5 |
+|  | What Can I Do?<br>(Part 2)<br>(30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 2 Week 5 |
+| Where I Belong | What Are Families?<br>(30 min) | - know that there are different types of family structures<br>- know that every family is unique<br>- state that the three basic functions of families are to provide love, protection and guidance<br>- identify the right sources of help to turn to when in need | Term 2 Week 8 |
+|  | What is My Role?<br>(30 min) | - know that gender is about being male or female<br>- choose not to stereotype by gender | Term 2 Week 8 |
+| How Do I Keep Myself Safe? | What is Safety?<br>(30 min) | - know what sexual abuse is<br>- know that there are laws in Singapore that can protect them from sexual abuse<br>- know their rights in keeping themselves safe from sexual abuse | Term 4 Week 3  |
+|  | Stop It! Run! Tell!<br>(30 min) | - protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm | Term 4 Week 3  |
+|
+
+##### **Primary 6**
+
+| UNIT | LESSONS/DURATION | LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |
+|:---:|:---:|---|:---:|
+| Are We More Than Friends? | Who Are My Friends?<br>(30 min) | - identify the qualities of a healthy friendship<br>- recognise the importance of making wise choices in friendship | Term 1 Week 8  |
+|  | Am I A Good Friend?<br>(30 min) | - identify the qualities that they have as a friend<br>- recognise the importance of developing in oneself the qualities of a good friend | Term 1 Week 8  |
+|  | What is Love?<br>(30 min) | - identify the characteristics of love and infatuation<br>- distinguish between the characteristics of love versus infatuation<br>- identify strong feelings arising from infatuation | Term 2 Week 4  |
+|  | Am I Falling In Love?<br>(30 min) | - manage strong feelings arising from infatuation<br>- identify ways to manage and cope with teasing from peers | Term 2 Week 4  |
+| Friends or Foes? | Are You Really My Friend?<br>(30 min) | - identify the pros and cons of forming relationships through social networking websites<br>- know ways to keep themselves safe when using social networking websites | Term 3 Week 3 |
+|  | Is It All Safe?<br>(30 min) | - know that some information (like pornography) received through the Internet may be harmful<br>- know ways to keep themselves safe when using social networking websites or the Internet | Term 3 Week 3 |
+|
+
+#### **Information for Parents**
+8\.  Parents may opt their children out of the Growing Years programme. ([Letter\_Opt Out Form](/files/letter%20opt%20out%20form.pdf))
+
+9\. Parents who wish to opt their children out of the **Growing Years programme** need to complete an opt-out form on hardcopy. Forms must be submitted to his/her respective C4RE teachers. Opt-out form will be make available nearer to the dates of the lessons. A notification will be sent to inform parents about the commencement of the programme via Parents Gateway.
+
+10\. Parents can contact the school at **6922 9113 (Mrs Joycelyn Lok)** for discussion or to seek clarification about the school’s sexuality education programme.
