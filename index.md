@@ -25,12 +25,6 @@ sections:
       description: Student Learning Space (SLS) login
       button: click here
       url: https://whitesandspri.moe.edu.sg/useful-links/student-learning-space-sls
-  - infobar:
-      title: Parent Support Group
-      subtitle: White Sands' Primary School
-      description: For more information
-      button: Click here
-      url: /white-sands-family/psg/
   - infopic:
       title: Join White Sands' Primary School PSG!
       subtitle: White Sands' Primary School
@@ -39,4 +33,10 @@ sections:
       url: https://tinyurl.com/PSGWSPSsignup
       image: /images/psgqr.png
       alt: Image alt text
+  - infobar:
+      title: Parent Support Group
+      subtitle: White Sands' Primary School
+      description: For more information
+      button: Click here
+      url: /white-sands-family/psg/
 ---
