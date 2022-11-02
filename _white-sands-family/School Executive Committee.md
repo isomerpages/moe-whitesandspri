@@ -20,7 +20,7 @@ description: ""
 </figure>
 
 <img src="/images/viceprincipal1.jpg" style="width:25%;margin-right:95px;" align = "right">
-<img src="/images/viceprincipal.jpg" style="width:23%;margin-right:180px;" align = "right">
+<img src="/images/viceprincipal.jpg" style="width:23%;margin-right:190px;" align = "right">
 
 <br clear="left"><br><br><br>
 <br clear="left"><br><br><br>
