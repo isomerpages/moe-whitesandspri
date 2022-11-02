@@ -20,6 +20,12 @@ sections:
           description: ""
           url: https://www.facebook.com/whitesandsprimaryschoolofficial/
   - infobar:
+      title: Student Learning Space
+      subtitle: White sands' Primary school
+      description: Student Learning Space (SLS) login
+      button: click here
+      url: https://whitesandspri.moe.edu.sg/useful-links/student-learning-space-sls
+  - infobar:
       title: Parent Support Group
       subtitle: White Sands' Primary School
       description: For more information
