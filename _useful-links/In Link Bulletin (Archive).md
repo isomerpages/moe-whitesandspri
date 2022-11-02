@@ -49,8 +49,8 @@ description: ""
 * [In Link for July 2019](/files/19bulletin6.pdf)
 * [In Link for August 2019](/files/19bulletin7.pdf)
 * [In Link for September 2019](/files/19bulletin8.pdf)
-* [In Link for October 2019](/files/19bulletin9.pdf)
-* [In Link for November 2019](/files/19bulletin10.pdf)
+* [In Link for October 2019](/files/19bulletin10.pdf)
+* [In Link for November 2019](/files/19bulletin11.pdf)
 
 #### **2018**
 * [In Link for January 2018](/files/18bulletin1.pdf)
