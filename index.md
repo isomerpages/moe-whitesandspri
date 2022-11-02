@@ -16,6 +16,9 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
+        - title: Contact Us
+          description: ""
+          url: /contact-us/
         - title: Facebook
           description: ""
           url: https://www.facebook.com/whitesandsprimaryschoolofficial/
