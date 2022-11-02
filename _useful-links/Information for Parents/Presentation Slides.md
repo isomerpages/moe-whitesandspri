@@ -21,20 +21,63 @@ third_nav_title: Information for Parents
 
 #### **P1 (2022) Care Teachers Orientation Slides**
 
+[Primary 1A]
+[Primary 1B]
+[Primary 1C]
+[Primary 1D]
+[Primary 1E]
+[Primary 1F]
 
 #### **2022 P1 SPECS Slides**
 
+[Primary 1A]
+[Primary 1B]
+[Primary 1C]
+[Primary 1D]
+[Primary 1E]
+[Primary 1F]
 
 #### **2022 P2 SPECS Slides**
 
+[Primary 2A]
+[Primary 2B]
+[Primary 2C]
+[Primary 2D]
+[Primary 2E]
+[Primary 2F]
 
 #### **2022 P3 SPECS Slides**
 
+[Primary 3A]
+[Primary 3B]
+[Primary 3C]
+[Primary 3D]
+[Primary 3E]
+[Primary 3F]
 
 #### **2022 P4 SPECS Slides**
 
+[Primary 4A]
+[Primary 4B]
+[Primary 4C]
+[Primary 4D]
+[Primary 4E]
+[Primary 4F]
 
 #### **2022 P5 SPECS Slides**
 
+[Primary 5A]
+[Primary 5B]
+[Primary 5C]
+[Primary 5D]
+[Primary 5E]
+[Primary 5F]
 
 #### **2022 P6 SPECS Slides**
+
+[Primary 6A]
+[Primary 6B]
+[Primary 6C]
+[Primary 6D]
+[Primary 6E]
+[Primary 6F]
