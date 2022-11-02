@@ -23,7 +23,7 @@ Through our meaningful activities and experiences, we hope to instil the schoolâ
 
 <br clear="left">
 
-<img src="/images/production5.jpg" style="width:40%;margin-right:55px;" align = "right">
-<img src="/images/production6.jpg" style="width:40%;margin-left:55px;" align = "left">
+<img src="/images/production6.jpg" style="width:40%;margin-right:55px;" align = "right">
+<img src="/images/production5.jpg" style="width:40%;margin-left:55px;" align = "left">
 
 <br clear="left">
