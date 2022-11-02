@@ -11,13 +11,13 @@ During CCA sessions, club members will learn to program their own interactive st
 
 The Infocomm students’ ICT curiosity are nurtured through various activities and participation in national-wide competition which incorporates social, family and school values. Students take part in a variety of Infocomm related competitions such as National Coding Competition (NCC) and National Primary Games Creation Competition (NPGCC).
 
-<img src="/images/computing1.jpg" style="width:40%;margin-right:55px;" align = "right">
-<img src="/images/computing2.jpg" style="width:40%;margin-left:55px;" align = "left">
+<img src="/images/computing2.jpg" style="width:40%;margin-right:55px;" align = "right">
+<img src="/images/computing1.jpg" style="width:40%;margin-left:55px;" align = "left">
 
 <br clear="left">
 
-<img src="/images/computing3.jpg" style="width:40%;margin-right:55px;" align = "right">
-<img src="/images/computing4.jpg" style="width:40%;margin-left:55px;" align = "left">
+<img src="/images/computing4.jpg" style="width:40%;margin-right:55px;" align = "right">
+<img src="/images/computing3.jpg" style="width:40%;margin-left:55px;" align = "left">
 
 <br clear="left">
 
