@@ -6,12 +6,12 @@ third_nav_title: Information for Parents
 ---
 ### **Information on ART Kits**
 #### **How to use the ART Kits in 4 Languages**
-1\. [MOE Letter to parents for ART Kit Distribution]
-2\. [Guidelines for Doing Antigen Rapid Test]
-3\. [How to use the ART Kit in English]
-4\. [How to use the ART Kit in Chinese]
-5\. [How to use the ART Kit in Malay]
-6\. [How to use the ART Kit in Tamil]
+1\. [MOE Letter to parents for ART Kit Distribution](/files/artkit1.pdf)<br>
+2\. [Guidelines for Doing Antigen Rapid Test](/files/artkit2.pdf)<br>
+3\. [How to use the ART Kit in English](/files/artkit3.pdf)<br>
+4\. [How to use the ART Kit in Chinese](/files/artkit4.pdf)<br>
+5\. [How to use the ART Kit in Malay](/files/artkit5.pdf)<br>
+6\. [How to use the ART Kit in Tamil](/files/artkit6.pdf)
 
 #### **Video Instructions**
 1\. [ART Buddy Video Instructions](https://artbuddy.healthpixel.co/)<br>
