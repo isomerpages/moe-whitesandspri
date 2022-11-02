@@ -2,5 +2,6 @@ collections:
   wsps:
     output: true
     order:
+      - Sitemap.md
       - Announcements.md
       - Privacy Statement.md
