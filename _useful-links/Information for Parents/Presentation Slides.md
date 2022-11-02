@@ -21,11 +21,11 @@ third_nav_title: Information for Parents
 
 #### **P1 (2022) Care Teachers Orientation Slides**
 
-[Primary 1A](/files/p1careteacher1.pdf)
-[Primary 1B](/files/p1careteacher2.pdf)
-[Primary 1C](/files/p1careteacher3.pdf)
-[Primary 1D](/files/p1careteacher4.pdf)
-[Primary 1E](/files/p1careteacher5.pdf)
+[Primary 1A](/files/p1careteacher1.pdf)<br>
+[Primary 1B](/files/p1careteacher2.pdf)<br>
+[Primary 1C](/files/p1careteacher3.pdf)<br>
+[Primary 1D](/files/p1careteacher4.pdf)<br>
+[Primary 1E](/files/p1careteacher5.pdf)<br>
 [Primary 1F](/files/p1careteacher6.pdf)
 
 #### **2022 P1 SPECS Slides**
