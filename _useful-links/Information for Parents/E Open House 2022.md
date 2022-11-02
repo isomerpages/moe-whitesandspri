@@ -15,6 +15,12 @@ For more information, feel free to explore the various pages of our school’s w
 
 #### **Our Principal's Address**
 
-
+**requires video to be uploaded to youtube**
 
 #### **E-Open House Video**
+
+**requires video to be uploaded to youtube**
+
+Thank you for exploring our E-Open House 2022.
+
+We look forward to you and your child joining us in White Sands Primary School next year!
