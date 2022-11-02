@@ -69,3 +69,17 @@ We would love to hear your stories of how you foster positive relationships at h
 
 **require image to be provided**
 
+[Annex1_EDM on the topic of Coping with Anxiety.pdf](/files/copingwithanxiety.pdf)
+
+Thank you
+
+_Your partner-in-education,_  
+
+_Ms Audrey Wong_<br>
+_Principal_
+
+_School Motto – Learn Grow Excel Together_
+
+_School Values – Care, Respect, Responsibility, Resilience, Rallying together, Excellence (C4RE)_
+
+Click [here](https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulleting-archive/) for the downloadable version of the current and past issues of the In-Link Bulletin.
