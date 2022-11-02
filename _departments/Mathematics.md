@@ -21,8 +21,8 @@ ICAN (Improvement in Confidence and Achievement in Numeracy) is a learning suppo
 *   Creative Maths - Primary 1 to Primary 3
 *   Sudoku - Primary 1 to Primary 6
 
-<img src="/images/math1.jpeg" style="width:49%" align=left>
-<img src="/images/math2.jpg" style="width:49%" align=right>
+<img src="/images/math1.jpeg" style="width:40%;margin-right:55px;" align = "right">
+<img src="/images/math2.jpg" style="width:40%;margin-left:55px;" align = "left">
 
 <br clear="left">
 
