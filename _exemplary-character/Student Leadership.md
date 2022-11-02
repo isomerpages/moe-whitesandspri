@@ -42,4 +42,3 @@ Various platforms are provided for Prefects to display and hone their leadership
 
 ##### **Appreciation and Recognition**
 An appreciation party will be held in Term 4 to celebrate the successes and milestones achieved for the year. This also serves as a platform for the school to recognise the contribution of the prefects.
-
