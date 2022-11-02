@@ -6,6 +6,7 @@ third_nav_title: Information for Parents
 ---
 ### **E-Open House 2022**
 
+<img src="/images/eopenhouse.png" style="width:65%">
 
 Dear Parents/Guardians,
 
