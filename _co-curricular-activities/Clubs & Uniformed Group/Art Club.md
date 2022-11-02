@@ -11,8 +11,8 @@ The club has always aimed to encourage students to think creatively, critically 
 
 Our members have consistently produced artworks of quality. Our most recent piece, an interactive artwork entitled ‘Communal Art’; conceptualised, curated and created by our P5 and P6 members and inspired by 2 different artists and art forms, was selected for extended display at the Lobby of MOE HQ in Buona Vista.
 
-<img src="/images/art1.jpg" style="width:40%;margin-right:55px;" align = "right">
-<img src="/images/art2.jpg" style="width:40%;margin-left:55px;" align = "left">
+<img src="/images/art2.jpg" style="width:40%;margin-right:55px;" align = "right">
+<img src="/images/art1.jpg" style="width:40%;margin-left:55px;" align = "left">
 
 <br clear="left">
 
