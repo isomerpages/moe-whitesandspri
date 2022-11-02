@@ -1,0 +1,4 @@
+collections:
+  wsps:
+    output: true
+    order: []
