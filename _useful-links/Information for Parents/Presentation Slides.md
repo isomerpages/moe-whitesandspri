@@ -7,11 +7,11 @@ third_nav_title: Information for Parents
 ### **Presentation Slides**
 #### **Parents Networking Workshop (15 July 2022)**
 
-[Presentation slides from the session (password protected)](https://whitesandspri.moe.edu.sg/qql/slot/u509/Parents/Information%20for%20Parents/2022/Parents%20Networking%20Workshop%2015%20July%202022.pdf)
+[Presentation slides from the session (password protected)](/files/Parents%20Networking%20Workshop%2015%20July%202022.pdf)
 
 #### **Parents Networking Workshop (18 April 2022)**
 
-[Presentation slides from the session (password protected)](https://whitesandspri.moe.edu.sg/qql/slot/u509/2022/Presentation%20slides/18%20April%20Parents%20Networking%20Workshop/2022%20Parents%20Networking%20Workshop%20Session%201-18%20Apr%202022.pdf)
+[Presentation slides from the session (password protected)](/files/2022%20Parents%20Networking%20Workshop%20Session%201-18%20Apr%202022.pdf)
 
 #### **Videos from 2022 P6 Parents Engagement Session**
 
