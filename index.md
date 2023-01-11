@@ -11,17 +11,14 @@ sections:
       background: /images/Backdrop.png
       key_highlights:
         - title: Announcements
-          description: ""
+          description: Important Updates For Pri 1-6
           url: /announcements/
         - title: Useful Links
-          description: ""
+          description: Parents & Pupils
           url: /useful-links/
-        - title: Contact Us
-          description: ""
+        - title: DISTINCTIVE PROGRAMMES
+          description: LLP & ALP
           url: /contact-us/
-        - title: Facebook
-          description: ""
-          url: https://www.facebook.com/whitesandsprimaryschoolofficial/
   - infobar:
       title: Student Learning Space
       subtitle: White sands' Primary school
