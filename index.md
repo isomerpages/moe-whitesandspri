@@ -19,23 +19,15 @@ sections:
         - title: DISTINCTIVE PROGRAMMES
           description: LLP & ALP
           url: /distinctive-programmes/
-  - infopic:
+  - infobar:
       title: Calendar of Events
       description: School Events & Activities
-      button: Click here
+      button: Click Here
       url: https://www.facebook.com/whitesandsprimaryschoolofficial/
-      image: /images/wsps qr code.png
-      alt: Image alt text
   - infobar:
       title: WSPS Facebook
       description: Like our Facebook page to keep updated of the latest happenings in
         school!
       button: Click here
       url: https://www.facebook.com/whitesandsprimaryschoolofficial/
-  - infopic:
-      title: Calendar of Events
-      description: School Events & Activities
-      button: Button Text
-      url: https://www.facebook.com/whitesandsprimaryschoolofficial/
-      alt: Image alt text
 ---
