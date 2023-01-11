@@ -19,12 +19,6 @@ sections:
         - title: DISTINCTIVE PROGRAMMES
           description: LLP & ALP
           url: /distinctive-programmes/
-  - infobar:
-      title: Student Learning Space
-      subtitle: White sands' Primary school
-      description: Student Learning Space (SLS) login
-      button: click here
-      url: https://whitesandspri.moe.edu.sg/useful-links/student-learning-space-sls
   - infopic:
       title: Calendar of Events
       description: School Events & Activities
@@ -38,4 +32,10 @@ sections:
         school!
       button: Click here
       url: https://www.facebook.com/whitesandsprimaryschoolofficial/
+  - infobar:
+      title: Student Learning Space
+      subtitle: White sands' Primary school
+      description: Student Learning Space (SLS) login
+      button: click here
+      url: https://whitesandspri.moe.edu.sg/useful-links/student-learning-space-sls
 ---
