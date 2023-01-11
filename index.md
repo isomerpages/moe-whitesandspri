@@ -32,9 +32,4 @@ sections:
         school!
       button: Click here
       url: https://www.facebook.com/whitesandsprimaryschoolofficial/
-  - infobar:
-      title: Empty
-      description: Empty empty
-      button: click here
-      url: https://whitesandspri.moe.edu.sg/useful-links/student-learning-space-sls
 ---
