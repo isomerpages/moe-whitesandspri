@@ -18,7 +18,7 @@ sections:
           url: /useful-links/
         - title: DISTINCTIVE PROGRAMMES
           description: LLP & ALP
-          url: /distinctive-programmes/
+          url: /distinctive-programmes/llp
   - infobar:
       title: Calendar of Events
       description: School Events & Activities
