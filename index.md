@@ -32,4 +32,10 @@ sections:
         school!
       button: Click here
       url: https://www.facebook.com/whitesandsprimaryschoolofficial/
+  - infopic:
+      title: Calendar of Events
+      description: School Events & Activities
+      button: Button Text
+      url: https://www.facebook.com/whitesandsprimaryschoolofficial/
+      alt: Image alt text
 ---
