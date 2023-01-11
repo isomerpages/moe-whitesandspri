@@ -18,7 +18,7 @@ sections:
           url: /useful-links/
         - title: DISTINCTIVE PROGRAMMES
           description: LLP & ALP
-          url: /contact-us/
+          url: /distinctive-programmes/
   - infobar:
       title: Student Learning Space
       subtitle: White sands' Primary school
