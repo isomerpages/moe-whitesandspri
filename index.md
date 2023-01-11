@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: White Sands Primary School
-      background: /images/hero-banner.png
+      background: /images/Backdrop.png
       key_highlights:
         - title: Announcements
           description: ""
