@@ -2,7 +2,6 @@ collections:
   about-wsps:
     output: true
     order:
-      - Contact Us.md
       - Our History.md
       - School Crest and Motto.md
       - Vision, Mission and Values.md
@@ -10,3 +9,4 @@ collections:
       - Vice Principal's Message.md
       - School Hours and School Terms.md
       - School Rules and Regulations.md
+      - Contact Us.md
