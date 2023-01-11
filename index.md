@@ -29,17 +29,16 @@ sections:
       button: click here
       url: https://whitesandspri.moe.edu.sg/useful-links/student-learning-space-sls
   - infopic:
-      title: Join White Sands' Primary School PSG!
-      subtitle: White Sands' Primary School
-      description: Interested to join us?
+      title: Calendar of Events
+      description: School Events & Activities
       button: Click here
-      url: https://tinyurl.com/PSGWSPSsignup
-      image: /images/psgqr.png
+      url: https://www.facebook.com/whitesandsprimaryschoolofficial/
+      image: /images/wsps qr code.png
       alt: Image alt text
   - infobar:
-      title: Parent Support Group
-      subtitle: White Sands' Primary School
-      description: For more information
+      title: WSPS Facebook
+      description: Like our Facebook page to keep updated of the latest happenings in
+        school!
       button: Click here
-      url: /white-sands-family/psg/
+      url: https://www.facebook.com/whitesandsprimaryschoolofficial/
 ---
