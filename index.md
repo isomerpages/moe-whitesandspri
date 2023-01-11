@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: White Sands Primary School
-      background: /images/Backdrop.png
+      background: /images/backdrop 2.png
       key_highlights:
         - title: Announcements
           description: Important Updates For Pri 1-6
