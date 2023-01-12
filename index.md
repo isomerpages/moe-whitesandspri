@@ -24,12 +24,6 @@ sections:
       description: School Events & Activities
       button: Click Here
       url: https://www.facebook.com/whitesandsprimaryschoolofficial/
-  - infobar:
-      title: WSPS Facebook
-      description: Like our Facebook page to keep updated of the latest happenings in
-        school!
-      button: Click here
-      url: https://www.facebook.com/whitesandsprimaryschoolofficial/
   - infopic:
       title: WSPS Facebook
       description: Like our Facebook page to keep updated of the latest happenings in
