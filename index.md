@@ -36,5 +36,6 @@ sections:
         school!
       button: Click here
       url: https://www.facebook.com/whitesandsprimaryschoolofficial/
-      alt: Image alt text
+      alt: " "
+      image: /images/WSPS Facebook Photo.png
 ---
