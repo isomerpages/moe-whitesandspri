@@ -10,7 +10,7 @@ description: ""
 	</strong></figcaption>
 </figure>
 
-| <img src="/images/princpal.jpg" style="width:25%"> |
+| <img src="/images/P2023.png" style="width:25%"> |
 |:---:|
 | **Ms Audrey Wong** |
 
@@ -19,8 +19,8 @@ description: ""
 	</strong></figcaption>
 </figure>
 
-<img src="/images/viceprincipal1.jpg" style="width:25%;margin-right:95px;" align = "right">
-<img src="/images/viceprincipal.jpg" style="width:23%;margin-right:190px;" align = "right">
+<img src="/images/VP2023.png" style="width:25%;margin-right:95px;" align = "right">
+<img src="/images/VPA2023.png" style="width:23%;margin-right:190px;" align = "right">
 
 <br clear="left"><br><br><br>
 <br clear="left"><br><br><br>
