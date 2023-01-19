@@ -5,42 +5,47 @@ description: ""
 ---
 ### **Vice-Principals' Message**
 
-<img src="/images/viceprincipal.jpg" style="width:30%;margin-right:15px;" align = "left">As the saying goes, “The struggles that we face today is developing the strength we need for tomorrow.” Hence as we usher in the New Year 2022, let us stay positive and optimistic that the lessons and skills we learnt and acquired will position us well for the next trajectory of growth.
+<img src="/images/VP2023.png" style="width:30%;margin-right:15px;" align = "left">  
+Aristotle once said, “Educating the mind without educating the heart is no education at all.” As we continued to live with Covid-19 since last year, it is indeed heartening to observe how our students and staff have continued to embrace these challenges with confidence, steadfastness and fortitude. As we eased Safe Management Measures in the later part of last year, it was heartwarming to know how engaged and exhilarated the students were as they embarked on Learning Journeys and face to face interactions during key school events such as Heartshine, Teachers’ Day and the year-end ‘Celebration of Excellence’ during both Little Achievers Day and Big Champs Day for the annual prize-giving. I am proud that our staff and students had adapted well and seized these opportunities to the best of their ability.
 
-I am proud that as a school and a nation, we have kept learning going for our students.  I am also glad that we have stood shoulder to shoulder with our parents and stakeholders in these trying circumstances. Thank you very much for your strong and unwavering support and belief in us!
+  
 
-While Covid-19 has thrown us some challenges, we have worked around them to endeavour to make learning fun. Since last year, White Sands Primary has embarked on Play Pedagogy as a teaching approach to make learning more meaningful and customized for our students. As a result, learning is more differentiated, meaningful and inclusive.
+White Sandians continued to be enthused in diverse school programmes and activities including our distinctive programmes for ALP in the area of Coding and Computational Thinking as well as HeARTs (Heritage Arts) Showcase for LLP across the various levels. For ALP, the P2s learnt to be creative problem solvers with computational thinking skills as they created digital animations while the P4s created prototypes for smart home living using applications such as Micro:bit and Makecode. For LLP at P3, the students underwent Chinese Hand Brush Painting as we exposed them to Chinese Heritage Art form. As they indulged in painting bamboos and pandas using Chinese brush painting strokes on rice paper, they learnt about the history and culture as well as the discipline and values that come along with it.
 
-This year, our Applied Learning Programme (ALP) in Coding and Computational Thinking will be extended to four levels of Primary 2, 3, 4 and 6 students where we will develop in them the digital readiness and creativity using tech tools such as Scratch 3.0 and Micro:bits. Besides nurturing White Sandians to be creative problem solvers with computational thinking skills, we also aim to develop our students in the 21st CC skills.
+  
 
-Through these exciting programmes, we hope our students will be socially adept in forging new friendships, able to communicate well with one another and adjust to the ever changing environment. Indeed, these are essentially the social emotional learning competencies and skills that would enable them to navigate in an increasingly VUCA (Volatile, Uncertain, Complex, Ambiguous) environment.
+With the resumption of National School Games, many of our student athletes from CCAs such as Football (Boys and Girls), Netball, Table tennis, Wushu and Swimming teams represented the school in various games and competitions. The performing arts CCAs namely Choir, Guzheng, Chinese Dance, Malay Dance and Modern Dance were also represented in the Singapore Youth Festival (SYF) in 2022. They all did the school proud with their various success stories as they competed and participated actively. Both the Environmental Science Club members and Cyberwellness Ambassadors had several outreach opportunities last year as well. In line with the SG Green Plan, members of the Environmental Science Club spread awareness about food wastage and its impact on the environment via posters displayed at Pasir Ris Central Hawker Centre to serve as a reminder to the public to play their part. The Cyberwellness Ambassadors encouraged members of the public to be more cyber savvy via a display at the entrance of Pasir Ris Public Library. They promoted themes on Cyber Safety to encourage the community to be safe and responsible users online.
 
-While we are not out of the woods yet where Covid-19 is concerned, we are confident that with the strong support of our SAC members, parents and teachers, we would be able to make the White Sandian experience a joyful one.
+  
 
-Together, we will learn, grow and excel together.
+Our teachers strived to continue to provide a holistic education to all students through innovative ways of organizing school experiences. Based on the theme of ‘Exploring the Outdoors’, the P4 students explored outdoor cooking, learnt basic navigation skills and designed mini rafts. The campers acquired decision making and collaborative skills during the camp. The P5 camp, which was centred on the theme of ‘I am a Resilient Camper’, provided opportunities for our P5 students to rally together by forging friendships and demonstrating resilience during coastal exploration and place-based activities. Apart from cohort camps, an X-Factor Leadership Camp was also organized specially for the P3 to P5 Students Leaders to sharpen their leadership potential and skills through several team building activities.
+
+  
+
+In White Sands, we will continue to promote Positive Education via the ‘GROW With Me’ journey as we cultivate a growth mindset in every student. In order to develop the knowledge, skills and values of consistently putting in their best, the Resilient Achievers Programme (RAP) and Responsible Achievers Programme (ReAP) for the Upper and Middle Primary will be strengthened. We will also be embarking on the Caring Achievers Programme (CAP) for the Lower Primary this year via a myriad of skills to be acquired.
+
+Moving forward in 2023, we will forge together to realise our school vision of Every White Sandian, A Success Story through a forward-looking balanced and holistic education, a vibrant learning community with a caring culture, continuous staff professional development and close collaboration with our parents, stakeholders and partners.
+
+We will learn, grow and excel together.
 
 _Your partner-in-education_
 
-Mrs Evelyn Tay<br>
-Vice Principal<br>
+Ms Rezina Khan<br>
+Vice-Principal<br>
 White Sands Primary School
 
-<img src="/images/viceprincipal1.jpg" style="width:30%;margin-right:15px;" align = "left">Anatole France once said, “Nine tenths of education is encouragement.” As we grappled with yet another year of Covid-19 pandemic in 2021, we all had to react to the evolving situation constantly. We had to implement Safe Management Measures and adjust school programmes in order to ensure the safety and wellbeing of all students and staff. The focus was on ensuring effective learning and curriculum continuity as well as working with and gaining the trust of parents to overcome the various challenges. I am proud that our staff and students had risen to the occasion and adapted to the situation very well.
+<img src="/images/VPA2023.png" style="width:30%;margin-right:15px;" align = "left">It is my privilege join the White Sands family as the Vice-Principal (Administration). My years as the Administration Manager in the school will enable me to ease into my role better and serve in a new way. I do hope to continue to work closely with our parents and partners to develop our White Sandians holistically.
 
-I am also heartened to see the various instructional programmes which went on smoothly with various ways of teaching and learning despite the challenges. There was a plethora of activities to enthuse the students during Reading Week as teachers and students participated in literary activities. The Reading Rocks initiative by both the English Language and Mother Tongue Language Departments took centrestage as students immersed themselves in various storybook adventures! White Sandians also engaged themselves in authentic multicultural learning opportunities to experience the rich and diverse cultures during the annual Mother Tongue Languages Fortnight.
+In White Sands, we value all White Sandians and aim to nurture them to passionate learners with exemplary character who lead with a heart and contribute to the society.  Our teachers and the school administration and operations team work closely together to provide a conducive school environment with enriching experiences for our White Sandians to learn, grow and excel.
 
-Our teachers strived to continue to provide a holistic education to all students through innovative ways of organising school programmes and activities. Our Primary 5 students embarked on a series of team-building and outdoor challenges during their camp experience. Based on the theme of ‘Resilience through Adversity’, the students learnt to build resilience, confidence and camaraderie amongst themselves. Our P4 students also had the opportunity to learn new skills and there was much excitement as students indulged in robust activities. Such experiences provided students with the opportunity to gain both self and social awareness, build teamwork, resilience and leadership to accomplish challenging tasks. Our CCAs had also managed to offer e-CCA to the students in various forms and the feedback from both teachers and students was very encouraging. The inculcation of values and SEL competencies were evident throughout these experiences. 
+The past three years of battling to live with the Covid-19 pandemic has not been easy. Guided by our school values and with the strong support of their families, our White Sandians have sailed through these challenging times. They did so by caring and respecting each other, taking up the responsibility when they needed to, showing resilience and rallying together in the trying times and eventually pave their way through with excellence. I am proud of how they have grown and build their success stories!
 
-In White Sands, we also strive to promote Positive Education by inculcating the Growth Mindset amongst our students. In order to nurture self-confident students who learn for life, we had introduced Growth Mindset with 4 sub themes- Positive Language, Power of Yet, SMART Goals and Gratitude. White Sandians began their 'GROW with me' journey with our very own Care Squad and Professor Brainy as icons that personify Growth Mindset. We fervently hope to continue to strengthen and deepen our P5 and 6 student’s acquisition of skills and knowledge through the ‘Resilient Achievers Programme’ (RAP) and introduce the P3 and P4 students to the ‘Responsible Achievers Programme’ (ReAP) this year via a myriad of initiatives.
+As we look embarked into the new year, we will continue to leverage on our positive school-home-community partnership to search for possibilities and opportunities to enhance the overall White Sands experience for everyone.
 
-We will continue with our best efforts to provide a quality education and school experience for all our White Sandians. We will forge ahead to realise our school vision of every White Sandian a Success Story through a forward-looking balanced and holistic education, a vibrant learning community with a caring culture, close collaborations with our parents, stakeholders and partners and continuous staff professional development.
-
-Moving forward in 2022, while we continue to be vigilant against Covid-19 and observe safe management measures, we will equip students with stronger sense of values, resilience and skills with greater emphasis on mental health and peer support as well as cultivate a growth mindset in every White Sandian. With optimism, let us look forward to a good year ahead and embrace all the challenges with confidence, steadfastness and fortitude.
-
-Together, we will learn, grow and excel together.
+We will learn, grow and excel together.
 
 _Your partner-in-education,_
 
-Ms Rezina Khan<br>
-Vice Principal<br>
+Ms Lina Tiong<br>
+Vice-Principal (Administration)<br>
 White Sands Primary School
