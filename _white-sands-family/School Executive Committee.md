@@ -27,7 +27,7 @@ description: ""
 
 | | |
 |:---:|:---:|
-| **Mrs Evelyn Tay** | **Ms Rezina Khan** |
+| **Ms Lina Tiong** | **Ms Rezina Khan** |
 
 #### **Key Personnel - Heads of Departments**
 
