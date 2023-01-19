@@ -44,12 +44,12 @@ description: ""
 
 |  |  |  |  |
 |---|---|---|---|
-| **4A** | Mr Chong Thiam Hock | Ms Charlene Yeong Min |  |
-| **4B** | Ms Helen  | Ms Gunita | Mr Alvin Tan |
-| **4C** | Ms L T Melwani | Ms Maybelline Chan |  |
-| **4D** | Ms May Soh | Mdm Shi Haixia | Mr Ismail Bin Kasim |
-| **4E** | Mdm Zainab Bte Abdullah | Mr Mohd Raizi | Mr Bryan Foo |
-| **4F** | Mr Sim Joo Sen Jason | Ms Parimala | Mrs Low Chiew Chuet |
+| **4A** | Mdm Wang Jingbo | Ms May Soh |  |
+| **4B** | Mrs Tham-Wong Lin Yen  | Mr Asraf | Mr Mohd Razlee |
+| **4C** | Ms Nurfarahin B Salleh Udin | Mr Alvin Tan | Mdm Goo Lay Hoon |
+| **4D** | Mdm Anisah | Mr Ravichanthiran | Mr Liew Guan Jie |
+| **4E** | Mdm Maznah Bte Ismail | Ms Nur Adilah | Mr Bryan Foo |
+| **4F** | Mr Chong Thiam Hock | Ms Nurin |  |
 |
 
 #### **Primary 5**
