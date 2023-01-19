@@ -34,7 +34,7 @@ description: ""
 | **Operations Support Officer** | Mdm Zainah Bte Salleh |
 | **Library Assistant** | Mdm Rohaidah Bte Hassan |
 | **ICT Associate** | Mr Mohamed Fadzli Bin Anwar |
-| **Information Communication Technology (ICT) Trainer** | Mr Josiah Siah |
+| **ICT Manager** | Mr Nur Salim |
 | **Desktop Engineer** | Mr Norman Poh |
 | **Desktop Engineer** | Mr Enson Pang |
 | **Administrative Assistant** | Mdm Azlina Bte Sumri |
