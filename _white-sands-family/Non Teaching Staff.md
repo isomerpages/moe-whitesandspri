@@ -20,7 +20,7 @@ description: ""
 
 |  |  |
 |:---:|:---:|
-| **Administrative Manager** | Miss Tiong Lina |
+| **Administrative Manager** | - |
 | **Operations Manager** | Mr Tay Eng Foo Roy |
 | **Operations Manager** | Mr Tan Tong Mou |
 | **Corporate Support Officer** | Miss Liu Choy San Shirley |
