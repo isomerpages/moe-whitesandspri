@@ -4,8 +4,6 @@ links:
     collection: about-wsps
   - title: White Sands' Family
     collection: white-sands-family
-  - title: Distinctive Programmes
-    collection: distinctive-programmes
   - title: Passionate Learners
     url: /passionate-learners/departments/english/
     sublinks:
@@ -15,5 +13,3 @@ links:
         url: /passionate-learners/cca/
   - title: Exemplary Character
     collection: exemplary-character
-  - title: Useful Links
-    collection: useful-links
