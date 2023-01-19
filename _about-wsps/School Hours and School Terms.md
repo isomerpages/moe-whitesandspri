@@ -8,8 +8,9 @@ description: ""
 
 | Day | Time |
 |:---:|:---:|
-| Monday to Thursday | 7.45 am to 1.30 pm  |
-| Friday | 7.45 am to 1.15 pm |
+|  Monday, Tuesday, Thursday, Friday | 7.45 am to 1.30 pm  |
+| Wednesday | 7.45am to 1.15pm (P1 and P2)  
+ 7.45am to 2.15pm (P3 to P6) |
 |
 
 #### **School Curriculum Hours**
@@ -24,7 +25,7 @@ The table below shows the tentative schedule of planned after-curriculum activit
 | Friday | HMT Lessons for selected pupils |
 |
 
-\*Parents will be informed of the schedule at the beginning of Year 2022.
+\*Parents will be informed of the schedule at the beginning of Year 2023.
 
 ##### **Daily Assembly and punctuality**
 The flag-raising ceremony begins at 7.30 a.m. Hence, all pupils are to be present in the hall/classroom for the ceremony. **Pupils who are not present for the flag-raising ceremony in the hall/classroom will be considered as late for school.**
@@ -37,8 +38,8 @@ The timings for recess and snack break timings are as follows:
 |  P6 | 8.45 am - 9.15 am | 12.05 p.m |
 | P1 | 9.15 am - 9.45 am  |  12.05 p.m |
 | P2 | 9.45 am - 10.15 am |  12.05 p.m  |
-| P5 | 10.15 am - 10.45 am |   8.35 a.m |
-|  P4  | 10.45 am - 11.15 am  |   8.35 a.m |
+| P4 | 10.15 am - 10.45 am |   8.35 a.m |
+|  P5  | 10.45 am - 11.15 am  |   8.35 a.m |
 | P3 | 11.15 am - 11.45 am  |   8.35 a.m  |
 |
 
