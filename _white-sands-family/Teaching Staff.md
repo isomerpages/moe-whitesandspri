@@ -20,12 +20,12 @@ description: ""
 
 |  |  |  |  |
 |---|---|---|---|
-| **2A** | Mdm Ng Hui Wen | Mdm Roza Bte Rahman |  |
-| **2B** | Ms Lim Hui Ling | Mdm Seah Huixin | Mdm Erica Cheah |
-| **2C** | Mdm Wong Hui Bing | Mdm Jembu Krishnamurthy Nalini |  |
-| **2D** | Mdm Suzanah Bte Taib | Miss Ng Hui Yin |  |
-| **2E** | Mdm Nor Azimah | Miss Lee Yuan Shan |  |
-| **2F** | Ms Cheryl Chern | Mdm Siti Alawiah Bte Jaffar |  |
+| **2A** | Mrs Loh-Tan Kim Choo | Ms Brenda Ng |  |
+| **2B** | Mdm Marsita Bte Selamat | Mdm See Swee Tee | Mdm Naziathul |
+| **2C** | Mdm Zubaidah | Mdm Seah Huixin  | Mdm Qiu Suguan |
+| **2D** | Mrs Jean Wong | Mdm Garmit |  |
+| **2E** | Mrs Gurung | Ms Poh Hui Qin | Mdm Noor Rita  |
+| **2F** | Mdm Syariana Idrus | Mdm Amy Ong |  |
 |
 
 #### **Primary 3**
