@@ -56,12 +56,12 @@ description: ""
 
 |  |  |  |  |
 |---|---|---|---|
-| **5A** | Ms Eve Tan Jia Ee | Mdm Nur Diana | Mrs Susan Tan |
-| **5B** | Mrs Ho-Yap Yuh Kian | Mr Teo Yizuo | Mrs Joycelyn Lok |
-| **5C** | Mrs Teo-Sim Hwee Khoon | Mdm Fatimah M T |  |
-| **5D** | Mdm Nadera Bawany | Mdm Amy Ong | Mrs Beverly Peh |
-| **5E** | Mdm Norhayati | Mdm Nadia Hezryn Bte Osman |  |
-| **5F** | Mr Mazlan Bin Hussein | Mr Mohd Jamaluddin Affandi | Mrs Droze |
+| **5A** | Miss Khadijah Bte Aron | Ms Kathryn Kan |  |
+| **5B** | Mr Shahrunizam | Ms Parimala | Ms Lim Hui Yuen |
+| **5C** | Mdm Hirda | Mr Mohd Raizi |  |
+| **5D** | Mdm Vasathakumari | Mdm Fatimah S | Ms Joyce Soon |
+| **5E** | Mdm Jacqueline Bay | Mr Tan Yew Wee |  |
+| **5F** | Mr Mohd Faisal | Mdm Nur Diana |  |
 |
 
 #### **Primary 6**
