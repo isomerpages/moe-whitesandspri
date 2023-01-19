@@ -48,14 +48,15 @@ description: ""
 
 |  |  |
 |:---:|:---:|
-| Mathematics | Mrs Daphne Seah |
+| English | Ms Wan Nurin Zahian |
+| Mathematics (Internal) | Mrs Daphne Seah |
 | Chinese Language | Mdm Seah Huixin |
 | Malay/ Tamil Language | Mr Ismail |
 | Information Communication Technology | Mr Liew Guan Jie |
 | Applied Learning Programme | Ms Ng Hui Yin |
 | Co-Curricular | Mr Foo Chun Kiat Bryan |
 | Aesthetics | Mdm Roza |
-| Student Well-being | Mr Mohd Razlee |
+| Student Well-being | Mr Asraf S/O Salavan |
 | Student Leadership (Internal) | Mdm Amy Ong |
 |
 
@@ -63,15 +64,15 @@ description: ""
 
 |  |  |
 |:---:|:---:|
-| Primary 6 Year Head | Mr Wong Yexiang |
-| Primary 5 AYH (Internal) | Ms Eve Tan |
-| Primary 4 AYH (Internal) | Ms Gunita |
-| Primary 3 AYH (Covering)  | Mr Mohd Razlee  |
-| Primary 2 Year Head | Mdm Erica Cheah |
+| Primary 5 & 6 Year Head | Mr Wong Yexiang |
+| Primary 5 AYH (Internal) | Mdm Diana |
+| Primary 4 AYH (Internal) | Ms Cheryl Chern |
+| Primary 3 & 4 AYH (Covering)  | Mr Mohd Razlee  |
+| Primary 1 & 2 Year Head | Mdm Erica Cheah |
 | Primary 1 AYH (Internal) | Mrs Carine Ong |
 | Senior Teacher (Lower Primary) | Mdm Naziathul |
 | Senior Teacher (English Language) | Mr Amos Sim |
-| Senior Teacher (Malay Language) | Mdm Rab'iah |
+| Senior Teacher (Art) | Mr Mohd Raizi |
 | Lead Teacher (Science) | Mrs Linda Chan |
 | Lead Teacher (Mathematics) | Ms Beverly Peh |
 |
