@@ -68,13 +68,13 @@ description: ""
 
 |  |  |  |  |
 |---|---|---|---|
-| **6A** | Ms Chua Xiao Ying | Mr Jiang Yang |  |
-| **6B** | Mdm Vasathakumari | Mdm Rab'iah Bte Rahmat | Mr Wong Yexiang |
-| **6C** | Ms Hariza | Mr Amos Sim |  |
-| **6D** | Ms Jean Tham | Miss Khadijah Bte Aron | Mrs Linda Chan |
-| **6E** | Ms Kathryn Kan | Mdm Fatimah S | Ms Joyce Soon |
-| **6F** | Mdm Jacqueline Bay | Mdm Shahira Bte Daud |  |
-| **6G** | Mr Shahrunizam | Mr Mohd Faisal |  Ms Lim Hui Yuen |
+| **6A** | Mrs Susan Tan | Mr Ismail Bin Kasim | Mr Gary Peh  |
+| **6B** | Mrs Ho-Yap Yuh Kian | Mr Amos Sim | Mr Wong Yexiang |
+| **6C** | Mrs Teo-Sim Hwee Khoon | Mdm Fatimah M T | Ms Jean Tham |
+| **6D** | Mdm Nadera Bawany | Mrs Beverly Peh |  |
+| **6E** | Mdm Nadia | Mrs Joycelyn Lok | Mdm Shahira Bte Daud |
+| **6F** | Mr Mazlan Bin Hussein | Mr Mohd Jamaluddin Affandi | Mrs Droze  |
+|  |  |  |   |
 |
 
 #### **Teachers**
@@ -82,7 +82,7 @@ description: ""
 |  |  |  |
 |---|---|---|
 | Mrs Carine Ong | Mrs Mak Pui See, Nicole | Miss Leong Yin Leng |
-| Mr Aaron Yeo | Mdm Ang Whee Chin (Mrs Goh) | Mrs Goh Bee Chew |
-| Mrs Lee Puay Hoon | Mr Ian Kwok Jien Chi | Mdm Farahdilla Bte Ariffin |
-| Mdm Rohana Bte Ibrahim |   |   |
+| Mr Aaron Yeo | Mdm Dira Murshida | Mrs Goh Bee Chew |
+| Mrs Lee Puay Hoon | Mdm Hafiza Bte Admad | Mrs Kalpena Gangadaran |
+| Mdm Farahdilla Bte Ariffin |   |   |
 |
