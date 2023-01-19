@@ -32,12 +32,12 @@ description: ""
 
 |  |  |  |  |
 |---|---|---|---|
-| **3A** | Mr Michael Chang Chee Kong | Mdm Wang Jingbo |  |
-| **3B** | Mrs Tham-Wong Lin Yen | Ms Emmeline Ong | Mr Mohd Razlee |
-| **3C** | Ms Nurfarahin B Salleh Udin | Mr Gary Peh |  |
-| **3D** | Mdm Anisah | Mr Ravichanthiran | Mr Liew Guan Jie |
-| **3E** | Mdm Maznah Bte Ismail | Ms Nur Adilah |  |
-| **3F** | Mdm Mazida Bte Mohd Noor | Mrs Chon A K |  |
+| **3A** | Mdm Shi Haixia | Ms Hariza | Ms Gunita  |
+| **3B** | Mr Michael Chang Chee Kong | Ms Cheryl Chern |  |
+| **3C** | Mdm Norhayati | Mr Jiang Yang |  |
+| **3D** | Ms Maybelline Chan | Mrs Linda Chan | Ms Emmeline Ong |
+| **3E** | Mr Sim Joo Sen Jason | Mrs Droze | Ms Charlene Yeong Min  |
+| **3F** | Mdm Zainab Bte Abdullah | Miss Ng Hui Yin |  |
 |
 
 #### **Primary 4**
