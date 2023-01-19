@@ -9,8 +9,7 @@ description: ""
 | Day | Time |
 |:---:|:---:|
 |  Monday, Tuesday, Thursday, Friday | 7.45 am to 1.30 pm  |
-| Wednesday | 7.45am to 1.15pm (P1 and P2)  
- 7.45am to 2.15pm (P3 to P6) |
+| Wednesday | 7.45am to 1.15pm (P1 and P2)     7.45am to 2.15pm (P3 to P6) |
 |
 
 #### **School Curriculum Hours**
