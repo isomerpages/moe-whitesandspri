@@ -8,12 +8,12 @@ description: ""
 
 |  |  |  |  |
 |---|---|---|---|
-| **1A** | Mrs Loh-Tan Kim Choo | Ms Brenda Ng |  |
-| **1B** | Mdm Naziathul | Mdm See Swee Tee | Mdm Marsita Bte Selamat |
-| **1C** | Mdm Zubaidah | Mdm Qiu Suguan |  |
-| **1D** | Mrs Jean Wong | Mdm Mardhiya | Mdm Garmit |
-| **1E** | Mrs Gurung | Ms Poh Hui Qin | Mdm Noor Rita |
-| **1F** | Mdm Syariana Idrus | Mrs Daphne Seah |  |
+| **1A** | Mdm Suzanah Bte Taib | Mdm Mazida Bte Mohd Noor | Mdm Erica Cheah |
+| **1B** | Mdm Nor Azimah | Ms Helen | 
+| **1C** | Ms L T Melwani | Mdm Ng Hui Wen |  |
+| **1D** | Mdm Roza Bte Rahman | Miss Lee Yuan Shan | 
+| **1E** | Ms Lim Hui Ling | Mdm Siti Alawiah Bte Jaffar | 
+| **1F** | Mdm Wong Hui Bing | Mdm Mardhiya |  |
 |
 
 #### **Primary 2**
