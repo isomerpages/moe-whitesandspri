@@ -13,12 +13,12 @@ sections:
         - title: Announcements
           description: Important Updates For Pri 1-6
           url: /announcements/
-        - title: Useful Links
-          description: Parents & Pupils
-          url: /useful-links/
         - title: DISTINCTIVE PROGRAMMES
           description: LLP & ALP
           url: /distinctive-programmes/llp
+        - title: Useful Links
+          description: Parents & Pupils
+          url: /useful-links/
   - infobar:
       title: Calendar of Events
       description: School Events & Activities
