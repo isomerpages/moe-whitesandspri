@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: White Sands Primary School
+      title: White Sands   Primary School
       background: /images/20230120_150753.gif
       key_highlights:
         - title: Announcements
@@ -19,6 +19,8 @@ sections:
         - title: Useful Links
           description: Parents & Pupils
           url: /useful-links/
+      subtitle: To nurture passionate learners with exemplary character who lead with
+        a heart and contribute to society
   - infobar:
       title: Calendar of Events
       description: School Events & Activities
