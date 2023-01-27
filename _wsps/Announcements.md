@@ -12,3 +12,6 @@ Please click [here](https://staging.d107tbbuy8btfe.amplifyapp.com/in-link-bullet
 
 ##### **P1 Orientation for 2022 Matters**
 P1 Orientation Slides can be accessed from [here](https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/information-for-parents/presentation-slides/).
+
+##### **P1 Orientation for 2022 Matters**
+P1 Orientation Slides can be accessed [hello](/files/test-protected.pdf)
