@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/test 2.png
       key_highlights:
         - title: Announcements
           description: Important Updates For Pri 1-6
