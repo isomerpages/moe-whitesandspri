@@ -16,7 +16,7 @@ sections:
           url: /distinctive-programmes/llp
         - title: Useful Links
           description: Parents & Pupils
-          url: /Useful-links/
+          url: /useful-links/family-matters/triple-p/
         - title: Useful Linkss
           description: Parents & Pupils
           url: /Useful-Links/
