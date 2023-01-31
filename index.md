@@ -17,7 +17,7 @@ sections:
         - title: Useful Links
           description: Parents & Pupils
           url: /useful-links/
-      background: /images/Playground 1.png
+      background: /images/Playground 2.png
   - infobar:
       title: Calendar of Events
       description: School Events & Activities
