@@ -16,7 +16,10 @@ sections:
           url: /distinctive-programmes/llp
         - title: Useful Links
           description: Parents & Pupils
-          url: /useful-links/
+          url: /Useful-links/
+        - title: Useful Linkss
+          description: Parents & Pupils
+          url: /Useful-Links/
       background: /images/Playground 3.png
   - infobar:
       title: Calendar of Events
