@@ -17,9 +17,6 @@ sections:
         - title: Useful Links
           description: Parents & Pupils
           url: /useful-links/family-matters/triple-p/
-        - title: Useful Linkss
-          description: Parents & Pupils
-          url: /Useful-Links/
       background: /images/Playground 3.png
   - infobar:
       title: Calendar of Events
