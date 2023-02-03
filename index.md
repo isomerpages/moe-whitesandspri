@@ -19,7 +19,7 @@ sections:
           url: /distinctive-programmes/llp
       background: /images/Playground 3.png
   - infobar:
-      title: In-Link Bulletin (Feb 2023)
+      title: In-Link Bulletin for February
       button: Click Here
       url: https://www.facebook.com/whitesandsprimaryschoolofficial/
       subtitle: Latest announcement
