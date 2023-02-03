@@ -8,15 +8,15 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Announcements
-          description: Important Updates For Pri 1-6
+        - title: Calendar of Events
+          description: ""
           url: /announcements/
-        - title: DISTINCTIVE PROGRAMMES
-          description: LLP & ALP
-          url: /distinctive-programmes/llp
-        - title: Useful Links
-          description: Parents & Pupils
+        - title: For Parents
+          description: ""
           url: /useful-links/family-matters/triple-p/
+        - title: For Students
+          description: ""
+          url: /distinctive-programmes/llp
       background: /images/Playground 3.png
   - infobar:
       title: In-Link Bulletin (Feb 2023)
