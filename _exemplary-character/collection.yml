@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Development/.keep
-      - Character Awards.md
       - Education and Career Guidance.md
       - C4RE Teacher Guidance Period & Assembly.md
       - National Education & Social Studies.md
