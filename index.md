@@ -21,7 +21,7 @@ sections:
   - infobar:
       title: In-Link Bulletin for February
       button: Click Here
-      url: https://www.facebook.com/whitesandsprimaryschoolofficial/
+      url: /useful-links/in-link-bulletin/
       subtitle: Latest announcement
   - infopic:
       title: WSPS Facebook
