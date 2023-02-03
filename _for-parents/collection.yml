@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Briefing Slides.md
       - Information on Parents Gateway.md
       - Information on ART Kits.md
       - E Open House 2022.md
