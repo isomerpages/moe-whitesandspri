@@ -13,7 +13,7 @@ sections:
           url: /for-parents/
         - title: For Parents
           description: ""
-          url: /useful-links/family-matters/triple-p/
+          url: /for-parents/
         - title: For Students
           description: ""
           url: /for-students
