@@ -2,9 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - For Students/MySkillsFuture.md
-      - For Students/Student Learning Space (SLS).md
-      - For Students/.keep
       - In Link Bulletin.md
       - Briefing Slides.md
       - School Partners/.keep
@@ -13,6 +10,9 @@ collections:
       - School Partners/School Bus.md
       - School Partners/School Uniform.md
       - School Partners/Student Care Centre.md
+      - For Students/.keep
+      - For Students/MySkillsFuture.md
+      - For Students/Student Learning Space (SLS).md
       - Information on Parents Gateway.md
       - Consent for Photography and Videos.md
       - Information on ART Kits.md
