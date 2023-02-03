@@ -19,10 +19,10 @@ sections:
           url: /useful-links/family-matters/triple-p/
       background: /images/Playground 3.png
   - infobar:
-      title: Calendar of Events
-      description: School Events & Activities
+      title: In-Link Bulletin (Feb 2023)
       button: Click Here
       url: https://www.facebook.com/whitesandsprimaryschoolofficial/
+      subtitle: Latest announcement
   - infopic:
       title: WSPS Facebook
       description: Like our Facebook page to keep updated of the latest happenings in
