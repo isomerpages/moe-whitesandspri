@@ -16,7 +16,7 @@ sections:
           url: /useful-links/family-matters/triple-p/
         - title: For Students
           description: ""
-          url: /distinctive-programmes/llp
+          url: /For-Students
       background: /images/Playground 3.png
   - infobar:
       title: In-Link Bulletin for February
