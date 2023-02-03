@@ -2,5 +2,4 @@ collections:
   for-students:
     output: true
     order:
-      - Student Learning Space (SLS).md
       - MySkillsFuture.md
