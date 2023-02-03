@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - E Open House 2022.md
       - In Link Bulletin (Archive).md
       - Information for Parents/.keep
       - Information for Parents/Information on Parents Gateway.md
