@@ -2,6 +2,7 @@ collections:
   exemplary-character:
     output: true
     order:
+      - Student Development/Character Awards.md
       - Student Development/.keep
       - Education and Career Guidance.md
       - C4RE Teacher Guidance Period & Assembly.md
