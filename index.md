@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Calendar of Events
           description: ""
-          url: /announcements/
+          url: /for-parents/
         - title: For Parents
           description: ""
           url: /useful-links/family-matters/triple-p/
