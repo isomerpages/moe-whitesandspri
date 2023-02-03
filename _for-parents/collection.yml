@@ -3,16 +3,16 @@ collections:
     output: true
     order:
       - Briefing Slides.md
-      - Information on Parents Gateway.md
-      - Information on ART Kits.md
-      - E Open House 2022.md
-      - In Link Bulletin.md
-      - Information for Parents/.keep
-      - Consent for Photography and Videos.md
-      - School Partners/Family Matters.md
       - School Partners/.keep
+      - School Partners/Family Matters.md
       - School Partners/School Bookshop.md
       - School Partners/School Uniform.md
       - School Partners/School Bus.md
       - School Partners/Student Care Centre.md
+      - In Link Bulletin.md
+      - Information on Parents Gateway.md
+      - Consent for Photography and Videos.md
+      - Information on ART Kits.md
+      - E Open House 2022.md
       - Parent Volunteer Scheme (Phase 2B).md
+      - Information for Parents/.keep
