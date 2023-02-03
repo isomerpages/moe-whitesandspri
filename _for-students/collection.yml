@@ -1,5 +1,4 @@
 collections:
   for-students:
     output: true
-    order:
-      - MySkillsFuture.md
+    order: []
