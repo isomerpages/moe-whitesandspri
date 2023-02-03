@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - In Link Bulletin.md
       - Briefing Slides.md
       - School Partners/.keep
       - School Partners/Family Matters.md
@@ -9,7 +10,6 @@ collections:
       - School Partners/School Uniform.md
       - School Partners/School Bus.md
       - School Partners/Student Care Centre.md
-      - In Link Bulletin.md
       - Information on Parents Gateway.md
       - Consent for Photography and Videos.md
       - Information on ART Kits.md
