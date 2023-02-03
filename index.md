@@ -13,7 +13,7 @@ sections:
           url: useful-links/in-link-bulletin/
         - title: For Parents
           description: ""
-          url: /for-parents/
+          url: /useful-links/in-link-bulletin/
         - title: For Students
           description: ""
           url: /for-students
