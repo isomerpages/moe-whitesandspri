@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Family Matters.md
       - In Link Bulletin (Archive).md
       - Information for Parents/.keep
       - Information for Parents/Information on Parents Gateway.md
