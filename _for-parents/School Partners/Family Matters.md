@@ -5,8 +5,7 @@ description: ""
 third_nav_title: School Partners
 ---
 
-### **Triple P**
-#### **Positive Parenting Program (Triple P)**
+#### **Positive Parenting Programme (Triple P)**
 White Sands Primary School came on on-board the evidence-based parenting programmes in April 2016 under the FamilyMatters@School programme.
 
 <img src="/images/triplep1.jpg" style="width:30%;margin-right:15px;" align = "left">
@@ -16,7 +15,7 @@ White Sands Primary School came on on-board the evidence-based parenting program
 <br clear="left">
 
 ##### **What is Triple P?**
-The Positive Parenting Programme (Triple P) is a parenting and family support strategy designed to prevent behavioural and emotional problems in children.
+Triple P is a parenting and family support strategy designed to prevent behavioural and emotional problems in children.
 
 ##### **What does it offer?**
 Simple and practical strategies to help parents confidently manage their children’s behaviour, prevent problems, developing and building strong, healthy relationships.
@@ -27,7 +26,7 @@ Simple and practical strategies to help parents confidently manage their childre
 *   Effective in reducing child behavioural problems and improving parental self-efficacy and satisfaction
 *   Implemented in 25 countries such as Australia, Japan and Hong Kong
 
-**requires video to be uploaded to youtube**
+
 
 #### **FamilyMatters @ White Sands Primary School**
 MSF works in partnership with White Sands Primary School to create a pro-family environment through: instilling positive values and shaping mindset towards family, marriage and parenthood.
