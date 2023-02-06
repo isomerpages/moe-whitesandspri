@@ -19,12 +19,12 @@ The table below shows the tentative schedule of planned after-curriculum activit
 |:---:|:---:|
 | Monday | Pupil-related sessions, such as enrichment |
 | Tuesday | *Remedial classes (2.00pm - 4.00pm) |
-| Wednesday | P3 – P6 CCA (2.00pm – 3.30pm) |
+| Wednesday | P3 – P6 CCA (2.15pm – 3.45pm) |
 | Thursday | No Planned Pupil Programme |
 | Friday | HMT Lessons for selected pupils |
 |
 
-\*Parents will be informed of the schedule at the beginning of Year 2023.
+
 
 ##### **Daily Assembly and punctuality**
 The flag-raising ceremony begins at 7.30 a.m. Hence, all pupils are to be present in the hall/classroom for the ceremony. **Pupils who are not present for the flag-raising ceremony in the hall/classroom will be considered as late for school.**
