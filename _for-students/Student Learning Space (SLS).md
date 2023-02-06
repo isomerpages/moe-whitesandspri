@@ -12,7 +12,7 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
 **1\. Where can I understand more about SLS?**  
 Videos you can watch to learn more about:
 
-a. What is SLS?  
+a. **What is SLS?**  
 [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)
 
 b. What are the resources inside SLS that can support Self-Directed Learning?
@@ -28,7 +28,7 @@ SLS can be accessed from [https://vle.learning.moe.edu.sg/login](https://vle.le
 Your username is first five letters of your name and last five characters of your ID.  
 Your password had been given to you through your teacher.  
 or  
-Use your MIMS or Student iCON username (e.g. tan\_weiling@students.edu.sg) and MIMS password.
+Use your MIMS or Student iCON username (e.g. tan_weiling@students.edu.sg) and MIMS password.
 
 If you have forgotten your password, you could:
 
