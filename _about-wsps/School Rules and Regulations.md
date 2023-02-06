@@ -5,8 +5,8 @@ description: ""
 ---
 ### **School Rules and Regulations**
 All pupils of White Sands Primary School should:
-*   Be at their best behaviour at all times (in or outside school) and practice the School Values.
-*   Respect their teachers, non-teaching staff, visitors, elders and school mates.
+*   Be at their best behaviour at all times (in or outside school) and practise the School Values.
+*   Respect their teachers, non-teaching staff, visitors, elders and schoolmates.
 *   Always be prepared for lessons and bring along all necessary books and stationery.
 *   Ensure that all homework or assignments given are done and returned promptly.
 *   Be attentive, responsive and receptive to feedback during lessons.
