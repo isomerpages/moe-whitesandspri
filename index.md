@@ -21,7 +21,7 @@ sections:
   - infobar:
       title: In-Link Bulletin for February
       button: Click Here
-      url: /useful-links/in-link-bulletin/
+      url: /files/In-Link%20Feb%202023%20final_merged.pdf
       subtitle: Latest announcement
   - infopic:
       title: WSPS Facebook
