@@ -21,7 +21,7 @@ Programmes planned for FamilyMatters@School are conducted with the following obj
 \- Enable fathers to help other fathers become active contributors to the school.
 
 #### **Key Involvement:**
-The group of fathers in the Fathers@School programme organises events that are exciting, engaging and effective to bring out the best father-child moments and everlasting memories. They also actively engage and participate in all school activities and celebrations like HeArtshine, Teacher’s Day, Children’s Day and other key school events. They have a planned programme of activities at least once a term to promote bonding between father and child and parenting talks for fathers.
+The group of fathers organises events that are exciting, engaging, and effective to bring out the best father-child moments and everlasting memories. They also actively engage and participate in all school activities and celebrations like HeARTshine, Teacher’s Day, Children’s Day, and other key school events. 
 
 The WSPS community of fathers also provide support for each other through Fathers@WSPS closed Facebook page and WhatsApp chat group. They organise regular get together sessions such as ‘makan’ sessions, coffee get together & family gatherings which help to forge brotherhood amongst members of the group. Fathers@WSPS is an active group of fathers who continuously seek to partner the school for the benefit of our pupils and nurture them to grow to be happy students with exemplary character.
 
