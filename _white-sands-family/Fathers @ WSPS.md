@@ -41,8 +41,8 @@ Fathers and their children collaborated to come up with innovative ways to creat
 **3) 2022 March Holiday Program**<br>
 Fathers and their children had a go at learning the basics of Aikido! Participants learned the basics of how to fall, how to evade attacks and to counter the assailant’s movements while having a good time throwing each other on padded mats (some of the kids were able to throw their dads down too).
 
-
-
+![MarHols](/images/MarchHoliday2022.jpg)
+<br clear="left">
 
 **4)** **2021 T-Shirt Competition**<br>
 Father and child collaborated to create the next generation of T-Shirt designs for Fathers@WSPS! Participants had fun working together to create fun designs, fully demonstrating the artistic and creative side of our Fathers@WSPS community! The top 3 designs won prizes, and all participants received a certificate of participation.
