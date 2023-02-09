@@ -16,10 +16,9 @@ Forming a successful parent-school partnership that is well integrated with the 
 *   promote a collaborative relationship between parents and school
 *   provide opportunities for the parents to volunteer their services to support the school to strengthen school-based activities
 *   provide constructive input on school policies and goals, practices and programmes
-*   support parents in their parenting journey via suitable avenues.
+*   support parents in their parenting journey via suitable avenues.<br> For more information, please click here - [MOE Parent Kit](https://www.moe.gov.sg/parentkit)
 
-For more information please click here<br>
-[http://parents-in-education.moe.gov.sg/](http://parents-in-education.moe.gov.sg/) **website unavailable**
+
 
 #### **Key Involvement:**
 The PSG supports school programmes and events such as HeARTshine, Teachers’ Day and Children’s Day. With the knowledge, support, and expertise rendered by the PSG, their hope is to encourage all White Sandians to develop greater motivation to manage their own personal growth, be more engaged in learning while experiencing the joy of learning.
