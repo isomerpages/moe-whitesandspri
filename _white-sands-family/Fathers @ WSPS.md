@@ -38,8 +38,8 @@ Fathers and their children collaborated to come up with innovative ways to creat
 ![ToyComp](/images/Toy%20Making%20Comp.jpg)
 <br clear="left">
 
-**3) 2021 Toy-Making Competition**<br>
-Fathers and their children collaborated to come up with innovative ways to create toys out of recycled materials! Participants had fun stretching their creativity and coming up with ingenious and fun mechanisms as toys! The top 3 creations were also able to win prizes, and all participants received a certificate of participation.
+**3) 2022 March Holiday Program**<br>
+Fathers and their children had a go at learning the basics of Aikido! Participants learned the basics of how to fall, how to evade attacks and to counter the assailant’s movements while having a good time throwing each other on padded mats (some of the kids were able to throw their dads down too).
 
 
 
