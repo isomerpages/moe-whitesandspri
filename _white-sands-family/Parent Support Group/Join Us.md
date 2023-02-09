@@ -10,5 +10,4 @@ Come join us at WSPS Parent Support Group and rally together to support White Sa
 **Sign-up link**<br>
 **[https://tinyurl.com/PSGWSPSsignup](https://tinyurl.com/PSGWSPSsignup)**
 
-<img src="/images/Picture6.png" style="width:50%" align=left>
-
+<img src="/images/Picture6.png" style="width:30%" align=left>
