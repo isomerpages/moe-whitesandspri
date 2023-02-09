@@ -19,8 +19,11 @@ Creative Maths Programme is conducted from P1 to P6. It aims to provide opportun
 
 
 
+<br clear="left">
+<br clear="left">
+<img src="/images/Maths%20Dept%20Photo%202.jpeg" style="width:40%;margin-left:55px;" align = "left">
 
-<img src="/images/math2.jpg" style="width:40%;margin-right:55px;" align = "right">
+
 <img src="/images/math1.jpeg" style="width:40%;margin-left:55px;" align = "left">
 
 <br clear="left">
