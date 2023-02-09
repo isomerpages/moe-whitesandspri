@@ -44,5 +44,11 @@ Fathers and their children had a go at learning the basics of Aikido! Participan
 ![MarHols](/images/MarchHoliday2022.jpg)
 <br clear="left">
 
-**4)** **2021 T-Shirt Competition**<br>
-Father and child collaborated to create the next generation of T-Shirt designs for Fathers@WSPS! Participants had fun working together to create fun designs, fully demonstrating the artistic and creative side of our Fathers@WSPS community! The top 3 designs won prizes, and all participants received a certificate of participation.
+**4)** **2022 Intertidal Walk**<br>
+Fathers and children were provided with the opportunity to walk along the banks of Pasir Ris Park Beach and receive a first-hand experience with areas on the beach which are usually covered by water! This was a wonderful father-child bonding activity of which a guided tour was included to obtain a better understanding of the flora and fauna, as well as the different types of wildlife in the environment.
+
+
+
+
+
+
