@@ -17,9 +17,8 @@ ICAN (Improvement in Confidence and Achievement in Numeracy) Programme is a lear
 ##### **Creative Maths Programme**
 Creative Maths Programme is conducted from P1 to P6. It aims to provide opportunities for students to apply Mathematics concepts through various Mathematics related activities and projects.
 
-##### **'Fun with Maths' Activities**
-*   Creative Maths - Primary 1 to Primary 3
-*   Sudoku - Primary 1 to Primary 6
+
+
 
 <img src="/images/math2.jpg" style="width:40%;margin-right:55px;" align = "right">
 <img src="/images/math1.jpeg" style="width:40%;margin-left:55px;" align = "left">
