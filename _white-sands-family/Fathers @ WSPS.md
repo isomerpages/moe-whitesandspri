@@ -27,7 +27,7 @@ The WSPS community of fathers also provide support for each other through Father
 
 #### **Highlights of past activities:**
 **1) Annual Partners' Appreciation Lunch**<Br>
-Father and Child had a go at learning the basics of Aikido! Participants learned the basics of how to fall, how to evade attacks and to counter the assailant’s movements while having a good time throwing each other on padded mats (some of the kids were able to throw their dads down too!).
+The Partners’ Appreciation Lunch is an annual event where the school expresses its gratitude for the hard work and support provided by members of Fathers@WSPS. During the event, the school was also able to recognise and acknowledge the contributions by Exco members of Fathers@WSPS and long-serving members of the group.
 
 
 
