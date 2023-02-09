@@ -55,3 +55,6 @@ Fathers and their children were invited to a tour of the Pasir Ris Sports Centre
 
 ![DecHolPrg](/images/Dec%20Holiday%20Prg%202021.jpg)
 <br clear="left">
+<br clear="left">
+
+**Come join us at Fathers@WSPS and rally together to support White Sandians in crafting their success stories!**<br>
