@@ -15,7 +15,7 @@ Learning Support for Mathematics (LSM) is targeted at the lower primary levels. 
 ICAN (Improvement in Confidence and Achievement in Numeracy) Programme is a learning support programme for the middle primary levels. It is a collaboration between MOE and schools to support low progress learners.
 
 ##### **Creative Maths Programme**
-ICAN (Improvement in Confidence and Achievement in Numeracy) is a learning support programme to raise confidence and improve Maths achievement in pupils through ICAN intervention framework.
+Creative Maths Programme is conducted from P1 to P6. It aims to provide opportunities for students to apply Mathematics concepts through various Mathematics related activities and projects.
 
 ##### **'Fun with Maths' Activities**
 *   Creative Maths - Primary 1 to Primary 3
