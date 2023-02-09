@@ -6,69 +6,56 @@ third_nav_title: Parent Support Group
 ---
 ### **Parent Support Group**
 
- 
- 
- 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="margin-left:5.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="152" valign="top" style="width:113.8pt;border:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><b><span lang="MS" style="font-size:12.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  MS">Designation</span></b></p></td><td width="254" valign="top" style="width:2.65in;border:solid windowtext 1.0pt;
-  border-left:none;padding:0in 5.0pt 0in 5.0pt"><p class="MsoNormal" style="margin-right:1.7pt"><b><span lang="MS" style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;mso-ansi-language:MS">Parents Support Group</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="152" valign="top" style="width:113.8pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><span lang="MS" style="font-size:12.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  MS">Chairperson</span></p></td><td width="254" valign="top" style="width:2.65in;border-top:none;border-left:
+<table style="width:413.35pt;margin-left:-.25pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt" width="551" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:25.1pt"><td style="width:148.25pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:25.1pt" valign="top" width="198"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Designation</span></b></p></td><td style="width:265.1pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:25.1pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Parent Support Group</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.7pt"><td style="width:148.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="198"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Chairperson</span></p></td><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mdm Normah Binte Ahmad</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="152" valign="top" style="width:113.8pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><span lang="MS" style="font-size:12.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  MS">Vice Chairperson</span></p></td><td width="254" valign="top" style="width:2.65in;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal">Mdm Normah Binte Ahmad</p></td></tr><tr style="mso-yfti-irow:2;height:27.7pt"><td style="width:148.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="198"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Vice Chairperson</span></p></td><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mdm Goh Ee Lyn, Sharon</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="152" rowspan="9" valign="top" style="width:113.8pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><span lang="MS" style="font-size:12.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  MS">Exco Members</span></p></td><td width="254" valign="top" style="width:2.65in;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Goh Ee Lyn, Sharon</span></p></td></tr><tr style="mso-yfti-irow:3;height:27.7pt"><td style="width:148.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" rowspan="9" width="198"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Exco Members</span></p></td><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mdm Siti Saidatul</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="254" valign="top" style="width:2.65in;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Siti Saidatul</span></p></td></tr><tr style="mso-yfti-irow:4;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mdm Tan Kah Chin, Agnes</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="254" valign="top" style="width:2.65in;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Tan Kah Chin, Agnes</span></p></td></tr><tr style="mso-yfti-irow:5;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mdm Ho Chiew Geok</span></p></td></tr><tr style="mso-yfti-irow:6"><td width="254" valign="top" style="width:2.65in;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Ho Chiew Geok</span></p></td></tr><tr style="mso-yfti-irow:6;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mdm Tan Su Ping, Sharon</span></p></td></tr><tr style="mso-yfti-irow:7"><td width="254" valign="top" style="width:2.65in;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Tan Su Ping, Sharon</span></p></td></tr><tr style="mso-yfti-irow:7;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mdm Koh Wen Cheng, Vivien</span></p></td></tr><tr style="mso-yfti-irow:8"><td width="254" valign="top" style="width:2.65in;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Koh Wen Cheng, Vivien</span></p></td></tr><tr style="mso-yfti-irow:8;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mdm Low Pei Chen, Yuki</span></p></td></tr><tr style="mso-yfti-irow:9"><td width="254" valign="top" style="width:2.65in;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Low Pei Chen, Yuki</span></p></td></tr><tr style="mso-yfti-irow:9;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><span lang="MS" style="font-size:12.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  MS">Mdm Yeo Han Ling, Yvonne</span></p></td></tr><tr style="mso-yfti-irow:10"><td width="254" valign="top" style="width:2.65in;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Yeo Han Ling, Yvonne</span></p></td></tr><tr style="mso-yfti-irow:10;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><span lang="MS" style="font-size:12.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  MS">Mdm Diana Oey</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes"><td width="254" valign="top" style="width:2.65in;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Diana Oey</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><span lang="MS" style="font-size:12.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  MS">Mdm Noorashikin Bte Noordin</span></p></td></tr></tbody></table>
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Noorashikin Bye Noordin</span></p></td></tr></tbody></table>
+
+
+
+
 
 The PSG complements the school by aligning with the school’s objectives, supporting and strengthening the school’s programmes to support the students’ well-being and learning. PSG plays a key role in engaging and bringing together parents who wish to contribute their time, effort, knowledge and skills towards creating a holistic educational and developmental experience for the children during their time in WSPS.
 
@@ -116,49 +103,3 @@ These props required time and effort, especially during this period where strict
 
  <br clear="left">  
 
-<table style="width:413.35pt;margin-left:-.25pt;border-collapse:collapse;border:none;
- mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
- 0in 5.4pt 0in 5.4pt" width="551" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:25.1pt"><td style="width:148.25pt;border:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:25.1pt" valign="top" width="198"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Designation</span></b></p></td><td style="width:265.1pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:25.1pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Parent Support Group</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.7pt"><td style="width:148.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="198"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Chairperson</span></p></td><td style="width:265.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal">Mdm Normah Binte Ahmad</p></td></tr><tr style="mso-yfti-irow:2;height:27.7pt"><td style="width:148.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="198"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Vice Chairperson</span></p></td><td style="width:265.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Goh Ee Lyn, Sharon</span></p></td></tr><tr style="mso-yfti-irow:3;height:27.7pt"><td style="width:148.25pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" rowspan="9" width="198"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Exco Members</span></p></td><td style="width:265.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Siti Saidatul</span></p></td></tr><tr style="mso-yfti-irow:4;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Tan Kah Chin, Agnes</span></p></td></tr><tr style="mso-yfti-irow:5;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Ho Chiew Geok</span></p></td></tr><tr style="mso-yfti-irow:6;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Tan Su Ping, Sharon</span></p></td></tr><tr style="mso-yfti-irow:7;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Koh Wen Cheng, Vivien</span></p></td></tr><tr style="mso-yfti-irow:8;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Low Pei Chen, Yuki</span></p></td></tr><tr style="mso-yfti-irow:9;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Yeo Han Ling, Yvonne</span></p></td></tr><tr style="mso-yfti-irow:10;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Diana Oey</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes;height:27.7pt"><td style="width:265.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS" lang="MS">Mdm Noorashikin Bye Noordin</span></p></td></tr></tbody></table>
