@@ -5,50 +5,47 @@ description: ""
 ---
 ### **Fathers@WSPS**
 
-
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="578" style="width:433.7pt;margin-left:-.25pt;border-collapse:collapse;border:none;
+<table style="width:433.7pt;margin-left:-.25pt;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
- 0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:25.1pt"><td width="204" valign="top" style="width:153.15pt;border:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:25.1pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Designation</span></b></p></td><td width="374" valign="top" style="width:280.55pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:25.1pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Fathers@WSPS</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.7pt"><td width="204" valign="top" style="width:153.15pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:27.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Chairperson</span></p></td><td width="374" valign="top" style="width:280.55pt;border-top:none;border-left:
+ 0in 5.4pt 0in 5.4pt" width="578" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:25.1pt"><td style="width:153.15pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:25.1pt" valign="top" width="204"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Designation</span></b></p></td><td style="width:280.55pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:25.1pt" valign="top" width="374"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Fathers@WSPS</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.7pt"><td style="width:153.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="204"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Chairperson</span></p></td><td style="width:280.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Dr Lai Shu Hau</span></p></td></tr><tr style="mso-yfti-irow:2;height:27.7pt"><td width="204" valign="top" style="width:153.15pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:27.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Vice Chairperson</span></p></td><td width="374" valign="top" style="width:280.55pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="374"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Dr Lai Shu Hau</span></p></td></tr><tr style="mso-yfti-irow:2;height:27.7pt"><td style="width:153.15pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="204"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Vice Chairperson</span></p></td><td style="width:280.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Tang Yong Chong</span></p></td></tr><tr style="mso-yfti-irow:3;height:27.7pt"><td width="204" rowspan="7" valign="top" style="width:153.15pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="374"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mr Tang Yong Chong</span></p></td></tr><tr style="mso-yfti-irow:3;height:27.7pt"><td style="width:153.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:26.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Exco Members</p></td><td width="374" valign="top" style="width:280.55pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" rowspan="7" width="204"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Exco Members</span></p></td><td style="width:280.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="MS" style="font-size:10.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Bruce See Chee Boon</span></p></td></tr><tr style="mso-yfti-irow:4;height:27.7pt"><td width="374" valign="top" style="width:280.55pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="374"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mr Bruce See Chee Boon</span></p></td></tr><tr style="mso-yfti-irow:4;height:27.7pt"><td style="width:280.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Jason Lim</span></p></td></tr><tr style="mso-yfti-irow:5;height:27.7pt"><td width="374" valign="top" style="width:280.55pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="374"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mr Jason Lim</span></p></td></tr><tr style="mso-yfti-irow:5;height:27.7pt"><td style="width:280.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Vinson Chua</span></p></td></tr><tr style="mso-yfti-irow:6;height:27.7pt"><td width="374" valign="top" style="width:280.55pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="374"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mr Vinson Chua</span></p></td></tr><tr style="mso-yfti-irow:6;height:27.7pt"><td style="width:280.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Tan Kiang Kheng</span></p></td></tr><tr style="mso-yfti-irow:7;height:27.7pt"><td width="374" valign="top" style="width:280.55pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="374"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mr Tan Kiang Kheng</span></p></td></tr><tr style="mso-yfti-irow:7;height:27.7pt"><td style="width:280.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Louis Teo</span></p></td></tr><tr style="mso-yfti-irow:8;height:27.7pt"><td width="374" valign="top" style="width:280.55pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="374"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mr Louis Teo</span></p></td></tr><tr style="mso-yfti-irow:8;height:27.7pt"><td style="width:280.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Edwin Song</span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:27.7pt"><td width="374" valign="top" style="width:280.55pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="374"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mr Edwin Song</span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:27.7pt"><td style="width:280.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="MS" style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Christopher Lim</span></p></td></tr></tbody></table>
-
-
-<br clear="left">
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="374"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:MS" lang="MS">Mr Christopher Lim</span></p></td></tr></tbody></table>
 
 
 
