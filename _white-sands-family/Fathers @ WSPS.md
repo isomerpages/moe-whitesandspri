@@ -4,11 +4,10 @@ permalink: /white-sands-family/fathers/
 description: ""
 ---
 ### **Fathers@WSPS**
-**Sign-up Link**<br>
-**[https://www.facebook.com/groups/wspsfathers/](https://www.facebook.com/groups/wspsfathers/)**
 
-<img src="/images/fathersqr.png" style="width:25%" align=left>
-<br clear="left">
+
+
+
 
 #### **Objectives:**
 Fathers@School is a key initiative and part of a larger vision for the Dads for Life movement which provides opportunities to engage fathers to be involved in their children’s lives.
