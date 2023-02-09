@@ -23,7 +23,7 @@ Programmes planned for FamilyMatters@School are conducted with the following obj
 #### **Key Involvement:**
 The group of fathers organises events that are exciting, engaging, and effective to bring out the best father-child moments and everlasting memories. They also actively engage and participate in all school activities and celebrations like HeARTshine, Teacher’s Day, Children’s Day, and other key school events. 
 
-The WSPS community of fathers also provide support for each other through Fathers@WSPS closed Facebook page and WhatsApp chat group. They organise regular get together sessions such as ‘makan’ sessions, coffee get together & family gatherings which help to forge brotherhood amongst members of the group. Fathers@WSPS is an active group of fathers who continuously seek to partner the school for the benefit of our pupils and nurture them to grow to be happy students with exemplary character.
+The WSPS community of fathers also provide support for each other through Fathers@WSPS closed Facebook page and WhatsApp chat group. They organise regular get-together sessions such as ‘makan’ sessions, coffee get-together & family gatherings which help to forge brotherhood amongst members of the group. Fathers@WSPS is an active group of fathers who continuously seek to partner the school for the benefit of White Sandians and nurture them to become active contributors of the society with exemplary character.
 
 #### **Highlights of past activities:**
 **1) 2022 March Holiday Program**<Br>
