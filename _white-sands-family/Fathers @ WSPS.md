@@ -64,11 +64,5 @@ Fathers and their children were invited to a tour of the Pasir Ris Sports Centre
 
 <br clear="left">
 
-<img src="/images/JoinFathersWSPS.jpg" style="width:25%" align=l>
+<img src="/images/fathersqr.png" style="width:25%" align=let>
 <br clear="left">
-
-|  |
-|:---:|
-|<br> |
-
-
