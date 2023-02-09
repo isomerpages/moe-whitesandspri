@@ -52,3 +52,6 @@ Fathers and children were provided with the opportunity to walk along the banks 
 
 **5)** **2021 December Holiday Program**<br>
 Fathers and their children were invited to a tour of the Pasir Ris Sports Centre’s operations! Participants witnessed first-hand the daily operations of the Sport Centre and had a chance to try their hand at some CPR and how to test the swimming pool’s water.
+
+![DecHolPrg](/images/Dec%20Holiday%20Prg%202021.jpg)
+<br clear="left">
