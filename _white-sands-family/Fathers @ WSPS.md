@@ -46,9 +46,3 @@ Fathers and their children had a go at learning the basics of Aikido! Participan
 
 **4)** **2022 Intertidal Walk**<br>
 Fathers and children were provided with the opportunity to walk along the banks of Pasir Ris Park Beach and receive a first-hand experience with areas on the beach which are usually covered by water! This was a wonderful father-child bonding activity of which a guided tour was included to obtain a better understanding of the flora and fauna, as well as the different types of wildlife in the environment.
-
-
-
-
-
-
