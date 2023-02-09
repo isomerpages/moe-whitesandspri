@@ -36,7 +36,7 @@ The Partners’ Appreciation Lunch is an annual event where the school expresses
 **2)** **2022 Toy-Making Competition**<br>
 Fathers and their children collaborated to come up with innovative ways to create toys out of recycled materials! Participants had fun stretching their creativity and coming up with ingenious and fun mechanisms as toys! The top 3 creations were also able to win prizes while all participants received a certificate of participation.
 
-
+![ToyComp](/images/Toy%20Making%20Comp.jpg)
 
 
 **3) 2021 Toy-Making Competition**<br>
