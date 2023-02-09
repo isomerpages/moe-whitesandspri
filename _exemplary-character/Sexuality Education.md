@@ -47,20 +47,13 @@ b. Character and Citizenship Education (CCE)<br>
 | UNIT | LESSONS/DURATION | LESSON OBJECTIVES<br>At the end of the lessons, pupils will be able to: | TIME PERIOD |
 |:---:|:---:|---|:---:|
 | Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. | Term 4 Week 4 | 
-|Growing Years|Did You Know?|This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |Term 4 Week 5 | 
+|Growing Years|Did You Know?<br>(60 min)|This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |Term 4 Week 5 | 
+|Growing Years|Keeping Myself Safe (60 min)| In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |Term 4 Week 9 | 
 
 
 
 
 
- | Term 4 Week 4 |
-|  | What Can I Do?<br>(Part 1)<br>(30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 2 Week 5 |
-|  | What Can I Do?<br>(Part 2)<br>(30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 2 Week 5 |
-| Where I Belong | What Are Families?<br>(30 min) | - know that there are different types of family structures<br>- know that every family is unique<br>- state that the three basic functions of families are to provide love, protection and guidance<br>- identify the right sources of help to turn to when in need | Term 2 Week 8 |
-|  | What is My Role?<br>(30 min) | - know that gender is about being male or female<br>- choose not to stereotype by gender | Term 2 Week 8 |
-| How Do I Keep Myself Safe? | What is Safety?<br>(30 min) | - know what sexual abuse is<br>- know that there are laws in Singapore that can protect them from sexual abuse<br>- know their rights in keeping themselves safe from sexual abuse | Term 4 Week 3  |
-|  | Stop It! Run! Tell!<br>(30 min) | - protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm | Term 4 Week 3  |
-|
 
 ##### **Primary 6**
 
