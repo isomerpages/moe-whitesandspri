@@ -71,6 +71,6 @@ For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for th
 #### **Information for Parents**
 8\.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here]() (please upload parents opt-out form found in Annex A and insert a hyperlink for parents to download the form). The completed opt-out form is to be submitted by 08/02/2023.
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [[here](/files/SEd%20Letter%20to%20Parents%202023_final.pdf)]()  The completed opt-out form is to be submitted by 08/02/2023.
 
 10\. Parents can contact the school at **6922 9113 (Mrs Joycelyn Lok)** for discussion or to seek clarification about the school’s sexuality education programme.
