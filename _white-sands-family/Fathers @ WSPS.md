@@ -94,7 +94,7 @@ Fathers and their children were invited to a tour of the Pasir Ris Sports Centre
 
 ![DecHolPrg](/images/Dec%20Holiday%20Prg%202021.jpg)
 <br clear="left">
-<br clear="left">
+
 
 |  |
 |:---:|
@@ -103,5 +103,3 @@ Fathers and their children were invited to a tour of the Pasir Ris Sports Centre
 
 <img align="let" style="width:25%" src="/images/fathersqr.png">
 <br clear="left">
-
-        
