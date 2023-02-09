@@ -37,7 +37,7 @@ b. Character and Citizenship Education (CCE)<br>
 
 7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-##### **At White Sands Primary School, the following lessons from the Growing Years Programme for Primary 5 and Primary 6 pupils will be taught in 2022:**
+##### **At White Sands Primary School, the following lessons from the Growing Years Programme for Primary 5 and Primary 6 pupils will be taught in 2023:**
 
 ##### **Primary 5**
 
@@ -46,8 +46,14 @@ b. Character and Citizenship Education (CCE)<br>
 
 | UNIT | LESSONS/DURATION | LESSON OBJECTIVES<br>At the end of the lessons, pupils will be able to: | TIME PERIOD |
 |:---:|:---:|---|:---:|
-| Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 4 Week 4 |
+| Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. | Term 4 Week 4 | 
+|Growing Years|Did You Know?|This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |Term 4 Week 5 | 
+
+
+
+
+
+ | Term 4 Week 4 |
 |  | What Can I Do?<br>(Part 1)<br>(30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 2 Week 5 |
 |  | What Can I Do?<br>(Part 2)<br>(30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 2 Week 5 |
 | Where I Belong | What Are Families?<br>(30 min) | - know that there are different types of family structures<br>- know that every family is unique<br>- state that the three basic functions of families are to provide love, protection and guidance<br>- identify the right sources of help to turn to when in need | Term 2 Week 8 |
