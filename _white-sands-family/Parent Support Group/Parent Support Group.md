@@ -50,7 +50,3 @@ These props required time and effort, especially during this period where strict
 
 ![](/images/Picture4.jpg)
 
-### Come join us at WSPS Parent Support Group and rally together to support White Sandians in crafting their success stories!
-
-
-![](/images/Picture6.png)
