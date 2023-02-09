@@ -49,4 +49,3 @@ Teachers’ Day celebration is also an annual event where PSG joins the children
 These props required time and effort, especially during this period where strict social distancing measures had to be adhered to but members rallied together and were able to complete them in a short period of time. In addition, the PSG members produced a video featuring current and former White Sandians sending well-wishes to their beloved teachers on this special day of the year.
 
 ![](/images/Picture4.jpg)
-
