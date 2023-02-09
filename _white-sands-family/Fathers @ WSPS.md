@@ -51,62 +51,6 @@ description: ""
 <br clear="left">
 
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="margin-left:5.4pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="148" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><b><span lang="MS" style="font-size:12.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  MS">Designation</span></b></p></td><td width="312" valign="top" style="width:3.25in;border:solid windowtext 1.0pt;
-  border-left:none;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><b><span lang="MS" style="font-size:12.0pt;line-height:107%;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;mso-ansi-language:MS">Fathers@WSPS</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="148" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><span lang="MS" style="font-size:12.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  MS">Chairperson</span></p></td><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Dr Lai Shu Hau</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="148" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><span lang="MS" style="font-size:12.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  MS">Vice Chairperson</span></p></td><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Tang Yong Chong</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="148" rowspan="7" valign="top" style="width:111.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal"><span lang="MS" style="font-size:12.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  MS">Exco Members</span></p></td><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Bruce See Chee Boon</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Jason Lim</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Vinson Chua</span></p></td></tr><tr style="mso-yfti-irow:6"><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Tan Kiang Kheng</span></p></td></tr><tr style="mso-yfti-irow:7"><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Louis Teo</span></p></td></tr><tr style="mso-yfti-irow:8"><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Edwin Song</span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes"><td width="312" valign="top" style="width:3.25in;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-right:1.7pt"><span lang="MS" style="font-size:
-  12.0pt;line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:MS">Mr Christopher Lim</span></p></td></tr></tbody></table>
-
-
-
-
 
 #### **Objectives:**
 Fathers@School is a key initiative and part of a larger vision for the Dads for Life movement which provides opportunities to engage fathers to be involved in their children’s lives.
