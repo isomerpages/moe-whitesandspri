@@ -12,7 +12,7 @@ At White Sands Primary School, we aspire to enable students to acquire and devel
 Learning Support for Mathematics (LSM) is targeted at the lower primary levels. It is an early intervention effort aimed at providing additional support to students who do not have foundational numeracy skills and knowledge to access the primary 1 Maths curriculum. The identified students will be supported by LSM trained teachers during the curriculum. Through the activity-based lessons, the students will be able to achieve small successes to build their confidence and motivation in Mathematics.
 
 ##### **ICAN Programme**
-Learning Support for Mathematics (LSM) is an early intervention effort aimed at providing additional support to students who do not have foundational numeracy skills and knowledge to access the Primary 1 Maths curriculum.
+ICAN (Improvement in Confidence and Achievement in Numeracy) Programme is a learning support programme for the middle primary levels. It is a collaboration between MOE and schools to support low progress learners.
 
 ##### **Creative Maths Programme**
 ICAN (Improvement in Confidence and Achievement in Numeracy) is a learning support programme to raise confidence and improve Maths achievement in pupils through ICAN intervention framework.
