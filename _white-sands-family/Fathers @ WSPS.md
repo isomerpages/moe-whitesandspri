@@ -30,6 +30,7 @@ The WSPS community of fathers also provide support for each other through Father
 Father and Child had a go at learning the basics of Aikido! Participants learned the basics of how to fall, how to evade attacks and to counter the assailant’s movements while having a good time throwing each other on padded mats (some of the kids were able to throw their dads down too!).
 
 
+
 **2)** **2021 December Holiday Program – Parent-Child Bonding**<br>
 Fathers and their children were invited to a tour of the Pasir Ris Sports Centre’s operations! Participants witnessed first-hand the daily operations of the Sport Centre and had a chance to try their hand at some CPR and how to test the swimming pool’s water.
 
