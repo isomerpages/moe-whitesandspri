@@ -26,7 +26,7 @@ The group of fathers organises events that are exciting, engaging, and effective
 The WSPS community of fathers also provide support for each other through Fathers@WSPS closed Facebook page and WhatsApp chat group. They organise regular get-together sessions such as ‘makan’ sessions, coffee get-together & family gatherings which help to forge brotherhood amongst members of the group. Fathers@WSPS is an active group of fathers who continuously seek to partner the school for the benefit of White Sandians and nurture them to become active contributors of the society with exemplary character.
 
 #### **Highlights of past activities:**
-**1) 2022 March Holiday Program**<Br>
+**1) Annual Partners' Appreciation Lunch**<Br>
 Father and Child had a go at learning the basics of Aikido! Participants learned the basics of how to fall, how to evade attacks and to counter the assailant’s movements while having a good time throwing each other on padded mats (some of the kids were able to throw their dads down too!).
 
 **2)** **2021 December Holiday Program – Parent-Child Bonding**<br>
