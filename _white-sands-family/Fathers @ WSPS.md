@@ -59,4 +59,6 @@ Fathers and their children were invited to a tour of the Pasir Ris Sports Centre
 
 **Come join us at Fathers@WSPS and rally together to support White Sandians in crafting their success stories!**<br>
 
-| ** Come join us at Fathers@WSPS and rally together to support White Sandians in crafting their success stories!** |
+
+
+<figcaption><strong>  Vice-Principals
