@@ -30,14 +30,13 @@ The WSPS community of fathers also provide support for each other through Father
 The Partners’ Appreciation Lunch is an annual event where the school expresses its gratitude for the hard work and support provided by members of Fathers@WSPS. During the event, the school was also able to recognise and acknowledge the contributions by Exco members of Fathers@WSPS and long-serving members of the group.
 
 ![PALunch](/images/PA%20Lunch.jpg)
-
 <br clear="left">
 
 **2)** **2022 Toy-Making Competition**<br>
 Fathers and their children collaborated to come up with innovative ways to create toys out of recycled materials! Participants had fun stretching their creativity and coming up with ingenious and fun mechanisms as toys! The top 3 creations were also able to win prizes while all participants received a certificate of participation.
 
 ![ToyComp](/images/Toy%20Making%20Comp.jpg)
-
+<br clear="left">
 
 **3) 2021 Toy-Making Competition**<br>
 Fathers and their children collaborated to come up with innovative ways to create toys out of recycled materials! Participants had fun stretching their creativity and coming up with ingenious and fun mechanisms as toys! The top 3 creations were also able to win prizes, and all participants received a certificate of participation.
