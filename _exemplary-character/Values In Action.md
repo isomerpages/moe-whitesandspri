@@ -19,3 +19,7 @@ Values in Action (VIA) is a key component in the Character and Citizenship Educa
 | 5 | Care for the Elderly |
 | 6 | Social Entrepreneurship |
 |
+
+![](/images/Values%20in%20Action.jpg)
+![](/images/Values%20In%20Action%203.jpg)
+![](/images/Values%20In%20Action%202.png)
