@@ -31,4 +31,11 @@ sections:
       url: https://www.facebook.com/whitesandsprimaryschoolofficial/
       alt: " "
       image: /images/WSPS Facebook Photo.png
+  - infopic:
+      title: WSPS Instagram
+      description: Follow us and connect with us now!
+      button: Click here
+      url: https://www.instagram.com/whitesandsprisch_official/
+      image: /images/IG.png
+      alt: Image alt text
 ---
