@@ -13,4 +13,6 @@ b. Participating daily routines such as Flag-Raising Ceremony, singing of the Na
 c. Discussing of NE-related topics not only in Character and Citizenship Education (CCE), but also across multiple subject areas including Social Studies, Math, Science, Art and Music<br>
 d. Immersing in co-curricular activities such as Learning Journeys, Values-in-Action Programmes
 
-**require image to be provided,unable to download**
+
+
+![](/images/NE%20show%20combine.png)
