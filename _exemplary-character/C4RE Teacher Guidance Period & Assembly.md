@@ -9,8 +9,6 @@ The C4RE Teacher Guidance period (CTGP) is conducted once a week within the scho
 
 #### **Key Programmes:**
 During CTGP, the following takes place:<br>
-\-    Explicit teaching of social and emotional competencies (including issues such as Cyberwellness; and Education and Career Guidance).<br>
+\-    Explicit teaching of social and emotional competencies <br>
 \-    Interactive Activities to enhance TSR (Teacher-Student Relationship) and SSR ( Student-Student Relationship)<br>
 \-    Heart to Heart (H2H) sessions to foster better TSR through one-to-one interaction.<br>
-\-    Sexuality Education (SEd) lessons for upper primary (Primary 5 & 6). <br>
-\-    Values in Action Programmes
