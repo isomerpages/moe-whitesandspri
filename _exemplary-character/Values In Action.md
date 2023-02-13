@@ -12,12 +12,12 @@ Values in Action (VIA) is a key component in the Character and Citizenship Educa
 
 | Primary Level | Programmes |
 |:---:|---|
-| 1 | Gotcha@ Home & Catch You Doing Good |
-| 2 |  |
-| 3 | Buddy Clean@ WSPS |
-| 4 | Project ExCITE! |
-| 5 | Care for the Elderly |
-| 6 | Social Entrepreneurship |
+| 1 | Caring & Being Cared For |
+| 2 | Yes I Can |
+| 3 | Being Kind To Our Classmates |
+| 4 | Contributing To My Community |
+| 5 | Being An Active Contributer |
+| 6 | Playing An Active Role In My Community |
 |
 
 ![](/images/Values%20in%20Action.jpg)
