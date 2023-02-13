@@ -52,3 +52,16 @@ Various platforms are provided for Prefects to display and hone their leadership
 
 ##### **Appreciation and Recognition**
 An appreciation party will be held in Term 4 to celebrate the successes and milestones achieved for the year. This also serves as a platform for the school to recognise the contribution of the students.
+
+##### **Prefects**
+![](/images/leadership%201.png)
+
+##### **CCA Leaders**
+
+![](/images/leadership%202.png)
+![](/images/leadership%203.png)
+![](/images/leadership%204.png)
+![](/images/leadership%205.png)
+
+##### **Class Leaders**
+![](/images/class%20leaders.png)
