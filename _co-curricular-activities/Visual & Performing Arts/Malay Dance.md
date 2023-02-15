@@ -11,7 +11,7 @@ The various public performances create opportunities for the students to appreci
 
 #### **Highlights**
 
-<img src="/images/malaydance1.jpg" style="width:55.5%" align=lt>
+<img src="/images/malaydance1.jpg" style="width:55.%" align=lt>
 <br clear="left">
 <br clear="left">
 
@@ -19,7 +19,6 @@ The various public performances create opportunities for the students to appreci
 
 
 
-<img src="/images/malaydance6.jpg" style="width:550%" align=l>
+<img src="/images/malaydance6.jpg" style="width:55.%" align=l>
 
 <br clear="left">
-
