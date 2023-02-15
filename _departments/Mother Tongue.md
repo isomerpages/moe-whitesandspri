@@ -3,22 +3,19 @@ title: Mother Tongue
 permalink: /departments/MT/
 description: ""
 ---
-
-
-
-#### **OBJECTIVE:**
+##### **OBJECTIVE:**
 
 To develop students who are active users and effective communicators of their Mother Tongue Languages (MTL), passionate about their cultural heritage.
 
-#### **MOTHER TONGUE LANGUAGE FORTNIGHT (MTLF)**
+##### **MOTHER TONGUE LANGUAGE FORTNIGHT (MTLF)**
 
 Mooted in 2011, this 2-week long event aims to create an immersive environment for the learning of MTL. During the two consecutive weeks, a wide range of activities related to the Chinese/Malay/Tamil Language and culture are conducted. These activities provide authentic opportunities for students to use their MTL and experience the culture.
 
-#### **MT CULTURAL AND LANGUAGE CAMPS**
+##### **MT CULTURAL AND LANGUAGE CAMPS**
 
 Together with MTLF to provide an immersive environment for the learning of the MTL. Interesting activities are organised as part of the camp programme to promote interest in the learning of MTL beyond classrooms.
 
-#### **CONVERSATIONAL CHINESE & MALAY**
+##### **CONVERSATIONAL CHINESE & MALAY**
 
 This programme is conducted for our P3 and P4 pupils during curriculum post-exam period. It is part of efforts by the Ministry of Education (MOE) to strengthen Singapore’s multi-racial compact and to enable students to have some grounding of the knowledge so that they could pick up the language more easily should they need it in the future.
 
