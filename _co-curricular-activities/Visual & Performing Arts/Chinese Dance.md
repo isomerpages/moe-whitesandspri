@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 ---
 ### **Chinese Dance**
-Since 1998, the White Sands Primary School Chinese Dance CCA has developed numerous generations of students with an appreciation for the arts. Our students come together to perform this culturally sensitive artform together, in celebration of its rich traditional culture. In this vibrant environment, students will be given opportunities to learn the basics of Chinese dance, the history behind the dances before advancing to the more technical aspect of it.
+White Sands Primary School Chinese Dance CCA has developed numerous generations of students with an appreciation for the arts. Our students come together to perform this culturally sensitive artform together, in celebration of its rich traditional culture. In this vibrant environment, students will be given opportunities to learn the basics of Chinese dance, the history behind the dances before advancing to the more technical aspect of it.
 
 In Chinese Dance CCA, apart from presenting opportunities for students to students at various platforms, students will also be able to improve on their relationship management while learning to work together with others during the learning and practicing of the dance. Students will learn how to self-manage their own emotions and work on their own individual capabilities, as well as group coordination, to come together to perform for all.
 
