@@ -32,10 +32,6 @@ For P3 outdoor education, students will apply key principles and considerations 
 Students will learn about communal living and doing team-bonding activities together. They undertake a route  with checkpoints using pictorial charts and other aids. They would apply key principles and considerations of healthy eating and hygiene when preparing for a meal for a day trip.
 
 
-
-Students would have their 3 Days 2 Nights adventure camp where they build resilience and character through mental and physical challenges such as attempting the high elements, caving, bouldering, rock-climbing.
-
-
 ##### **Primary 5**
 Students would have their 3 Days 2 Nights adventure camp where they learn and apply key principles & consideration of packing for a residential camp, describe procedures for treating minor injuries during outdoor activities.They would learn to build resilience and character through mental and physical challenges such as attempting the high elements, caving, bouldering, rock-climbing.
 
@@ -56,8 +52,6 @@ Students would have their 3 Days 2 Nights adventure camp where they learn and ap
 <img src="/images/pe4.png" style="width:75%">
 
 ##### **Primary 6**
-Students would usually trek to MacRitchie Reservoir.
+Students will learn to create pictorial chart of an area in school indicatiing relative sizes and positions of key landmarks. They will plan and undertake a route with checkpoints using pictorial charts. They will recognise the importance of minimising environmental impact when engaging in outdoor activities. They will have a trekking in MacRitchie reservoir during post exam activity. The students will have to trek 2 different routes through the vegetation as they listen and observe the surroundings.
 
 <img src="/images/pe5.png" style="width:75%">
-
-The students will have 2 different routes to trek as they walk through the vegetation. They are to listen and observe the surroundings.
