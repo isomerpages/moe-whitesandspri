@@ -9,7 +9,7 @@ In White Sands Primary School, Netball is an established CCA with a history that
 
 For our junior girls, they learn basic Netball skills and experience the joy of learning through modified games. These skills learnt will be applied to actual game play at a later stage.
 
-For the senior girls, they will either be placed in the school teams or the development team. The school teams will train more intensively and participate in the annual East Zone & National Primary Schools Netball Championships while the development team will continue to train weekly and participate in non-competitive Netball carnivals or friendly games.
+For the senior girls, they will either be placed in the school teams or the development team. The school teams will train more intensively and participate in the annual National School Games(NSG) while the development team will continue to train weekly and participate in non-competitive Netball carnivals or friendly games.
 
 <img src="/images/netball1.jpg" style="width:49%" align=left>
 <img src="/images/netball2.jpg" style="width:49%" align=right>
