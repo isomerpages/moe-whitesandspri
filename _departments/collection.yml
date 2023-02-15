@@ -2,12 +2,12 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue.md
       - English.md
       - Mathematics.md
       - Science.md
+      - Mother Tongue.md
+      - Physical Education/.keep
       - Physical Education/Physical Education.md
       - Physical Education/PAL.md
-      - Physical Education/.keep
       - Aesthetics.md
       - Information & Communication Technology.md
