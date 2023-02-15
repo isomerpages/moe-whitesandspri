@@ -33,7 +33,7 @@ Students will learn about communal living and doing team-bonding activities toge
 
 
 ##### **Primary 5**
-Students would have their 3 Days 2 Nights adventure camp where they learn and apply key principles & consideration of packing for a residential camp, describe procedures for treating minor injuries during outdoor activities.They would learn to build resilience and character through mental and physical challenges such as attempting the high elements, caving, bouldering, rock-climbing.
+Students would have their 3 Days 2 Nights adventure camp where they learn and apply key principles & consideration of packing for a residential camp, describe procedures for treating minor injuries during outdoor activities. They would learn to build resilience and character through mental and physical challenges such as attempting the high elements, caving, bouldering, rock-climbing.
 
 <figure>
 <img src="/images/pe2.png" style="width:55%">
@@ -47,9 +47,6 @@ Students would have their 3 Days 2 Nights adventure camp where they learn and ap
  </figcaption>
 </figure>
 
-
-
-<img src="/images/pe4.png" style="width:75%">
 
 ##### **Primary 6**
 Students will learn to create pictorial chart of an area in school indicatiing relative sizes and positions of key landmarks. They will plan and undertake a route with checkpoints using pictorial charts. They will recognise the importance of minimising environmental impact when engaging in outdoor activities. They will have a trekking in MacRitchie reservoir during post exam activity. The students will have to trek 2 different routes through the vegetation as they listen and observe the surroundings.
