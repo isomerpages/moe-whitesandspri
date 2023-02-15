@@ -11,19 +11,15 @@ The various public performances create opportunities for the students to appreci
 
 #### **Highlights**
 
-<img src="/images/malaydance1.jpg" style="width:55.5%" align=left>
-<img src="/images/malaydance2.jpg" style="width:42%" align=right>
+<img src="/images/malaydance1.jpg" style="width:55.5%" align=lt>
+<br clear="left">
+<br clear="left">
+
+
+
+
+
+<img src="/images/malaydance6.jpg" style="width:550%" align=l>
 
 <br clear="left">
 
-<img src="/images/malaydance3.jpg" style="width:47.5%" align=left>
-<img src="/images/malaydance4.jpg" style="width:50.5%" align=right>
-
-<br clear="left">
-
-<img src="/images/malaydance5.jpg" style="width:49%" align=left>
-<img src="/images/malaydance6.jpg" style="width:49%" align=right>
-
-<br clear="left">
-
-<img src="/images/malaydance7.jpg" style="width:49%" align=left>
