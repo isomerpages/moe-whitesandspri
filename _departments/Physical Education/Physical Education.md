@@ -29,15 +29,15 @@ Students will have their SwimSafe Programme 2.0 where they learn about water saf
 For P3 outdoor education, students will apply key principles and considerations of packing for a day strip, identify ways to manage the safety of self and others during outdoor activities.
 
 ##### **Primary 4**
+Students will learn about communal living and doing team-bonding activities together. They undertake a route  with checkpoints using pictorial charts and other aids. They would apply key principles and considerations of healthy eating and hygiene when preparing for a meal for a day trip.
+
+
+
 Students would have their 3 Days 2 Nights adventure camp where they build resilience and character through mental and physical challenges such as attempting the high elements, caving, bouldering, rock-climbing.
 
-<figure>
-<img src="/images/pe1.png" style="width:45%">
-<figcaption>  Experiencing high elements at a camp
- </figcaption>
-</figure>
 
-The process of overcoming their fears and challenging their limits helps students acquire important life skills, including communication and problem-solving skills.
+##### **Primary 5**
+Students would have their 3 Days 2 Nights adventure camp where they learn and apply key principles & consideration of packing for a residential camp, describe procedures for treating minor injuries during outdoor activities.They would learn to build resilience and character through mental and physical challenges such as attempting the high elements, caving, bouldering, rock-climbing.
 
 <figure>
 <img src="/images/pe2.png" style="width:55%">
@@ -51,8 +51,7 @@ The process of overcoming their fears and challenging their limits helps student
  </figcaption>
 </figure>
 
-##### **Primary 5**
-Students will undergo Kayaking as another water experience to build water confidence and camaraderie spirit.
+
 
 <img src="/images/pe4.png" style="width:75%">
 
