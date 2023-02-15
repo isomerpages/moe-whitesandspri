@@ -24,7 +24,9 @@ Students learn about moving around the environment and are able to identify haza
 Students learn to build competency in assessing and managing risk while moving around school, having the sense of place. They also learn to develop social awareness by working together in groups.
 
 ##### **Primary 3**
-Students would have their SwimSafer Programme and experience P3 Day Camp. They learn about communal living and doing activities together such as Longkang fishing, team building activities. As we know, outdoor school programmes, such as adventure camps, build resilience and character through mental and physical challenges.
+Students will have their SwimSafe Programme 2.0 where they learn about water safety. It is designed to teach the students how to stay safe around aquatic environments. The programme aims to teach swimming proficiency and water survival skills in a fun manner.
+
+For P3 outdoor education, students will apply key principles and considerations of packing for a day strip, identify ways to manage the safety of self and others during outdoor activities.
 
 ##### **Primary 4**
 Students would have their 3 Days 2 Nights adventure camp where they build resilience and character through mental and physical challenges such as attempting the high elements, caving, bouldering, rock-climbing.
