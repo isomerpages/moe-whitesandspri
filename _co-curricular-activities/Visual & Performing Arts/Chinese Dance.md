@@ -12,20 +12,7 @@ In Chinese Dance CCA, apart from presenting opportunities for students to studen
 Senior students get to mentor the younger ones over the years and in time build a virtuous and healthy cycle of welcoming and encouraging new students. The CCA aims to raise the dancers’ self-esteem and recognise their own capabilities. Not leaving anyone behind, every student will be given an opportunity to showcase her ability during school events (e.g. Teacher’s day, Prize Giving Day, Heartshine) and public events.
 
 #### **Events and Activities**
-##### **2016 Marina Bay**
 
-<img src="/images/chidance1.jpg" style="width:75%">
-
-<img src="/images/chidance2.jpg" style="width:75%">
-
-##### **2016 HeartShine Fiesta**
-<img src="/images/chidance3.jpg" style="width:44%" align=left>
-<img src="/images/chidance4.jpg" style="width:53%" align=right>
-
-<br clear="left">
-
-##### **2017 Children’s Day Celebration**
-<img src="/images/chidance5.jpg" style="width:75%">
 
 ##### **2018 Singapore Youth Festival**
 
@@ -35,14 +22,3 @@ Senior students get to mentor the younger ones over the years and in time build 
 
 <img src="/images/chidance7.jpg" style="width:75%">
 
-##### **Our dancer and costume**
-
-<img src="/images/chidance9.jpg" style="width:40%;margin-right:55px;" align = "right">
-<img src="/images/chidance8.jpg" style="width:40%;margin-left:55px;" align = "left">
-
-<br clear="left">
-
-<img src="/images/chidance11.jpg" style="width:40%;margin-right:55px;" align = "right">
-<img src="/images/chidance10.jpg" style="width:40%;margin-left:55px;" align = "left">
-
-<br clear="left">
