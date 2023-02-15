@@ -21,4 +21,3 @@ Senior students get to mentor the younger ones over the years and in time build 
 ##### **2019 Prize Giving Day**
 
 <img src="/images/chidance7.jpg" style="width:75%">
-
