@@ -23,4 +23,3 @@ For the senior girls, they will either be placed in the school teams or the deve
 
 <img src="/images/netball5.jpg" style="width:49%" align=left>
 <img src="/images/netball6.jpg" style="width:49%" align=right>
-
