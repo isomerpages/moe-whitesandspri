@@ -2,13 +2,13 @@ collections:
   for-parents:
     output: true
     order:
-      - Briefing Slides 2/Primary 6.md
-      - Briefing Slides 2/Primary 5.md
-      - Briefing Slides 2/Primary 4.md
-      - Briefing Slides 2/Primary 3.md
-      - Briefing Slides 2/Primary 2.md
-      - Briefing Slides 2/Primary 1.md
       - Briefing Slides 2/.keep
+      - Briefing Slides 2/Primary 1.md
+      - Briefing Slides 2/Primary 2.md
+      - Briefing Slides 2/Primary 3.md
+      - Briefing Slides 2/Primary 4.md
+      - Briefing Slides 2/Primary 5.md
+      - Briefing Slides 2/Primary 6.md
       - In Link Bulletin.md
       - Briefing Slides.md
       - School Partners/.keep
