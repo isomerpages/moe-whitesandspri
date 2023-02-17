@@ -15,9 +15,3 @@ In Music lessons, students’ listening skills and musical understanding are dev
 Students engage in formative, self and peer assessment through the use of checklists and rubrics to achieve improvement in their creating and performing abilities.
 
 Activities such as Art and Music Play@Recess, My Stage, learning journeys to museums and SYF Art Exhibition are organised for students to enjoy the Arts.
-
-#### **Art**
-**require image to be provided,unable to download**
-
-#### **Music**
-**require image to be provided,unable to download**
