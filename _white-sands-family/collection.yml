@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our People/.keep
-      - School Executive Committee.md
       - Teaching Staff.md
       - Non Teaching Staff.md
       - School Advisory Committee.md
