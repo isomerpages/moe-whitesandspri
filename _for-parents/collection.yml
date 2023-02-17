@@ -2,9 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Enrolling in WSPS/Parent Volunteer Scheme (Phase 2B).md
-      - Enrolling in WSPS/E Open House 2022.md
-      - Enrolling in WSPS/.keep
       - In Link Bulletin.md
       - Briefing Slides/.keep
       - Briefing Slides/Primary 2.md
@@ -18,5 +15,8 @@ collections:
       - School Partners/School Bus.md
       - School Partners/School Uniform.md
       - School Partners/Student Care Centre.md
+      - Enrolling in WSPS/.keep
+      - Enrolling in WSPS/Parent Volunteer Scheme (Phase 2B).md
+      - Enrolling in WSPS/E Open House 2022.md
       - Information on Parents Gateway.md
       - Consent for Photography and Videos.md
