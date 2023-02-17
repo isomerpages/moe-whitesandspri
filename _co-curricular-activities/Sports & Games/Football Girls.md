@@ -9,16 +9,14 @@ White Sands Primary School Football Girls is a CCA that builds our players’ ag
 
 At Primary 3 and 4, our girls are in the development team and they participate in friendly matches for the game exposure. Some of the stronger Primary 4 players will be identified to join the school team which comprises Primary 4, 5 and 6 players. Our school team girls participate in the annual Football Girls National Championships.
 
-<img src="/images/footballgirls1.jpg" style="width:46%" align=left>
-<img src="/images/footballgirls2.jpg" style="width:52%" align=right>
 
-<br clear="left">
+<img src="/images/footballgirls2.jpg" style="width:50%" align=left>
 
-<img src="/images/footballgirls3.jpg" style="width:50%" align=left>
 
-<img src="/images/footballgirls4.jpg" style="width:35%;margin-right:45px;" align = "right">
+<img src="/images/footballgirls3.jpg" style="width:50%" align=right>
+
+
 
 
 <br clear="left"><br><br>
 
-<img src="/images/footballgirls5.jpg" style="width:50%" align=left>
