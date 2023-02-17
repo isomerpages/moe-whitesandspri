@@ -9,7 +9,7 @@ third_nav_title: Briefing Slides 2
 
 * ##### [P3 Principal's Address](/files/2023%20SPECS%20P3%20P%20Address.pdf)
 * ##### [Primary 3A](/files/2023%20SPECS%20P3A.pdf)
-* ##### 
+* ##### [Primary 3B](/files/2023%20SPECS%20P3B.pdf)
 * ##### [Primary 3C](/files/2023%20SPECS%20P3C.pdf)
 * ##### [Primary 3D](/files/2023%20SPECS%20P3D.pdf)
 * ##### [Primary 3E](/files/2023%20SPECS%20P3E.pdf)
