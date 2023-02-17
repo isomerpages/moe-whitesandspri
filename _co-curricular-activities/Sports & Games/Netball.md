@@ -11,19 +11,16 @@ For our junior girls, they learn basic Netball skills and experience the joy of 
 
 For the senior girls, they will either be placed in the school teams or the development team. The school teams will train more intensively and participate in the annual National School Games(NSG) while the development team will continue to train weekly and participate in non-competitive Netball carnivals or friendly games.
 
-<img src="/images/netball1.jpg" style="width:49%" align=left>
+
 <img src="/images/netball2.jpg" style="width:49%" align=right>
 
-<br clear="left">
+
 
 <img src="/images/netball3.jpg" style="width:35%;margin-left:45px;" align = "left">
-<img src="/images/netball4.jpg" style="width:49%" align=right>
+
 
 <br clear="left">
 
 <img src="/images/netball5.jpg" style="width:49%" align=left>
 <img src="/images/netball6.jpg" style="width:49%" align=right>
 
-<br clear="left">
-
-<img src="/images/netball7.jpg" style="width:49%" align=left>
