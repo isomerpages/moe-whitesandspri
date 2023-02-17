@@ -18,4 +18,3 @@ On top of emerging East Zone Champions in 2012, 2017 and 2018, the Football Team
 <img src="/images/footballboys4.jpg" style="width:49%" align=right>
 
 <br clear="left">
-
