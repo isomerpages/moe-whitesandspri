@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Briefing Slides 2/Primary 3.md
       - Briefing Slides 2/Primary 2.md
       - Briefing Slides 2/Primary 1.md
       - Briefing Slides 2/.keep
