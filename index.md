@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Calendar of Events
           description: ""
-          url: /for-parents/calendar-of-events/
+          url: /for-parents/COA/
         - title: For Parents
           description: ""
           url: /useful-links/in-link-bulletin/
