@@ -13,9 +13,5 @@ Our choir members are exposed to wide genres of choral music, choral skills and 
 
 The WSPS school choir has been taking part in the Singapore Youth Festival presentation as well as Racial Harmony and National Day Events organized by grassroots organisations. They also perform for school events such as the annual Heartshine and Prize-Giving Day.
 
-<img src="/images/choir1.jpg" style="width:62%" align=left>
-<img src="/images/choir2.jpg" style="width:35%" align=right>
-
-<br clear="left">
-
-<img src="/images/choir3.jpg" style="width:62%" align=left>
+<img src="/images/choir1.jpg" style="width:52%" align=left>
+<img src="/images/choir2.jpg" style="width:48%" align=right>
