@@ -13,19 +13,15 @@ Our players also develop their Social and Emotional Competencies as they learn t
 
 Our Table Tennis CCA programme provides a breadth of experience through practising skills with different schoolmates and depth in the development of skills through effective coaching. Outstanding players are selected to represent the school in national schools competitions.
 
-<img src="/images/tabletennis1.jpg" style="width:30%;margin-left:65px;" align = "left">
+
 <img src="/images/tabletennis2.jpg" style="width:49%" align=right>
 
-<br clear="left">
-		
-<img src="/images/tabletennis3.jpg" style="width:49%" align=left>
-<img src="/images/tabletennis4.jpg" style="width:49%" align=right>
 
-<br clear="left">
 
-<img src="/images/tabletennis5.jpg" style="width:49%" align=left>
+
+
+
 <img src="/images/tabletennis6.jpg" style="width:49%" align=right>
 
-<br clear="left">
 
-<img src="/images/tabletennis7.jpg" style="width:49%" align=left>
+
