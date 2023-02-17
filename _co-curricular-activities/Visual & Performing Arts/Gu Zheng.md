@@ -9,34 +9,16 @@ Our Guzheng Ensemble aims to instill in our students an appreciation for Chinese
 
 Through the various platforms available to perform e.g Chinese New Year celebration, Singapore Youth Festival, our students are given opportunities to showcase their talents which helps to build their level of confidence.
 
-##### **Mid Autumn Festival**
 
-<img src="/images/guzheng1.jpg" style="width:40.5%" align=left>
 <img src="/images/guzheng2.jpg" style="width:57%" align=right>
 
-<br clear="left">
 
-##### **HeartShine Fiesta**
 
-<img src="/images/guzheng3.jpg" style="width:75%">
 
-##### **Singapore Youth Festival**
+
+
 
 <img src="/images/guzheng4.jpg" style="width:42%" align=left>
-<img src="/images/guzheng5.jpg" style="width:55.5%" align=right>
 
-<br clear="left">
 
-##### **Guzheng Appreciation Lesson**
 
-<img src="/images/guzheng6.jpg" style="width:30%" align=left>
-<img src="/images/guzheng7.jpg" style="width:67.5%" align=right>
-
-<br clear="left">
-
-##### **Team building Activities / Sharing sessions**
-
-<img src="/images/guzheng8.jpg" style="width:51%" align=left>
-<img src="/images/guzheng9.jpg" style="width:47%" align=right>
-
-<br clear="left">
