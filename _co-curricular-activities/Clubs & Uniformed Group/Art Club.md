@@ -21,4 +21,3 @@ Our members have consistently produced artworks of quality. Our most recent piec
 
 <br clear="left">
 
-<img src="/images/art5.jpg" style="width:49%" align=left>
