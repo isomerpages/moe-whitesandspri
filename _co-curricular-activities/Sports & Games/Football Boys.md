@@ -13,14 +13,9 @@ Sportsmanship and character building are the key focus of the Football Programme
 
 On top of emerging East Zone Champions in 2012, 2017 and 2018, the Football Team has appeared in 12 podiums and 8 Finals in the last 5 years. We take great pride in preparing our boys beyond their time in primary school and we have the honour of being a prominent contributor of talent towards the National age group teams.
 
-<img src="/images/footballboys1.jpeg" style="width:42%" align=left>
-<img src="/images/footballboys2.jpeg" style="width:56%" align=right>
+<img src="/images/footballboys1.jpeg" style="width:49%" align=left>
 
-<br clear="left">
-
-<img src="/images/footballboys3.jpg" style="width:49%" align=left>
 <img src="/images/footballboys4.jpg" style="width:49%" align=right>
 
 <br clear="left">
 
-<img src="/images/footballboys5.jpg" style="width:49%" align=left>
