@@ -42,9 +42,7 @@ description: ""
 <img src="/images/cca11.jpg" style="width:30.5%" align=left>
 </a></p>
 
-<p><a href="https://staging.d107tbbuy8btfe.amplifyapp.com/passionate-learners/cca/angklung/">
-<img src="/images/cca12.jpg" style="width:30%" align=left>
-</a></p>
+
 
 <p><a href="https://staging.d107tbbuy8btfe.amplifyapp.com/passionate-learners/cca/modern-dance/">
 <img src="/images/cca13.jpg" style="width:30%" align=left>
