@@ -21,21 +21,19 @@ The E2K Programme aims to:
 *   Develop Science Process Skills, such as formulating hypothesis, using apparatus and equipment, analysing and evaluating
 *   Develop 21st Century Competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
 
-<img src="/images/sci1.jpg" style="width:47.5%" align=left>
-<img src="/images/sci2.jpg" style="width:50.5%" align=right>
+<img src="images/sci%207.jpg" style="width:47.5%" align=left>
+<img src="images/sci%208.png" style="width:50.5%" align=right>
 
 <br clear="left">
 
-<img src="/images/sci3.jpg" style="width:69%" align=left>
-<img src="/images/sci4.jpg" style="width:29%" align=right>
+<img src="/images/sci%209.png" style="width:50%" align=left>
+<img src="/images/sci%2010.png" style="width:50%" align=right>
 
 <br clear="left">
 
-<img src="/images/sci5.jpg" style="width:49%" align=left>
-<img src="/images/sci6.jpg" style="width:49%" align=right>
 
-<br clear="left">
+
 
 ##### A*Star-MOE Scientist-in-School(SIS) Programme
 
-Our school also participates in the Scientists-in-School (SIS) Programme to engage our Primary 6 Students in STEM research and activities, under the guidance and mentorship of a research scientist at A* Institute
+Our school also participates in the Scientists-in-School (SIS) Programme to engage our Primary 6 Students in STEM research and activities, under the guidance and mentorship of a research scientist at A* Institute.
