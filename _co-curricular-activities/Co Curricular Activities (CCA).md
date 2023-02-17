@@ -45,12 +45,12 @@ description: ""
 
 
 <p><a href="https://staging.d107tbbuy8btfe.amplifyapp.com/passionate-learners/cca/modern-dance/">
-<img src="/images/cca13.jpg" style="width:30%" align=left>
-</a></p>
+<img src="/images/cca13.jpg" style="width:30%;margin-left:105px;" align = "left">	</a></p>
 
 <p><a href="https://staging.d107tbbuy8btfe.amplifyapp.com/passionate-learners/cca/malay-dance/">
 <img src="/images/cca14.jpg" style="width:30%" align=left>
 </a></p>
+
 
 <br clear="left"><br>
 
