@@ -19,9 +19,9 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
-      title: In-Link Bulletin for February
+      title: 2023 SPECS Slides
       button: Click Here
-      url: /useful-links/in-link-bulletin/
+      url: /for-parents/Briefing-Slides-2/P2/
       subtitle: Latest announcement
   - infopic:
       title: WSPS Facebook
