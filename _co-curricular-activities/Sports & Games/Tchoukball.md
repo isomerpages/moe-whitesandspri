@@ -11,14 +11,11 @@ At Primary 3 and 4, our players are in the development team and they learn the b
 
 At Primary 5 and 6, our players who are in the development team will further enhance their knowledge and application of Tchoukball rules and skills through game play. As for players in the school teams, they will train intensively to prepare them for the SPH Foundation National Primary Schools Tchoukball Championships which are held yearly.
 
-<img src="/images/tchoukball1.jpg" style="width:49%" align=left>
+
 <img src="/images/tchoukball2.jpg" style="width:49%" align=right>
 
-<br clear="left">
+
 
 <img src="/images/tchoukball3.jpg" style="width:49%" align=left>
-<img src="/images/tchoukball4.jpg" style="width:49%" align=right>
 
-<br clear="left">
 
-<img src="/images/tchoukball5.jpg" style="width:49%" align=left>
