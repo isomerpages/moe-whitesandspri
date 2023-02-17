@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Briefing Slides 2/.keep
       - In Link Bulletin.md
       - Briefing Slides.md
       - School Partners/.keep
