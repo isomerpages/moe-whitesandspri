@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Enrolling in WSPS/Parent Volunteer Scheme (Phase 2B).md
       - Enrolling in WSPS/E Open House 2022.md
       - Enrolling in WSPS/.keep
       - In Link Bulletin.md
