@@ -15,19 +15,10 @@ Our White Sandian dancers are given the opportunity to discover and explore the 
 
 Students are presented with opportunities to perform at both internal and external events, such as the school’s Chinese New Year Celebrations, Prize Giving Day and also at community events such as Racial Harmony Day or Mid-Autumn Festival. Selected students also get to participate in the biennial Singapore Youth Festival Competitions. Through these exposures, our dancers develop leadership and the school’s C4RE values.
 
+<img src="/images/moderndance3.png" style="width:50%" align=left>
 
 
-#### **School Events**
-##### **Prize Giving Day 2019**
 
-<img src="/images/moderndance3.png" style="width:55%" align=left>
-<img src="/images/moderndance4.jpg" style="width:42.5%" align=right>
-
-<br clear="left">
-
-##### **Singapore Youth Festivals**
-<br clear="left">
-
-<img src="/images/moderndance6.jpg" style="width:49%" align=left>
+<img src="/images/moderndance6.jpg" style="width:49%" align=right>
 
 <br clear="left">
