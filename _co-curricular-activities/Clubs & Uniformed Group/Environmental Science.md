@@ -15,14 +15,7 @@ The Environmental Club also actively brings learning outside the classroom, wher
 
 By participating in these programmes, our club members develop important 21st century competencies such as critical thinking skills, communication skills and global awareness of environmental issues affecting them.
 
-<img src="/images/environmentalsci1.jpg" style="width:49%" align=left>
-<img src="/images/environmentalsci2.jpg" style="width:49%" align=right>
-
-<br clear="left">
 
 <img src="/images/environmentalsci4.jpg" style="width:40%;margin-right:55px;" align = "right">
 <img src="/images/environmentalsci3.jpg" style="width:40%;margin-left:55px;" align = "left">
 
-<br clear="left">
-
-<img src="/images/environmentalsci5.jpg" style="width:55%" align=left>
