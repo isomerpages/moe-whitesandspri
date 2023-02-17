@@ -2,6 +2,7 @@ collections:
   white-sands-family:
     output: true
     order:
+      - Our People/Teaching Staff.md
       - Our People/School Executive Committee.md
       - Our People/.keep
       - Non Teaching Staff.md
