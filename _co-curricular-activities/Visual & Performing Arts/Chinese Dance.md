@@ -13,11 +13,6 @@ Senior students get to mentor the younger ones over the years and in time build 
 
 #### **Events and Activities**
 
+<img src="/images/chidance.jpg" style="width:50%" align=left>
 
-##### **2018 Singapore Youth Festival**
-
-<img src="/images/chidance.jpg" style="width:75%">
-
-##### **2019 Prize Giving Day**
-
-<img src="/images/chidance7.jpg" style="width:75%">
+<img src="/images/chidance7.jpg" style="width:50%" align=right>
