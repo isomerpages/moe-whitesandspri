@@ -24,8 +24,8 @@ The E2K Programme aims to:
 
 <br clear="left">
 
-<img src="/images/sci%209.png" style="width:50%" align=left>
-<img src="/images/sci%2010.png" style="width:50%" align=right>
+<img src="/images/sci%209.png" style="width:49%" align=left>
+<img src="/images/sci%2010.png" style="width:48%" align=right>
 
 <br clear="left">
 
