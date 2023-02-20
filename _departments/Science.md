@@ -21,8 +21,6 @@ The E2K Programme aims to:
 *   Develop Science Process Skills, such as formulating hypothesis, using apparatus and equipment, analysing and evaluating
 *   Develop 21st Century Competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
 
-<img src="images/sci%207.jpg" style="width:47.5%" align=left>
-<img src="images/sci%208.png" style="width:50.5%" align=right>
 
 <br clear="left">
 
