@@ -1,0 +1,7 @@
+collections:
+  wsps:
+    output: true
+    order:
+      - In Link Bulletin.md
+      - Privacy Statement.md
+      - Sitemap.md

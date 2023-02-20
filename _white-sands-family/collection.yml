@@ -1,0 +1,13 @@
+collections:
+  white-sands-family:
+    output: true
+    order:
+      - Our People/.keep
+      - Our People/School Executive Committee.md
+      - Our People/Teaching Staff.md
+      - Our People/Non Teaching Staff.md
+      - School Advisory Committee.md
+      - Parent Support Group/Parent Support Group.md
+      - Parent Support Group/Join Us.md
+      - Parent Support Group/.keep
+      - Fathers @ WSPS.md
