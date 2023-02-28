@@ -29,8 +29,12 @@ The E2K Programme aims to:
 
 <br clear="left">
 
+<img src="/images/sci%207.jpg" style="width:49%" align=left>
+<img src="/images/sci%208.png" style="width:49%" align=right>
 
 
+
+<br clear="left">
 
 ##### A*Star-MOE Scientist-in-School(SIS) Programme
 
