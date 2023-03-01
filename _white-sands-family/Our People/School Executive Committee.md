@@ -4,7 +4,6 @@ permalink: /white-sands-family/
 description: ""
 third_nav_title: Our People
 ---
-
 ### **School Executive Committee**
 
 <figure>
@@ -36,6 +35,7 @@ third_nav_title: Our People
 |  |  |
 |:---:|:---:|
 | English Language (Covering) | Ms Emmeline Ong |
+| Mathematics | Mdm Goo Lay Hoon |
 | Mother Tongue Languages | Mdm Qiu Suguan |
 | Science | Mrs Joyce Soon |
 | Character and Citizenship Education | Mrs Joycelyn Lok |
@@ -51,7 +51,6 @@ third_nav_title: Our People
 |  |  |
 |:---:|:---:|
 | English | Ms Wan Nurin Zahian |
-| Mathematics (Internal) | Mrs Daphne Seah |
 | Chinese Language | Mdm Seah Huixin |
 | Malay/ Tamil Language | Mr Ismail |
 | Information Communication Technology | Mr Liew Guan Jie |
