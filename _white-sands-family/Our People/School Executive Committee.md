@@ -26,9 +26,10 @@ third_nav_title: Our People
 <br clear="left"><br><br><br>
 <br clear="left"><br><br><br>
 
-| | |
+|  |  |
 |:---:|:---:|
 | **Ms Lina Tiong** | **Ms Rezina Khan** |
+
 
 #### **Key Personnel - Heads of Departments**
 

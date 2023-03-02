@@ -19,8 +19,8 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
-      title: 2023 SPECS Slides
+      title: In-Link Bulletin for March
       button: Click Here
-      url: /for-parents/Briefing-Slides-2/P2/
+      url: /useful-links/in-link-bulletin/
       subtitle: Latest announcement
 ---
