@@ -20,15 +20,14 @@ third_nav_title: Our People
 	</strong></figcaption>
 </figure>
 
-<img src="/images/VP2023.png" style="width:25%;margin-right:95px;" align = "right">
-<img src="/images/VPA2023.png" style="width:23%;margin-right:190px;" align = "right">
+![](/images/VP%201.png)
 
-<br clear="left"><br><br><br>
-<br clear="left"><br><br><br>
 
 |  |  |
 |:---:|:---:|
 | **Ms Lina Tiong** | **Ms Rezina Khan** |
+
+
 
 
 #### **Key Personnel - Heads of Departments**
