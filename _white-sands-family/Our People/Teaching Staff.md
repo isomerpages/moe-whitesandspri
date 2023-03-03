@@ -4,7 +4,6 @@ permalink: /white-sands-family/teaching-staff/
 description: ""
 third_nav_title: Our People
 ---
-
 ### **C4RE Teachers**
 #### **Primary 1**
 
@@ -16,7 +15,7 @@ third_nav_title: Our People
 | **1D** | Mdm Roza Bte Rahman | Miss Lee Yuan Shan | 
 | **1E** | Ms Lim Hui Ling | Mdm Siti Alawiah Bte Jaffar | 
 | **1F** | Mdm Wong Hui Bing | Mdm Mardhiya |  |
-|
+| Transit Teacher | Mrs Carine Ong  |
 
 #### **Primary 2**
 
@@ -77,14 +76,22 @@ third_nav_title: Our People
 | **6E** | Mdm Nadia | Mrs Joycelyn Lok | Mdm Shahira Bte Daud |
 | **6F** | Mr Mazlan Bin Hussein | Mr Mohd Jamaluddin Affandi | Mrs Droze  |
 |  |  |  |   |
-|
+
+
 
 #### **Teachers**
 
-|  |  |  |
-|---|---|---|
-| Mrs Carine Ong | Mrs Mak Pui See, Nicole | Miss Leong Yin Leng |
-| Mr Aaron Yeo | Mdm Dira Murshida | Mrs Goh Bee Chew |
-| Mrs Lee Puay Hoon | Mdm Hafiza Bte Admad | Mrs Kalpena Gangadaran |
-| Mdm Farahdilla Bte Ariffin |   |   |
-|
+|  |  |
+|:---:|:---:|
+| P2 & P3 English Teacher | Mdm Farahdilla Bte Ariffin |
+| P3 & P4 Math & Science Teacher | Miss Leong Yin Leng |
+| P3 English & Math Teacher | Mrs Mak Pui See, Nicole |
+| P4 English Teacher | Mrs Lee Puay Hoon |
+| P4 & P6 Math Teacher | Mdm Hafiza Bte Ahmad |
+| P5 English Teacher | Mrs Goh Bee Chew |
+| PE Teacher | Mr Aaron Yeo |
+| Malay Teacher | Mdm Dira Murshida |
+| Malay Teacher | Mr Abdul Samad Bin Pawiro|
+| Malay Teacher | Mdm Rohana Bte Ibrahim|
+| Tamil Teacher | Mrs Kalpena Gangadaran |
+
