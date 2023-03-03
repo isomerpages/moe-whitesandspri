@@ -28,7 +28,8 @@ The focus is on growing students’ capacity to put other people’s needs first
 During the end of Term 3 every year, C4RE teachers will nominate deserving students to become Prefects. They will then go through group interviews to qualify for the next round of selection. Prefect Investiture ceremony will be at the start of every academic year to mark their commitment to serve the school and their peers.
 
 ##### **Leadership Training**
-Prefects will receive specific leadership training according to their levels. These skills enable the prefects to carry out their duties confidently and effectively.
+Student 
+Leaders will receive specific leadership training according to their levels. These skills enable the prefects to carry out their duties confidently and effectively.
 
 | Levels | Training Focus |
 |---|---|
@@ -45,13 +46,13 @@ Class appointments are rotated every semester to ensure students are given oppor
 
 
 ##### **Platforms for displaying leadership skills**
-Various platforms are provided for Prefects to display and hone their leadership skills.
+Various platforms are provided for Student Leaders to display and hone their leadership skills.
 *   **Events-based**:<br> Prefects will be selected to be the emcees for various school events such as Prize-Giving Day, Teachers’ Day concert and Appreciation Day. They will also help out as ushers during Parents’ Briefing, P1 Orientation and Prize-Giving Day.
-*   **Student Voices & Values-in-action Programs**:<br> Prefects will be given opportunities to come up with innovative ideas to improve the school community for self and others.
+*   **Student Voices & Values-in-action Programs**:<br> Students will be given opportunities to come up with innovative ideas to improve the school community for self and others.
 *   **Teacher's Day Celebration**:<br> Middle and upper primary pupils, together with the prefects will be given the autonomy to plan for Teachers’ Day celebration..
 
 ##### **Appreciation and Recognition**
-An appreciation party will be held in Term 4 to celebrate the successes and milestones achieved for the year. This also serves as a platform for the school to recognise the contribution of the students.
+An appreciation party will be held in Term 4 to celebrate the successes and milestones achieved for the year. This also serves as a platform for the school to recognise the contributions of the students.
 
 ##### **Prefects**
 ![](/images/leadership%201.png)
