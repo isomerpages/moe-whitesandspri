@@ -20,7 +20,7 @@ third_nav_title: Our People
 	</strong></figcaption>
 </figure>
 
-![](/images/VP%201.png)
+<img src="/images/VP%201.png" style="width:40%"> 
 
 
 |  |  |
