@@ -15,7 +15,7 @@ third_nav_title: Our People
 | **1D** | Mdm Roza Bte Rahman | Miss Lee Yuan Shan | 
 | **1E** | Ms Lim Hui Ling | Mdm Siti Alawiah Bte Jaffar | 
 | **1F** | Mdm Wong Hui Bing | Mdm Mardhiya |  |
-|
+| Transit Teacher | Mrs Carine Ong  |
 
 #### **Primary 2**
 
@@ -83,15 +83,15 @@ third_nav_title: Our People
 
 |  |  |
 |:---:|:---:|
-| Transit Teacher | Mrs Carine Ong  |
-| P3 English & Math Teacher | Mrs Mak Pui See, Nicole |
+| P2 & P3 English Teacher | Mdm Farahdilla Bte Ariffin |
 | P3 & P4 Math & Science Teacher | Miss Leong Yin Leng |
-| PE Teacher | Mr Aaron Yeo |
-| Malay Teacher | Mdm Dira Murshida |
-| P5 English Teacher | Mrs Goh Bee Chew |
+| P3 English & Math Teacher | Mrs Mak Pui See, Nicole |
 | P4 English Teacher | Mrs Lee Puay Hoon |
 | P4 & P6 Math Teacher | Mdm Hafiza Bte Ahmad |
-| Tamil Teacher | Mrs Kalpena Gangadaran |
-| P2 & P3 English Teacher | Mdm Farahdilla Bte Ariffin |
+| P5 English Teacher | Mrs Goh Bee Chew |
+| PE Teacher | Mr Aaron Yeo |
+| Malay Teacher | Mdm Dira Murshida |
 | Malay Teacher | Mr Abdul Samad Bin Pawiro|
 | Malay Teacher | Mdm Rohana Bte Ibrahim|
+| Tamil Teacher | Mrs Kalpena Gangadaran |
+
