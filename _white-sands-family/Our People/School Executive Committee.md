@@ -52,11 +52,11 @@ third_nav_title: Our People
 |  |  |
 |:---:|:---:|
 | English | Ms Wan Nurin Zahian |
+| Mathematics (Internal) | Ms Gunita |
 | Chinese Language | Mdm Seah Huixin |
 | Malay/ Tamil Language | Mr Ismail |
 | Information Communication Technology | Mr Liew Guan Jie |
 | Applied Learning Programme | Ms Ng Hui Yin |
-| Co-Curricular | Mr Foo Chun Kiat Bryan |
 | Aesthetics | Mdm Roza |
 | Student Well-being | Mr Asraf S/O Salavan |
 | Student Leadership (Internal) | Mdm Amy Ong |
