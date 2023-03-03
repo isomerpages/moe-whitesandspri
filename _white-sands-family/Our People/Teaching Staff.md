@@ -93,4 +93,5 @@ third_nav_title: Our People
 | P4 & P6 Math Teacher | Mdm Hafiza Bte Ahmad |
 | Tamil Teacher | Mrs Kalpena Gangadaran |
 | P2 & P3 English Teacher | Mdm Farahdilla Bte Ariffin |
-| PE Teacher | Mr Aaron Yeo |
+| Malay Teacher | Mr Abdul Samad Bin Pawiro|
+| Malay Teacher | Mdm Rohana Bte Ibrahim|
