@@ -19,7 +19,7 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
-      title: In-Link Bulletin for March
+      title: In-Link Bulletin for April
       button: Click Here
       url: /useful-links/in-link-bulletin/
       subtitle: Latest announcement
