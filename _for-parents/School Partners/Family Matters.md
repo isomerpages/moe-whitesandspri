@@ -4,13 +4,12 @@ permalink: /useful-links/family-matters/triple-p/
 description: ""
 third_nav_title: School Partners
 ---
-
 #### **Positive Parenting Programme (Triple P)**
 White Sands Primary School came on on-board the evidence-based parenting programmes in April 2016 under the FamilyMatters@School programme.
 
-<img src="/images/triplep1.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/triplep2.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/triplep3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/triplep1.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/triplep2.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/triplep3.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -42,4 +41,6 @@ Skills to build healthy relationships with their peers and family; and<br>
 Positive values and attitudes towards family, relationships and life in general
 
 #### **Empowering Your Children to Have Life to The Full using Triple P**
-Please click **[here](/files/triplep.pdf)** for more details.
+
+
+Please click&nbsp;**[here](/files/triplep%20-%20revised.pdf)**&nbsp;for more details.
