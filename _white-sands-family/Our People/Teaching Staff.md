@@ -14,7 +14,7 @@ third_nav_title: Our People
 | **1C** | Ms L T Melwani | Mdm Ng Hui Wen |  |
 | **1D** | Mdm Roza Bte Rahman | Miss Lee Yuan Shan | 
 | **1E** | Ms Lim Hui Ling | Mdm Siti Alawiah Bte Jaffar | 
-| **1F** | Mdm Wong Hui Bing | Mdm Mardhiya |  |
+| **1F** | Mdm Wong Hui Bing | Mdm Mardhiyah |  |
 | Transit Teacher | Mrs Carine Ong  |
 
 #### **Primary 2**
@@ -94,4 +94,3 @@ third_nav_title: Our People
 | Malay Teacher | Mr Abdul Samad Bin Pawiro|
 | Malay Teacher | Mdm Rohana Bte Ibrahim|
 | Tamil Teacher | Mrs Kalpena Gangadaran |
-
