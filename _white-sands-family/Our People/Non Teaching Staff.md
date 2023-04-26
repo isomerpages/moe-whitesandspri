@@ -4,7 +4,6 @@ permalink: /white-sands-family/non-teaching-staff/
 description: ""
 third_nav_title: Our People
 ---
-
 ### **Non-teaching Staff**
 #### **Support Staff**
 
@@ -27,7 +26,7 @@ third_nav_title: Our People
 | **Operations Manager** | Mr Tan Tong Mou |
 | **Corporate Support Officer** | Miss Liu Choy San Shirley |
 | **Admin Executive** | Mdm Chua Lay Cheng Jane |
-| **Admin Executive** | Ms Farhana Binte Mohamed Ali |
+| **Admin Executive** | Ms Farhana  |
 | **Operations Support Officer** | Mdm Sarmini Bte Kiat |
 | **Operations Support Officer** | Mdm Rakyah Bte Ahmad |
 | **Operations Support Officer** | Mdm Chua Siew Hiam |
@@ -35,7 +34,7 @@ third_nav_title: Our People
 | **Operations Support Officer** | Mdm Tan Bee Lian |
 | **Operations Support Officer** | Mdm Zainah Bte Salleh |
 | **Library Assistant** | Mdm Rohaidah Bte Hassan |
-| **ICT Associate** | Mr Mohamed Fadzli Bin Anwar |
+| **ICT Associate** | Mr Mohamed Fadzli |
 | **ICT Manager** | Mr Nur Salim |
 | **Desktop Engineer** | Mr Norman Poh |
 | **Desktop Engineer** | Mr Enson Pang |
