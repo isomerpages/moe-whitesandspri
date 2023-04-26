@@ -74,7 +74,7 @@ third_nav_title: Our People
 | **6C** | Mrs Teo-Sim Hwee Khoon | Mdm Fatimah M T | Ms Jean Tham |
 | **6D** | Mdm Nadera Bawany | Mrs Beverly Peh |  |
 | **6E** | Mdm Nadia | Mrs Joycelyn Lok | Mdm Shahira Bte Daud |
-| **6F** | Mr Mazlan Bin Hussein | Mrs Droze | Mr Mohd Jamaluddin Affandi  |
+| **6F** | Mr Mazlan Bin Hussein | Mrs Droze | Mr Mohd Jamalludin Affandi  |
 |  |  |  |   |
 
 
