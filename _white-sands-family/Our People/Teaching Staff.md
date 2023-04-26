@@ -49,7 +49,7 @@ third_nav_title: Our People
 | **4B** | Mrs Tham-Wong Lin Yen  | Mr Asraf | Mr Mohd Razlee |
 | **4C** | Ms Nurfarahin B Salleh Udin | Mr Alvin Tan | Mdm Goo Lay Hoon |
 | **4D** | Mdm Anisah | Mr Ravichanthiran | Mr Liew Guan Jie |
-| **4E** | Mdm Maznah Bte Ismail | Ms Nur Adilah | Mr Bryan Foo |
+| **4E** | Mdm Maznah Bte Ismail | Ms Nur Adilah |  |
 | **4F** | Mr Chong Thiam Hock | Ms Nurin |  |
 |
 
