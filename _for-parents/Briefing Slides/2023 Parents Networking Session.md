@@ -8,4 +8,4 @@ third_nav_title: Briefing Slides
 <br>
 
 * ##### [2023 Parent Networking Session Slides (for Parents)](/files/2023%20parents%20networking%20session%20(for%20parents).pdf)
-* ##### Resources for Time Management
+* ##### [Resources for Time Management](https://go.gov.sg/wsps2023pns)
