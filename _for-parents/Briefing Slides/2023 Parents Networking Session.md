@@ -7,5 +7,5 @@ third_nav_title: Briefing Slides
 ### Parents Networking Session Resource
 <br>
 
-* ##### 2023 Parent Networking Session Slides (for Parents)
-* ##### Resources for Time Management 
+* ##### [2023 Parent Networking Session Slides (for Parents)](/files/2023%20parents%20networking%20session%20(for%20parents).pdf)
+* ##### Resources for Time Management
