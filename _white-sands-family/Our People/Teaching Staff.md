@@ -91,6 +91,5 @@ third_nav_title: Our People
 | P5 English Teacher | Mrs Goh Bee Chew |
 | PE Teacher | Mr Aaron Yeo |
 | Malay Teacher | Mdm Dira Murshida |
-| Malay Teacher | Miss Noor Ewanny |
 | Malay Teacher | Mdm Rohana Bte Ibrahim|
 | Tamil Teacher | Mrs Kalpena Gangadaran |
