@@ -34,7 +34,7 @@ third_nav_title: Our People
 
 |  |  |
 |:---:|:---:|
-| English Language (Covering) | Ms Emmeline Ong |
+| English Language | Ms Emmeline Ong |
 | Mathematics | Mdm Goo Lay Hoon |
 | Mother Tongue Languages | Mdm Qiu Suguan |
 | Science | Mrs Joyce Soon |
@@ -43,7 +43,7 @@ third_nav_title: Our People
 | Special Educational Needs | Ms Brenda Ng |
 | School Staff Developer | Ms Tham Bao Jing |
 | Information Communication Technology | Ms Lim Hui Yuen |
-| PE, Aesthetics & CCA | Mr Alvin Tan |
+| PE, Aesthetics &amp; CCA | Mr Alvin Tan |
 |
 
 #### **Key Personnel - Level Heads / Subject Heads**
@@ -61,15 +61,15 @@ third_nav_title: Our People
 | Student Leadership (Internal) | Mdm Amy Ong |
 |
 
-#### **Key Personnel - Year Heads / Lead & Senior Teachers**
+#### **Key Personnel - Year Heads / Lead &amp; Senior Teachers**
 
 |  |  |
 |:---:|:---:|
-| Primary 5 & 6 Year Head | Mr Wong Yexiang |
+| Primary 5 &amp; 6 Year Head | Mr Wong Yexiang |
 | Primary 5 AYH (Internal) | Mdm Diana |
 | Primary 4 AYH (Internal) | Ms Cheryl Chern |
-| Primary 3 & 4 AYH (Covering)  | Mr Mohd Razlee  |
-| Primary 1 & 2 Year Head | Mdm Erica Cheah |
+| Primary 3 &amp; 4 AYH (Covering)  | Mr Mohd Razlee  |
+| Primary 1 &amp; 2 Year Head | Mdm Erica Cheah |
 | Primary 1 AYH (Internal) | Mrs Carine Ong |
 | Senior Teacher (Lower Primary) | Mdm Naziathul |
 | Senior Teacher (English Language) | Mr Amos Sim |

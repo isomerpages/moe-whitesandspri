@@ -9,10 +9,10 @@ third_nav_title: Our People
 
 |  |  |
 |:---:|:---:|
-| **Allied Educator (T&L)** | Ms Brienne Chia Hiong Kwoon |
 | **Special Educational Needs Officer (SEN Officer)** | Ms Samirah Bte Mohd Noh |
 | **Special Educational Needs Officer (SEN Officer)** | Mdm Yee Leng Leng |
 | **Special Educational Needs Officer (SEN Officer)** | Mr Muhd Ismail Bin Rosli |
+| **Special Educational Needs Officer (SEN Officer)** | Mr Zuhri Bin Shariff |
 | **Allied Educator (FTSC)** | Ms Tan Boon Huay Janice |
 | **Allied Educator (FTSC)** | Mdm Tan Pei Yuan |
 |
