@@ -23,7 +23,7 @@ third_nav_title: Our People
 |---|---|---|---|
 | **2A** | Mrs Loh-Tan Kim Choo | Ms Brenda Ng |  |
 | **2B** | Mdm Marsita Bte Selamat | Mdm See Swee Tee | Mdm Naziathul |
-| **2C** | Mdm Zubaidah | Mdm Seah Huixin  | Mdm Qiu Suguan |
+| **2C** | Mdm Seah Huixin  | Mdm Qiu Suguan |
 | **2D** | Mrs Jean Wong | Mdm Garmit |  |
 | **2E** | Mrs Gurung | Ms Poh Hui Qin | Mdm Noor Rita  |
 | **2F** | Mdm Syariana Idrus | Mdm Amy Ong |  |
