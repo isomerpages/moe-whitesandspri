@@ -34,7 +34,7 @@ third_nav_title: Our People
 
 |  |  |
 |:---:|:---:|
-| English Language | Ms Emmeline Ong |
+| English Language (Covering) | Ms Emmeline Ong |
 | Mathematics | Mdm Goo Lay Hoon |
 | Mother Tongue Languages | Mdm Qiu Suguan |
 | Science | Mrs Joyce Soon |
@@ -50,7 +50,7 @@ third_nav_title: Our People
 
 |  |  |
 |:---:|:---:|
-| English | Ms Wan Nurin Zahian |
+| English Language | Ms Wan Nurin Zahian |
 | Mathematics (Internal) | Ms Gunita |
 | Chinese Language | Mdm Seah Huixin |
 | Malay/ Tamil Language | Mr Ismail |
