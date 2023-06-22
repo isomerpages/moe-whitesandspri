@@ -93,3 +93,4 @@ third_nav_title: Our People
 | Malay Teacher | Mdm Dira Murshida |
 | Malay Teacher | Mdm Rohana Bte Ibrahim|
 | Tamil Teacher | Mrs Kalpena Gangadaran |
+| Music Teacher | Mdm Ong Tyng Tyng Ruth  |
