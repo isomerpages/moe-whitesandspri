@@ -34,7 +34,7 @@ third_nav_title: Our People
 
 |  |  |
 |:---:|:---:|
-| English Language (Covering) | Ms Emmeline Ong |
+| English Language | Ms Emmeline Ong |
 | Mathematics | Mdm Goo Lay Hoon |
 | Mother Tongue Languages | Mdm Qiu Suguan |
 | Science | Mrs Joyce Soon |
