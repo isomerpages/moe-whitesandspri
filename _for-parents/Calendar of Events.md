@@ -3,4 +3,5 @@ title: Calendar of Events
 permalink: /for-parents/COA/
 description: ""
 ---
-![](/images/COA%202.png)
+
+![](/images/july%202023_final.jpg)
