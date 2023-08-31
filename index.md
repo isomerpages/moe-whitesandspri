@@ -19,7 +19,7 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
-      title: In-Link Bulletin for August
+      title: In-Link Bulletin for September
       button: Click Here
       url: /useful-links/in-link-bulletin/
       subtitle: Latest announcement
