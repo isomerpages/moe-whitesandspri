@@ -13,3 +13,4 @@ description: ""
 * [In-Link for July 2023](/files/in-link%20july%202023.pdf)
 * [In-Link for Aug 2023](/files/in-link%20august%202023_final.pdf)
 * [In-Link for Sept 2023](/files/in-link%20sep%202023_final.pdf)
+* [In-Link for October 2023](/files/in-link%20oct%202023_final.pdf)
