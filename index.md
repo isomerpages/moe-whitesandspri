@@ -19,7 +19,7 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infopic:
-      title: The Caring Teacher Awards 2024!
+      title: The Caring Teacher Awards 2024
       id: infopic
       description: "Click to read more and nominate our WSPS teachers for the CTA via
         the link below!  Closing date: 12 Jan 2024"
