@@ -52,3 +52,9 @@ You may also request for a hardcopy from the School’s General Office.
 * School Contact Person: Mr Roy Tay (Operations Manager)
 
 
+#### How to get there?
+
+* Nearest MRT: Pasir Ris MRT
+* Bus Number: 12, 17, 21, 39, 53, 81, 109, 359, 518
+
+**For further enquiries, you may contact Mr Roy Tay at 6922 9100.**
