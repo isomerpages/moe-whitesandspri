@@ -37,13 +37,12 @@ variant: markdown
 #### **Application Procedure**
 
 Download and complete the application form here.
-
 You may also request for a hardcopy from the School’s General Office. 
 
 Interested applicants shall submit the following documents together with the application form:
 
-1. **Completed application form**
-
-3.** Photocopy of the Identification Card (front & back)**
-
-5. List of proposed menu and pricing for all items
+###### 1. Completed application form
+###### 
+###### 2. Photocopy of the Identification Card (front & back)
+###### 
+###### 3. List of proposed menu and pricing for all items
