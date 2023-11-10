@@ -56,4 +56,5 @@ sections:
       title: Resources
       subtitle: A
       id: resources
+      button: More
 ---
