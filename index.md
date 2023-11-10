@@ -52,9 +52,4 @@ sections:
       button: Click Here
       url: /useful-links/in-link-bulletin/
       subtitle: Latest announcement
-  - resources:
-      title: Resources
-      subtitle: A
-      id: resources
-      button: More
 ---
