@@ -16,8 +16,9 @@ variant: markdown
 
 The Caring Teacher Awards (CTA) is a biennial event that pays tribute to teachers who show care and concern for the holistic development of their students, and go the extra mile to ensure their charges grow up to be confident and independent learners. 
 
+**Closing date: 12 Jan 2024**
+
 Nominate our WSPS teachers for the CTA via the link below! 
 
-**Closing date: 12 Jan 2024**
 
 https://www.cta.nie.edu.sg/
