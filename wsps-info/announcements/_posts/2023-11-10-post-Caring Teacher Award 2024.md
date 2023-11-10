@@ -10,7 +10,7 @@ variant: markdown
 ### Nominations are now open for The Caring Teacher Awards 2024!
 
 
-
+![](/images/CTA_2024.png)
 
 
 
