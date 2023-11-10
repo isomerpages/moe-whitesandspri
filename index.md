@@ -51,9 +51,4 @@ sections:
       url: https://go.gov.sg/oyea2024
       image: /images/oyea 2024.png
       alt: Image alt text
-  - infobar:
-      title: In-Link Bulletin for November
-      button: Click Here
-      url: /useful-links/in-link-bulletin/
-      subtitle: Latest announcement
 ---
