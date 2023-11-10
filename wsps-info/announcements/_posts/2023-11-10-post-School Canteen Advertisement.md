@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Noodle Stall    | 8 December 2023     | Non-Halal     |
@@ -36,12 +35,15 @@ variant: markdown
 
 #### **Application Procedure**
 
-Download and complete the application form here.
+1) Download and complete the application form here.
 You may also request for a hardcopy from the School’s General Office. 
 
-Interested applicants shall submit the following documents together with the application form:
+2) Interested applicants shall submit the following documents together with the application form:
 
- 1. Completed application form
-2. Photocopy of the Identification Card (front & back)
- 3. List of proposed menu and pricing for all items
-4. Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant(s)
+* Completed application form
+* Photocopy of the Identification Card (front & back)
+* List of proposed menu and pricing for all items
+* Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant(s)
+
+3)
+
