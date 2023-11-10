@@ -18,6 +18,10 @@ sections:
           description: ""
           url: /for-students/sls/
       background: /images/Playground 3.png
+  - resources:
+      title: Announcements
+      id: resources
+      button: More
   - infopic:
       title: The Caring Teacher Awards 2024
       id: infopic
@@ -52,8 +56,4 @@ sections:
       button: Click Here
       url: /useful-links/in-link-bulletin/
       subtitle: Latest announcement
-  - resources:
-      title: Resources
-      id: resources
-      button: More
 ---
