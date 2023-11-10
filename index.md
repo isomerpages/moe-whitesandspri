@@ -53,7 +53,7 @@ sections:
       url: /useful-links/in-link-bulletin/
       subtitle: Latest announcement
   - resources:
-      title: Announcements
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
       id: resources
-      button: MORE
 ---
