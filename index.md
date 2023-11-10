@@ -54,6 +54,6 @@ sections:
       subtitle: Latest announcement
   - resources:
       title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      subtitle: A
       id: resources
 ---
