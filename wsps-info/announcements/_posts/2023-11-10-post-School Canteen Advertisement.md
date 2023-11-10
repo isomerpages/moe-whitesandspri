@@ -45,5 +45,10 @@ You may also request for a hardcopy from the School’s General Office.
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant(s)
 
-3)
+3) Submit the completed application form and document by closing date via email OR to the School’s General Office:
+* School Address: 2 Pasir Ris Street 11 Singapore 519075
+* School Contact No: 6922 9100
+* School Email: wsps@moe.edu.sg 
+* School Contact Person: Mr Roy Tay (Operations Manager)
+
 
