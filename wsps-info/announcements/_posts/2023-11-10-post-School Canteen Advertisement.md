@@ -35,8 +35,10 @@ variant: markdown
 
 #### **Application Procedure**
 
-1) Download and complete the application form here.
+1) Download and complete the application form [here](/files/Application_Form_for_School_Canteen_Stall.pdf).
 You may also request for a hardcopy from the School’s General Office. 
+
+
 
 2) Interested applicants shall submit the following documents together with the application form:
 
