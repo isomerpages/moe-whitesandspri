@@ -8,14 +8,13 @@ image: ""
 variant: markdown
 ---
 
-
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Noodle Stall    | 8 December 2023     | Non-Halal     |
 
-**We are looking for a Chinese Noodle Stallholder to operate in our school canteen with effect from January 2024.**
+#### **We are looking for a Chinese Noodle Stallholder to operate in our school canteen with effect from January 2024.**
 
-**Eligibility and Criteria:**
+#### **Eligibility and Criteria:**
 
 * A Singapore Citizens or Singapore Permanent Residents (SPR) for stallholder and stall assistant. 
 * Committed to provide good service and quality food with reasonable price in consultation with the school.
@@ -31,6 +30,10 @@ variant: markdown
 * Successful applicant will need to apply for a food stall license from Singapore Food Agency (SFA).
 * Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
 
-**Other Details**
+#### **Other Details**
 * Estimated start date is Jan 2024 after gas and licence has been approved.
 * Application for gas, SFA licence, handover etc should preferably be done and completed before the start date. 
+
+#### **Application Procedure**
+
+Download and complete the application form. You may also request for a hardcopy from the School’s General Office. 
