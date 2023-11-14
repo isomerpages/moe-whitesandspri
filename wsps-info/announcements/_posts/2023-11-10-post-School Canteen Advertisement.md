@@ -17,7 +17,7 @@ variant: markdown
 
 * A Singapore Citizens or Singapore Permanent Residents (SPR) for stallholder and stall assistant. 
 * Committed to provide good service and quality food with reasonable price in consultation with the school.
-* Food preparation must adhere to Health Promotion Board (HPB) “Health Meals in Schools Programme (HMSP)” criteria (refer to link). 
+* Food preparation must adhere to Health Promotion Board (HPB) “Health Meals in Schools Programme (HMSP)” criteria (refer to link: https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme )
 * Able to observe high standard of food and personal hygiene in compliance to Singapore Food Agency (SFA) and National Environment Agency (NEA) practices and guidelines.
 * Possess catering experience or experience operating in a school environment is preferred.
 * Must be in personal attendance at the stall during operating hours.
@@ -35,7 +35,7 @@ variant: markdown
 
 #### **Application Procedure**
 
-1) Download and complete the application form [here](/files/Application_Form_for_School_Canteen_Stall.pdf).
+1) Download and complete the application form  [here](/files/Application_Form_for_School_Canteen_Stall_2.pdf) .
 You may also request for a hardcopy from the School’s General Office. 
 
 
