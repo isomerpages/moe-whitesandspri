@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: School Canteen Advertisement
       id: infopic
-      description: Click on the link below to read the advertisment.
+      description: We have opening for canteen stall. Click on the link below to read
       button: Click here
       url: /wsps-info/announcements/canteen/
       image: /images/Green_Brown_Simple_Project_Management_Decision_Tree_Graph__1_.png
