@@ -52,4 +52,11 @@ sections:
       title: Announcements
       id: resources
       button: More
+  - infobar:
+      title: School Canteen Advertisement
+      subtitle: announcement
+      id: infobar
+      description: Click the link below to read more
+      button: Click here
+      url: https://staging.d107tbbuy8btfe.amplifyapp.com/wsps-info/announcements/canteen/
 ---
