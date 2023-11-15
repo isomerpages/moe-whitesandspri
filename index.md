@@ -22,4 +22,14 @@ sections:
       title: Announcements
       id: resources
       button: More
+  - infopic:
+      title: The Caring Teacher Awards 2024
+      id: infopic
+      description: |-
+        Nominate our WSPS teachers for the CTA via the link below!
+        Closing date: 12 Jan 2024
+      button: Nominate here
+      url: https://www.cta.nie.edu.sg/
+      image: /images/cta 2024 v1.png
+      alt: Image alt text
 ---
