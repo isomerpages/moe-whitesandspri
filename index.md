@@ -19,37 +19,40 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infopic:
-      title: The Caring Teacher Awards 2024
+      title: School Canteen Advertisement
       id: infopic
-      description: "Click to read more and nominate our WSPS teachers via the link
-        below!  Closing date: 12 Jan 2024"
-      button: click here to nominate
-      url: https://www.cta.nie.edu.sg/
-      image: /images/cta 2024 .png
+      description: We have opening for canteen stall. Click on the link below to read
+      button: Click here
+      url: /wsps-info/announcements/canteen/
+      image: /images/Green_Brown_Simple_Project_Management_Decision_Tree_Graph__1_.png
       alt: Image alt text
   - infopic:
       title: President’s Award for Teachers (PAT) Nomination 2024
+      subtitle: "Closing Date: 10 Jan 2024"
       id: infopic
-      description: "The President's Award for Teachers recognises excellent and
-        experienced educators who are role models for the teaching profession.
-        Closing Date: 10 Jan 2024"
-      button: click here to nominate
+      description: This award recognises excellent and experienced educators who are
+        role models for the teaching profession.
+      button: nominate here
       url: https://go.gov.sg/pat2024
-      image: /images/pta 2024.png
+      image: /images/pta_2024.png
       alt: Image alt text
   - infopic:
-      title: Outstanding Youth in Education Award (OYEA)  2024
+      title: The Caring Teacher Awards 2024
+      subtitle: "Closing Date: 12 Jan 2024"
       id: infopic
-      description: "This award (OYEA) recognises young teachers, aged 35 and below,
-        who are inspiring role models for the teaching profession. Closing Date:
-        20 Jan 2024"
-      button: Click here to nominate
+      description: Nominate our WSPS teachers for the CTA via the link below!
+      button: Nominate here
+      url: https://www.cta.nie.edu.sg/
+      image: /images/cta 2024 v1.png
+      alt: Image alt text
+  - infopic:
+      title: Outstanding Youth in Education Award (OYEA) 2024
+      subtitle: "Closing date: 12 Jan 2024"
+      id: infopic
+      description: This award recognises young teachers, aged 35 and below, who are
+        inspiring role models for the teaching profession.
+      button: nominate here
       url: https://go.gov.sg/oyea2024
       image: /images/oyea 2024.png
       alt: Image alt text
-  - infobar:
-      title: In-Link Bulletin for November
-      button: Click Here
-      url: /useful-links/in-link-bulletin/
-      subtitle: Latest announcement
 ---
