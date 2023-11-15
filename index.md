@@ -18,20 +18,6 @@ sections:
           description: ""
           url: /for-students/sls/
       background: /images/Playground 3.png
-  - resources:
-      title: Announcements
-      id: resources
-      button: More
-  - infopic:
-      title: The Caring Teacher Awards 2024
-      subtitle: "Closing Date: 12 Jan 2024"
-      id: infopic
-      description: |
-        Nominate our WSPS teachers for the CTA via the link below!
-      button: Nominate here
-      url: https://www.cta.nie.edu.sg/
-      image: /images/cta 2024 v1.png
-      alt: Image alt text
   - infopic:
       title: President’s Award for Teachers (PAT) Nomination 2024
       subtitle: "Closing Date: 10 Jan 2024"
@@ -43,6 +29,16 @@ sections:
       image: /images/pta_2024.png
       alt: Image alt text
   - infopic:
+      title: The Caring Teacher Awards 2024
+      subtitle: "Closing Date: 12 Jan 2024"
+      id: infopic
+      description: |
+        Nominate our WSPS teachers for the CTA via the link below!
+      button: Nominate here
+      url: https://www.cta.nie.edu.sg/
+      image: /images/cta 2024 v1.png
+      alt: Image alt text
+  - infopic:
       title: Outstanding Youth in Education Award (OYEA) 2024
       subtitle: "Closing date: 12 Jan 2024"
       id: infopic
@@ -52,4 +48,8 @@ sections:
       url: https://go.gov.sg/oyea2024
       image: /images/oyea 2024.png
       alt: Image alt text
+  - resources:
+      title: Announcements
+      id: resources
+      button: More
 ---
