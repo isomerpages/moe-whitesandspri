@@ -23,7 +23,7 @@ sections:
       id: infopic
       description: Click on the link below to read the advertisment.
       button: Click here
-      url: https://staging.d107tbbuy8btfe.amplifyapp.com/wsps-info/announcements/canteen/
+      url: /wsps-info/announcements/canteen/
       image: /images/Green_Brown_Simple_Project_Management_Decision_Tree_Graph__1_.png
       alt: Image alt text
   - infopic:
