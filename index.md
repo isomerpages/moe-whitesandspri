@@ -18,6 +18,13 @@ sections:
           description: ""
           url: /for-students/sls/
       background: /images/Playground 3.png
+  - infobar:
+      title: School Canteen Advertisement
+      subtitle: announcement
+      id: infobar
+      description: Click the link below to read more
+      button: Click here
+      url: https://staging.d107tbbuy8btfe.amplifyapp.com/wsps-info/announcements/canteen/
   - infopic:
       title: President’s Award for Teachers (PAT) Nomination 2024
       subtitle: "Closing Date: 10 Jan 2024"
@@ -52,11 +59,4 @@ sections:
       title: Announcements
       id: resources
       button: More
-  - infobar:
-      title: School Canteen Advertisement
-      subtitle: announcement
-      id: infobar
-      description: Click the link below to read more
-      button: Click here
-      url: https://staging.d107tbbuy8btfe.amplifyapp.com/wsps-info/announcements/canteen/
 ---
