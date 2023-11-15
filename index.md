@@ -32,4 +32,13 @@ sections:
       url: https://www.cta.nie.edu.sg/
       image: /images/cta 2024 v1.png
       alt: Image alt text
+  - infopic:
+      title: President’s Award for Teachers (PAT) Nomination 2024
+      id: infopic
+      description: "This award recognises excellent and experienced educators who are
+        role models for the teaching profession. Closing Date: 12 Jan 2024"
+      button: nominate here
+      url: https://go.gov.sg/pat2024
+      image: /images/pta_2024.png
+      alt: Image alt text
 ---
