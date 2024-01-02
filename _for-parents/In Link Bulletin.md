@@ -2,6 +2,7 @@
 title: In Link Bulletin
 permalink: /useful-links/in-link-bulletin/
 description: ""
+variant: markdown
 ---
 ### **In-Link Bulletin**
 #### **2023**
@@ -15,3 +16,6 @@ description: ""
 * [In-Link for Sept 2023](/files/in-link%20sep%202023_final.pdf)
 * [In-Link for October 2023](/files/in-link%20oct%202023_final.pdf)
 * [In-Link for November 2023](/files/in-link%20nov%202023_final.pdf)
+
+#### **2024**
+* [In-Link for January 2024](/files/In_Link_Jan_2024_Final.pdf)
