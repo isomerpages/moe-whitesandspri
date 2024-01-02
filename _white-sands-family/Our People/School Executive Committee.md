@@ -3,6 +3,7 @@ title: School Executive Committee
 permalink: /white-sands-family/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### **School Executive Committee**
 
@@ -37,7 +38,7 @@ third_nav_title: Our People
 | English Language | Ms Emmeline Ong |
 | Mathematics | Mdm Goo Lay Hoon |
 | Mother Tongue Languages | Mdm Qiu Suguan |
-| Science | Mrs Joyce Soon |
+| Science | Ms Ong Li Ya Sandy |
 | Character and Citizenship Education | Mrs Joycelyn Lok |
 | Student Management | Mr Gary Peh |
 | Special Educational Needs | Ms Brenda Ng |
@@ -54,9 +55,10 @@ third_nav_title: Our People
 | Mathematics (Internal) | Ms Gunita |
 | Chinese Language | Mdm Seah Huixin |
 | Malay/ Tamil Language | Mr Ismail |
-| Information Communication Technology | Mr Liew Guan Jie |
-| Applied Learning Programme | Ms Ng Hui Yin |
+| Science | Mr Liew Guan Jie |
+| Information Communication Technology | Ms Ng Hui Yin |
 | Aesthetics | Mdm Roza |
+| PE &amp; CCA | Mr Mohamed Razlee Bin Bidin |
 | Student Well-being | Mr Asraf S/O Salavan |
 | Student Leadership (Internal) | Mdm Amy Ong |
 |
