@@ -11,4 +11,3 @@ variant: markdown
 
 
 
-This page will be updated soon.
