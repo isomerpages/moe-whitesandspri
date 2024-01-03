@@ -3,43 +3,47 @@ title: Teaching Staff
 permalink: /white-sands-family/teaching-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### **C4RE Teachers**
 #### **Primary 1**
 
 |  |  |  |  |
 |---|---|---|---|
-| **1A** | Mdm Suzanah Bte Taib | Mdm Mazida Bte Mohd Noor | Mdm Erica Cheah |
-| **1B** | Mdm Nor Azimah | Ms Helen | 
-| **1C** | Ms L T Melwani | Mdm Ng Hui Wen |  |
-| **1D** | Mdm Roza Bte Rahman | Miss Lee Yuan Shan | 
-| **1E** | Ms Lim Hui Ling | Mdm Siti Alawiah Bte Jaffar | 
-| **1F** | Mdm Wong Hui Bing | Mdm Mardhiyah |  |
+| **1A** | Mrs Loh-Tan Kim Choo |  Ms Hariza |
+| **1B** | Mrs Carine Ong | Mdm Marsita Bte Selamat | 
+| **1C** | Mrs Jean Wong | Mdm See Swee Tee |
+| **1D** | Mdm Syariana Idrus | Mrs Goh Bee Chew | Mdm Siti Alawiah Bte Jaffar
+| **1E** | Mdm Noor Rita Ms Lim Hui Ling | Mdm Ang Siew Peng Mdm | Mdm Dira Murshida |
+| **1F** | Mdm Ng Hui Wen | Mdm Farahdilla Bte Ariffin | Mdm Garmit  |
 | Transit Teacher | Mrs Carine Ong  |
+
 
 #### **Primary 2**
 
 |  |  |  |  |
 |---|---|---|---|
-| **2A** | Mrs Loh-Tan Kim Choo | Ms Brenda Ng |  |
-| **2B** | Mdm Marsita Bte Selamat | Mdm See Swee Tee | Mdm Naziathul |
-| **2C** | Mdm Seah Huixin  | Mdm Qiu Suguan |
-| **2D** | Mrs Jean Wong | Mdm Garmit |  |
-| **2E** | Mrs Gurung | Ms Poh Hui Qin | Mdm Noor Rita  |
-| **2F** | Mdm Syariana Idrus | Mdm Amy Ong |  |
+| **2A** | Mdm Suzanah Bte Taib | Mdm Mazida Bte Mohd Noor  |
+| **2B** | Mdm Nor Azimah | Ms Charlene Yeong Min | 
+| **2C** | Ms L T Melwani | Ms Maybelline Chan |
+| **2D** | Mdm Roza Bte Rahman | Miss Lee Yuan Shan |
+| **2E** | Ms Lim Hui Ling | Mdm Shi Haixia | 
+| **2F** | Mdm Anisah | Mdm Mardhiyah |
 |
 
 #### **Primary 3**
 
 |  |  |  |  |
 |---|---|---|---|
-| **3A** | Mdm Shi Haixia | Ms Hariza | Ms Gunita  |
-| **3B** | Mr Michael Chang Chee Kong | Ms Cheryl Chern |  |
-| **3C** | Mdm Norhayati | Mr Jiang Yang |  |
-| **3D** | Ms Maybelline Chan | Mrs Linda Chan |  |
-| **3E** | Mr Sim Joo Sen Jason | Ms Emmeline Ong |  |
-| **3F** | Mdm Zainab Bte Abdullah | Miss Ng Hui Yin |  |
+| **3A** | Ms Nurfarahin B Salleh Udin | Mr Michael Chang Chee Kong |
+| **3B** | Mdm Maznah Bte Ismail | Ms Nurin | Mrs Mak Pui See, Nicole |
+| **3C** | Mr Mohd Raizi | Ms May Soh |
+| **3D** | Mdm Amy Ong | Mr Liew Guan Jie | Mr Aaron Yeo |
+| **3E** | Miss Hafila | Mr Mohd Razlee | Mrs Lee Puay Hoon |
+| **3F** | Mdm Anisah | Mdm Fatimah M T |
 |
+
+
 
 #### **Primary 4**
 
@@ -57,25 +61,27 @@ third_nav_title: Our People
 
 |  |  |  |  |
 |---|---|---|---|
-| **5A** | Miss Khadijah Bte Aron | Ms Kathryn Kan |  |
-| **5B** | Mr Shahrunizam | Ms Parimala | Ms Lim Hui Yuen |
-| **5C** | Mdm Hirda | Mr Mohd Raizi |  |
-| **5D** | Mdm Vasathakumari | Mdm Fatimah S | Ms Joyce Soon |
-| **5E** | Mdm Jacqueline Bay | Mr Tan Yew Wee |  |
-| **5F** | Mr Mohd Faisal | Mdm Nur Diana |  |
+| **5A** | Mr Ismail Bin Kasim | Mrs Droze |  Mrs Kalpena Gangadaran |
+| **5B** | Mrs Ho-Yap Yuh Kian | Mdm Wang Jingbo |
+| **5C** | Mrs Beverly Peh | Ms Poh Hui Qin |
+| **5D** | Mrs Teo-Sim Hwee Khoon | Mr Amos Sim | 
+| **5E** | Mdm Nadia | Mdm Shahira Bte Daud |
+| **5F** | Ms Nur Adilah | Mr Mazlan Bin Hussein |
 |
+
 
 #### **Primary 6**
 
 |  |  |  |  |
 |---|---|---|---|
-| **6A** | Mrs Susan Tan | Mr Ismail Bin Kasim | Mr Gary Peh  |
-| **6B** | Mrs Ho-Yap Yuh Kian | Mr Amos Sim | Mr Wong Yexiang |
-| **6C** | Mrs Teo-Sim Hwee Khoon | Mdm Fatimah M T | Ms Jean Tham |
-| **6D** | Mdm Nadera Bawany | Mrs Beverly Peh |  |
-| **6E** | Mdm Nadia | Mrs Joycelyn Lok | Mdm Shahira Bte Daud |
-| **6F** | Mr Mazlan Bin Hussein | Mrs Droze | Mr Mohd Jamalludin Affandi  |
+| **6A** | Miss Khadijah Bte Aron | Ms Kathryn Kan |
+| **6B** | Mr Shahrunizam | Mrs Tham-Wong Lin Yen |
+| **6C** | Mdm Hirda | Mdm Seah Huixin | Mr Fahmy |
+| **6D** | Mdm Vasathakumari | Mdm Fatimah S |
+| **6E** | Mdm Jacqueline Bay | Mr Tan Yew Wee |
+| **6F** | Mr Mohd Faisal | Mdm Nur Diana | Mr Ravichanthiran
 |  |  |  |   |
+
 
 
 
