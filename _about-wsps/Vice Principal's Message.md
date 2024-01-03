@@ -2,10 +2,11 @@
 title: Vice Principal's Message
 permalink: /about-wsps/vice-principals-message/
 description: ""
+variant: markdown
 ---
 ### **Vice-Principals' Message**
 
-<img src="/images/VP2023.png" style="width:30%;margin-right:15px;" align = "left">  
+<img src="/images/VP2023.png" style="width:30%;margin-right:15px;" align="left">  
 Aristotle once said, “Educating the mind without educating the heart is no education at all.” As we continued to live with Covid-19 since last year, it is indeed heartening to observe how our students and staff have continued to embrace these challenges with confidence, steadfastness and fortitude. As we eased Safe Management Measures in the later part of last year, it was heartwarming to know how engaged and exhilarated the students were as they embarked on Learning Journeys and face to face interactions during key school events such as Heartshine, Teachers’ Day and the year-end ‘Celebration of Excellence’ during both Little Achievers Day and Big Champs Day for the annual prize-giving. I am proud that our staff and students had adapted well and seized these opportunities to the best of their ability.
 
   
@@ -34,15 +35,15 @@ Ms Rezina Khan<br>
 Vice-Principal<br>
 White Sands Primary School
 
-<img src="/images/VPA2023.png" style="width:30%;margin-right:15px;" align = "left">It is my privilege join the White Sands family as the Vice-Principal (Administration). My years as the Administration Manager in the school will enable me to ease into my role better and serve in a new way. I do hope to continue to work closely with our parents and partners to develop our White Sandians holistically.
+<img src="/images/VPA2023.png" style="width:30%;margin-right:15px;" align="left">         <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1040178053 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-font-kerning:0pt; mso-ligatures:none;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
-In White Sands, we value all White Sandians and aim to nurture them to passionate learners with exemplary character who lead with a heart and contribute to the society.  Our teachers and the school administration and operations team work closely together to provide a conducive school environment with enriching experiences for our White Sandians to learn, grow and excel.
+It is with great enthusiasm that I extend a warm welcome to each and every one of you as we embark on a promising new academic year at White Sands Primary School.&nbsp; Serving as a Vice-Principal (Administration), I take pride in being part of a community that is committed to nurturing success stories and upholding our school’s vision of “Every White Sandian, a success story.” &nbsp;
 
-The past three years of battling to live with the Covid-19 pandemic has not been easy. Guided by our school values and with the strong support of their families, our White Sandians have sailed through these challenging times. They did so by caring and respecting each other, taking up the responsibility when they needed to, showing resilience and rallying together in the trying times and eventually pave their way through with excellence. I am proud of how they have grown and build their success stories!
+In White Sands, we value all White Sandians and aim to nurture them to passionate learners with exemplary character who lead with a heart and contribute to the society.&nbsp; The close collaboration between our teachers and the school administration and operations team creates an environment that fosters enriching experiences for our White Sandians to learn, grow and excel.
 
-As we look embarked into the new year, we will continue to leverage on our positive school-home-community partnership to search for possibilities and opportunities to enhance the overall White Sands experience for everyone.
+Reflecting on the past, our White Sandians have demonstrated resilience and commitment. Guided by our school values and the unwavering support of their families, they have not only faced challenges but emerged triumphant. Their caring spirit, sense of responsibility and resilience are testaments to their growth and success stories.
 
-We will learn, grow and excel together.
+As we step into the new year, let the year be a canvas of opportunities, a landscape of shared achievements and a chapter of personal growth. Our commitment remains strong to enhance the overall White Sands experience through our positive school-home-community partnership. Together, let us make White Sands Primary School a place where success stores are not just celebrated but are a testament to our collective dedication to excellence.
 
 _Your partner-in-education,_
 

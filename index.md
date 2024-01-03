@@ -19,12 +19,10 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
-      title: Early School Closure on 23 November 2023
-      subtitle: Announcement
+      title: In-Link Bulletin for January 2024
       id: infobar
-      description: The school will be closed from 11 am on 23 Nov 2023 for our annual
-        Staff Appreciation event. The Student Care Centre (SCC) will operate as
-        usual. Thank you.
+      button: Click here
+      url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
   - infopic:
       title: School Canteen Advertisement
       id: infopic

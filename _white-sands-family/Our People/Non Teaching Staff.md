@@ -3,6 +3,7 @@ title: Non Teaching Staff
 permalink: /white-sands-family/non-teaching-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### **Non-teaching Staff**
 #### **Support Staff**
@@ -24,7 +25,6 @@ third_nav_title: Our People
 | **Administrative Manager** | - |
 | **Operations Manager** | Mr Tay Eng Foo Roy |
 | **Operations Manager** | Mr Tan Tong Mou |
-| **Corporate Support Officer** | Miss Liu Choy San Shirley |
 | **Admin Executive** | Ms April Tan Lee Ngoh |
 | **Admin Executive** | Mdm Chua Lay Cheng Jane |
 | **Admin Executive** | Ms Farhana  |

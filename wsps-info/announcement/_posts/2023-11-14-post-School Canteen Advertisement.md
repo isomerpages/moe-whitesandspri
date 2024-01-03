@@ -9,7 +9,7 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Noodle Stall    | 8 December 2023     | Non-Halal     |
+| Noodle Stall    | 29 February 2024     | Non-Halal     |
 
 #### **We are looking for a Chinese Noodle Stallholder to operate in our school canteen with effect from January 2024.**
 
