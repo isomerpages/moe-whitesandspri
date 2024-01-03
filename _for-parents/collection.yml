@@ -1,0 +1,25 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Calendar of Events.md
+      - In Link Bulletin.md
+      - Briefing Slides/.keep
+      - Briefing Slides/Primary 1.md
+      - Briefing Slides/Primary 2.md
+      - Briefing Slides/Primary 3.md
+      - Briefing Slides/Primary 4.md
+      - Briefing Slides/Primary 5.md
+      - Briefing Slides/Primary 6.md
+      - Briefing Slides/2024 Parents Networking Session.md
+      - School Partners/.keep
+      - School Partners/Family Matters.md
+      - School Partners/School Bookshop.md
+      - School Partners/School Bus.md
+      - School Partners/School Uniform.md
+      - School Partners/Student Care Centre.md
+      - Enrolling in WSPS/.keep
+      - Enrolling in WSPS/Parent Volunteer Scheme (Phase 2B).md
+      - Enrolling in WSPS/E Open House 2022.md
+      - Information on Parents Gateway.md
+      - Consent for Photography and Videos.md

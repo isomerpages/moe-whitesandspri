@@ -1,0 +1,6 @@
+collections:
+  wsps:
+    output: true
+    order:
+      - Privacy Statement.md
+      - Sitemap.md

@@ -1,0 +1,19 @@
+logo: /images/logo.png
+links:
+  - title: About WSPS
+    collection: about-wsps
+  - title: White Sands' Family
+    collection: white-sands-family
+  - title: Passionate Learners
+    url: /passionate-learners/departments/english/
+    sublinks:
+      - title: Departments
+        url: /passionate-learners/departments/english/
+      - title: Co-Curricular Activities
+        url: /passionate-learners/cca/
+  - title: Exemplary Character
+    collection: exemplary-character
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: Contact Us
+    collection: contact-us

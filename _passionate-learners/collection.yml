@@ -1,0 +1,6 @@
+collections:
+  passionate-learners:
+    output: true
+    order:
+      - Co Curricular Activities/.keep
+      - Departments/.keep
