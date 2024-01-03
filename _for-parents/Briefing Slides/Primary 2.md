@@ -9,4 +9,3 @@ variant: markdown
 <br>
 
 
-This page will be updated soon.
