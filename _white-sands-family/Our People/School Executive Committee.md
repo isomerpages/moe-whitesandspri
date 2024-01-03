@@ -68,9 +68,9 @@ variant: markdown
 |  |  |
 |:---:|:---:|
 | Primary 5 &amp; 6 Year Head | Mr Wong Yexiang |
-| Primary 5 AYH (Internal) | Mdm Diana |
-| Primary 4 AYH (Internal) | Ms Cheryl Chern |
-| Primary 3 &amp; 4 AYH (Covering)  | Mr Mohd Razlee  |
+| Primary 6 AYH (Internal) | Mdm Diana |
+| Primary 3 AYH (Internal) | Mdm Ong Li Ping Amy |
+| Primary 3 &amp; 4 AYH (Internal)  | Mr Asraf  |
 | Primary 1 &amp; 2 Year Head | Mdm Erica Cheah |
 | Primary 1 AYH (Internal) | Mrs Carine Ong |
 | Senior Teacher (Lower Primary) | Mdm Naziathul |
