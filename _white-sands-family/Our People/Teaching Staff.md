@@ -50,8 +50,8 @@ variant: markdown
 |  |  |  |  |
 |---|---|---|---|
 | **4A** | Ms Gunita Kaur | Mr Jiang Yang |  |
-| **4B** | Mr Asraf  | Miss Ng Hui Yin | Mdm Hafiza |
-| **4C** | Ms Nurfarahin B Salleh Udin | Mr Alvin Tan | Mdm Goo Lay Hoon |
+| **4B** | Mr Asraf  | Miss Ng Hui Yin | Mdm Hafiza Bte Ahmad |
+| **4C** | Mdm Norhayati Bte Maksom | Ms Leong Yin Leng |  |
 | **4D** | Mdm Anisah | Mr Ravichanthiran | Mr Liew Guan Jie |
 | **4E** | Mdm Maznah Bte Ismail | Ms Nur Adilah |  |
 | **4F** | Mr Chong Thiam Hock | Ms Nurin |  |
