@@ -79,3 +79,13 @@ variant: markdown
 | Lead Teacher (Science) | Mrs Linda Chan |
 | Lead Teacher (Mathematics) | Ms Beverly Peh |
 |
+#### **Key Personnel - Coordinators**
+
+|  |  |
+|:---:|:---:|
+| PAL Coordinator | Mdm Ang Siew Peng |
+| Music Coordinator) | Ms Charlene Yeong Min |
+| Art Coordinator | Mrs Droze |
+| CCE Coordinator | Ms Maybelline Chan  |
+| Student Leadership Coordinator | Mrs Tham-Wong Lin Yen |
+|  |  |
