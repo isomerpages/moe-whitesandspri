@@ -74,7 +74,7 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **6A** | Miss Khadijah Bte Aron | Ms Kathryn Kan |
+| **6A** | Ms Kathryn Kan | Miss Khadijah Bte Aron |
 | **6B** | Mr Shahrunizam | Mrs Tham-Wong Lin Yen |
 | **6C** | Mdm Hirda | Mdm Seah Huixin | Mr Fahmy |
 | **6D** | Mdm Vasathakumari | Mdm Fatimah S |
