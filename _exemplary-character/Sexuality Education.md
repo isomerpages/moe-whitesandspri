@@ -23,7 +23,7 @@ iii. Make responsible decisions for yourself, your family and society; and<br>
 iv. Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click&nbsp;**[here](https://go.gov.sg/moe-sexuality-education)**&nbsp;for more information on MOE Sexuality Education.<br>
-You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for for more information on the scope of Sexuality Education in the school curriculum.
+You may click **[here](https://go.gov.sg/moe-sexuality-education-scope)** for for more information on the scope of Sexuality Education in the school curriculum.
 
 
 #### **OVERVIEW OF WHITE SANDS PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024**
@@ -65,8 +65,7 @@ b. Character and Citizenship Education (CCE)<br>
 | Growing Years | Are We More Than Friends? Lesson1<br>60 min) | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation.<br> They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends. | Term 1 Week 8  |
 | Growing Years  | Are We More Than Friends? Lesson 2<br>(60 min) | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other. | Term 1 Week 9  |
 
-**Please Note**:<br>
-For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. 
+
 
 
 
