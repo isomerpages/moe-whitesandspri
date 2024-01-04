@@ -36,7 +36,7 @@ variant: markdown
 |  |  |  |  |
 |---|---|---|---|
 | **3A** | Ms Nurfarahin B Salleh Udin | Mr Michael Chang Chee Kong |
-| **3B** | Mdm Maznah Bte Ismail | Ms Nurin | Mrs Mak Pui See, Nicole |
+| **3B** | Mdm Maznah Bte Ismail | Miss Wan Nurin Zahian | Mrs Mak Pui See, Nicole |
 | **3C** | Mr Mohd Raizi | Ms May Soh |
 | **3D** | Mdm Amy Ong | Mr Liew Guan Jie | Mr Aaron Yeo |
 | **3E** | Miss Hafila | Mr Mohd Razlee | Mrs Lee Puay Hoon |
@@ -54,7 +54,7 @@ variant: markdown
 | **4C** | Mdm Norhayati Bte Maksom | Ms Leong Yin Leng |  |
 | **4D** | Ms Lim Yeng Peng | Ms Parimala Davi |  |
 | **4E** | Mr Sim Joo Sen | Mdm Ong Tyng Tyng |  |
-| **4F** | Mr Chong Thiam Hock | Ms Nurin |  |
+| **4F** | Mdm Zainab Bte Abdullah | Mr Chong Thiam Hock |  |
 |
 
 #### **Primary 5**
