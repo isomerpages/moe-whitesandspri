@@ -70,7 +70,7 @@ variant: markdown
 | Primary 5 &amp; 6 Year Head | Mr Wong Yexiang |
 | Primary 6 AYH (Internal) | Mdm Diana |
 | Primary 3 AYH (Internal) | Mdm Ong Li Ping Amy |
-| Primary 3 &amp; 4 AYH (Internal)  | Mr Asraf  |
+| Primary 3 &amp; 4 AYH (Covering) | Mr Asraf  |
 | Primary 1 &amp; 2 Year Head | Mdm Erica Cheah |
 | Primary 1 AYH (Internal) | Mrs Carine Ong |
 | Senior Teacher (Lower Primary) | Mdm Naziathul |
