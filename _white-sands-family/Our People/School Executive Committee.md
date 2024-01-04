@@ -87,5 +87,5 @@ variant: markdown
 | Music Coordinator) | Ms Charlene Yeong Min |
 | Art Coordinator | Mrs Droze |
 | CCE Coordinator | Ms Maybelline Chan  |
-|  | Mrs Tham-Wong Lin Yen |
-| Primary 1 AYH (Internal) | Mrs Carine Ong |
+| Student Leadership Coordinator | Mrs Tham-Wong Lin Yen |
+|  |  |
