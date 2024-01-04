@@ -28,7 +28,7 @@ variant: markdown
 | **2C** | Ms L T Melwani | Ms Maybelline Chan |
 | **2D** | Mdm Roza Bte Rahman | Miss Lee Yuan Shan |
 | **2E** | Ms Lim Hui Ling | Mdm Shi Haixia | 
-| **2F** | Mdm Anisah | Mdm Mardhiyah |
+| **2F** | Mdm Wong Hui Bing | Mdm Mardhiyah |
 |
 
 #### **Primary 3**
