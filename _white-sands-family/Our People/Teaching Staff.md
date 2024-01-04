@@ -53,7 +53,7 @@ variant: markdown
 | **4B** | Mr Asraf  | Miss Ng Hui Yin | Mdm Hafiza Bte Ahmad |
 | **4C** | Mdm Norhayati Bte Maksom | Ms Leong Yin Leng |  |
 | **4D** | Ms Lim Yeng Peng | Ms Parimala Davi |  |
-| **4E** | Mdm Maznah Bte Ismail | Ms Nur Adilah |  |
+| **4E** | Mr Sim Joo Sen | Mdm Ong Tyng Tyng |  |
 | **4F** | Mr Chong Thiam Hock | Ms Nurin |  |
 |
 
