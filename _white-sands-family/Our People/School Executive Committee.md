@@ -60,8 +60,8 @@ variant: markdown
 | Aesthetics | Mdm Roza |
 | PE &amp; CCA | Mr Mohamed Razlee Bin Bidin |
 | Student Well-being | Mr Asraf S/O Salavan |
-| Student Leadership (Internal) | Mdm Amy Ong |
-|
+
+
 
 #### **Key Personnel - Year Heads / Lead &amp; Senior Teachers**
 
