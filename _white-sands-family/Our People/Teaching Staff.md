@@ -49,7 +49,7 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **4A** | Mdm Wang Jingbo | Ms May Soh |  |
+| **4A** | Ms Gunita Kaur | Mr Jiang Yang |  |
 | **4B** | Mrs Tham-Wong Lin Yen  | Mr Asraf | Mr Mohd Razlee |
 | **4C** | Ms Nurfarahin B Salleh Udin | Mr Alvin Tan | Mdm Goo Lay Hoon |
 | **4D** | Mdm Anisah | Mr Ravichanthiran | Mr Liew Guan Jie |
