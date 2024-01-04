@@ -65,7 +65,7 @@ variant: markdown
 | **5B** | Mrs Ho-Yap Yuh Kian | Mdm Wang Jingbo |
 | **5C** | Mrs Beverly Peh | Ms Poh Hui Qin |
 | **5D** | Mrs Teo-Sim Hwee Khoon | Mr Amos Sim | 
-| **5E** | Mdm Nadia | Mdm Shahira Bte Daud |
+| **5E** | Mdm Nadia Hezryn | Mdm Shahira Bte Daud |
 | **5F** | Ms Nur Adilah | Mr Mazlan Bin Hussein |
 |
 
