@@ -36,6 +36,7 @@ In embracing these focal points, let us collectively make this academic year a t
 In the spirit of growth, let's nurture resilience, curiosity, and collaboration. Together, we will sow the seeds of knowledge, water them with perseverance, and witness the flourishing of each White Sandian. As we navigate the year ahead, may our commitment to lifelong learning be the guiding force propelling us toward new heights.
 
 Here's to a year of abundant growth, learning, and shared success!
+
 _Your partner-in-education_
 
 Ms Rezina Khan<br>

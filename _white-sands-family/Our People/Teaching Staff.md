@@ -16,7 +16,7 @@ variant: markdown
 | **1D** | Mdm Syariana Idrus | Mrs Goh Bee Chew | Mdm Siti Alawiah Bte Jaffar
 | **1E** | Mdm Noor Rita Ms Lim Hui Ling | Mdm Ang Siew Peng Mdm | Mdm Dira Murshida |
 | **1F** | Mdm Ng Hui Wen | Mdm Farahdilla Bte Ariffin | Mdm Garmit  |
-| Transit Teacher | Mrs Carine Ong  |
+| Transit Teacher | Mdm Naziathul  |
 
 
 #### **Primary 2**
