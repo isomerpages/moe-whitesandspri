@@ -8,4 +8,4 @@ variant: markdown
 ### Sharing Slides
 <br>
 
-There  are no sharing slides at the moment.
+* ##### [P1 Transition 2024](/files/Transition_2024__2_Jan_.pdf)
