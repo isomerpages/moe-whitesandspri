@@ -2,6 +2,7 @@
 title: Values In Action
 permalink: /exemplary-character/via/
 description: ""
+variant: markdown
 ---
 ### **Values in Action**
 #### **Objective:**
@@ -20,6 +21,7 @@ Values in Action (VIA) is a key component in the Character and Citizenship Educa
 | 6 | Playing An Active Role In My Community |
 |
 
+![](/images/Values_In_Action_Pics.png)
 ![](/images/Values%20in%20Action.jpg)
 ![](/images/Values%20In%20Action%203.jpg)
 ![](/images/Values%20In%20Action%202.png)
