@@ -5,10 +5,26 @@ description: ""
 third_nav_title: Briefing Slides
 variant: markdown
 ---
-### Sharing Slides
+
 <br>
 
-**CCA Discovery Day**
+#### **2024 SPECS**
+<br>
+
+* [Principal's  P3 Sharing Slides](/files/2024_SPECS_P3_P_sharing_updated.pdf)
+* [P3A Sharing Slides](/files/2024_SPECS_P3A.pdf)
+* [P3B Sharing Slides](/files/2024_SPECS_P3B_compressed.pdf)
+* [P3C Sharing Slides](/files/2024_SPECS_P3C_compressed.pdf)
+* [P3D Sharing Slides](/files/2024_SPECS_P3D.pdf)
+* [P3E Sharing Slides](/files/2024_SPECS_P3E_compressed.pdf)
+* [P3F Sharing Slides](/files/2024_SPECS_P3F_compressed.pdf)
+
+
+
+
+
+
+##### **CCA Discovery Day**
 * [CCA Discovery Day Introduction](/files/1___P2_CCA_Discovery_Day_MAIN_SLIDES.pdf)
 * [CCA Discovery Day Chinese Dance](/files/2___P2_CCA_Discovery_Day_CHINESE_DANCE.pdf)
 * [CCA Discovery Day Choir](/files/3__P2_CCA_Discovery_Day_CHOIR.pdf)
