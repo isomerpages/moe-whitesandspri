@@ -19,6 +19,12 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
+      title: 2024 SPECS P3 & P4
+      id: infobar
+      description: You may view them under 'Briefing Slides' tab
+      button: Click here
+      url: https://www.whitesandspri.moe.edu.sg/useful-links/in-link-bulletin/
+  - infobar:
       title: In-Link Bulletin for February 2024
       id: infobar
       button: Click here
