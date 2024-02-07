@@ -5,18 +5,19 @@ description: ""
 third_nav_title: Briefing Slides
 variant: markdown
 ---
-### Sharing Slides
+
 <br>
 
 #### **2024 SPECS**
+<br>
 
 * [Principal's  P3 Sharing Slides](/files/2024_SPECS_P3_P_sharing_updated.pdf)
-* [P3A SPECS Sharing Slides](/files/2024_SPECS_P3A.pdf)
-* [P3B SPECS Sharing Slides](/files/2024_SPECS_P3B_compressed.pdf)
-* [P3C SPECS Sharing Slides](/files/2024_SPECS_P3C_compressed.pdf)
-* [P3D SPECS Sharing Slides](/files/2024_SPECS_P3D.pdf)
-* [P3E SPECS Sharing Slides](/files/2024_SPECS_P3E_compressed.pdf)
-* [P3F SPECS Sharing Slides](/files/2024_SPECS_P3F_compressed.pdf)
+* [P3A Sharing Slides](/files/2024_SPECS_P3A.pdf)
+* [P3B Sharing Slides](/files/2024_SPECS_P3B_compressed.pdf)
+* [P3C Sharing Slides](/files/2024_SPECS_P3C_compressed.pdf)
+* [P3D Sharing Slides](/files/2024_SPECS_P3D.pdf)
+* [P3E Sharing Slides](/files/2024_SPECS_P3E_compressed.pdf)
+* [P3F Sharing Slides](/files/2024_SPECS_P3F_compressed.pdf)
 
 
 
