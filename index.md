@@ -19,7 +19,7 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
-      title: 2024 SPECS P3 & P4
+      title: 2024 SPECS P3 & P4  Sharing Slides
       id: infobar
       description: You may view them under 'Briefing Slides' tab
       button: Click here
