@@ -8,7 +8,22 @@ variant: markdown
 ### Sharing Slides
 <br>
 
-**CCA Discovery Day**
+#### **2024 SPECS**
+
+* [Principal's  P3 Sharing Slides](/files/2024_SPECS_P3_P_sharing_updated.pdf)
+* [P3A SPECS Sharing Slides](/files/2024_SPECS_P3A.pdf)
+* [P3B SPECS Sharing Slides](/files/2024_SPECS_P3B_compressed.pdf)
+* [P3C SPECS Sharing Slides](/files/2024_SPECS_P3C_compressed.pdf)
+* [P3D SPECS Sharing Slides](/files/2024_SPECS_P3D.pdf)
+* [P3E SPECS Sharing Slides](/files/2024_SPECS_P3E_compressed.pdf)
+* [P3F SPECS Sharing Slides](/files/2024_SPECS_P3F_compressed.pdf)
+
+
+
+
+
+
+##### **CCA Discovery Day**
 * [CCA Discovery Day Introduction](/files/1___P2_CCA_Discovery_Day_MAIN_SLIDES.pdf)
 * [CCA Discovery Day Chinese Dance](/files/2___P2_CCA_Discovery_Day_CHINESE_DANCE.pdf)
 * [CCA Discovery Day Choir](/files/3__P2_CCA_Discovery_Day_CHOIR.pdf)
