@@ -25,7 +25,7 @@ sections:
       button: Click here
       url: https://www.whitesandspri.moe.edu.sg/for-parents/COA/
   - infobar:
-      title: In-Link Bulletin for February 2024
+      title: In-Link Bulletin for March 2024
       id: infobar
       button: Click here
       url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
