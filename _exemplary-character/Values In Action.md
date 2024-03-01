@@ -13,12 +13,12 @@ Values in Action (VIA) is a key component in the Character and Citizenship Educa
 
 | Primary Level | Programmes |
 |:---:|---|
-| 1 | Caring & Being Cared For |
-| 2 | Yes I Can |
-| 3 | Being Kind To Our Classmates |
-| 4 | Contributing To My Community |
-| 5 | Being An Active Contributer |
-| 6 | Playing An Active Role In My Community |
+| 1 | Caring for Self and Others, Appreciating our Singapore Gardens |
+| 2 | Developing a resilient Self, Caring for the Gardens |
+| 3 | Caring for our School Environment |
+| 4 | Enhancing School Environment |
+| 5 | Managing Waste Minimisation |
+| 6 | Upcycling Efforts |
 |
 
 ![](/images/Values_In_Action_Pics.png)
