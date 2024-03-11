@@ -3,6 +3,7 @@ title: Environmental Science
 permalink: /passionate-learners/cca/environmental-science/
 description: ""
 third_nav_title: Clubs & Uniformed Group
+variant: markdown
 ---
 ### **Environmental Science**
 There is only one Earth, and our resources are limited. Hence, protecting the environment should be our responsibility. The Environmental Club believes that it can make a difference and takes ownership of the environment, ensuring that the world we live in is clean and livable. As such, the club actively seeks ways to impart the knowledge, skills and attitudes required to become environmentally responsible citizens of tomorrow at an early age.  
@@ -15,7 +16,4 @@ The Environmental Club also actively brings learning outside the classroom, wher
 
 By participating in these programmes, our club members develop important 21st century competencies such as critical thinking skills, communication skills and global awareness of environmental issues affecting them.
 
-
-<img src="/images/environmentalsci4.jpg" style="width:40%;margin-right:55px;" align = "right">
-<img src="/images/environmentalsci3.jpg" style="width:40%;margin-left:55px;" align = "left">
-
+![](/images/env_sci.jpg)
