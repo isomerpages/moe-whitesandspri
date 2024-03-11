@@ -38,3 +38,5 @@ Students may be identified for demonstrating the following types of qualities:
 (ii) A high level of civic responsibility. These would be students who are concerned about issues in the community or issues faced by others, initiating action to address these issues to improve the lives of others, and being committed to make a positive difference3; and/or
 
 (iii) Qualities associated with resilience. These would be students who have persevered despite facing difficult circumstances (e.g. financial problems, family issues, health issues etc.), and managed to overcome the odds and still do commendably well in academic and non-academic domains.
+
+![](/images/Character_Awards.jpg)
