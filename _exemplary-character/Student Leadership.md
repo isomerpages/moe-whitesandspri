@@ -4,54 +4,32 @@ permalink: /exemplary-character/student-leadership/
 description: ""
 variant: markdown
 ---
-### **Student Leadership**
-#### **Objective:**
-It is our belief that every White Sands student is a leader. Anchoring on this, the school provides values-driven student leadership curriculum - Student Leadership Development (SLD) to develop our leaders to their full potential. Through the SLD, we envision that every student becomes an inspiring leader who leads with a heart and makes a positive difference to others.
 
-![](/images/Structure.jpg)
+#### **WSPS Student Leadership Framework**
 
 
+![](/images/Leadership.jpg)
 
+<br>It is our belief that every White Sands student is a leader. Anchoring on this, the school provides values-driven student leadership curriculum - Student Leadership Development (SLD) to develop our leaders to their full potential. Through the SLD, we envision that every student becomes an inspiring leader who leads with a heart and makes a positive difference to others.
 
-##### **School’s Prefectorial Board**
-During the end of Term 3 every year, C4RE teachers will nominate deserving students to become Prefects. They will then go through group interviews to qualify for the next round of selection. Prefect Investiture ceremony will be at the start of every academic year to mark their commitment to serve the school and their peers.
+##### **Objectives**<br>
+1.	Equip all students (Student Leaders, Class Leaders and CCA leaders ) with leadership knowledge, attributes and skills to take on opportunities and challenges.  
 
-##### **Leadership Training**
-Student 
-Leaders will receive specific leadership training according to their levels. These skills enable the prefects to carry out their duties confidently and effectively.
+2.	Empower all students with opportunities to carry out their roles and responsibilities in internal and external events or activities. 
+<br>
 
-| Levels | Training Focus |
-|---|---|
-| Primary 3 | Basic Traits of a Good Leader |
-| Primary 4 | Public Speaking Skills |
-| Primary 5 | Project Management Skills |
-| Primary 6 | Mentoring &amp; Facilitation Skills |
-|
+#### **Student Leadership Structure**
 
-##### **Customised Leadership Training**
-Class appointments are rotated every semester to ensure students are given opportunities to be developed as class leaders. Customized leadership training is provided to develop students to carry out their roles &amp; responsibilities for the different class leadership roles. 
+![](/images/Leeadership_2.png)
+
+In WSPS, all our students have opportunities to develop their leadership capacity through a four-tier approach.  
 
 
 
+##### **Prefectorial Board**
+Our Prefectorial Board is made up of Primary 3 to Primary 6 Prefects. After a series of selection processes, the Prefects are sworn in during the annual Student Leaders’ Investiture.
 
-##### **Platforms for displaying leadership skills**
-Various platforms are provided for Student Leaders to display and hone their leadership skills.
-*   **Events-based**:<br> Prefects will be selected to be the emcees for various school events such as Prize-Giving Day, Teachers’ Day concert and Appreciation Day. They will also help out as ushers during Parents’ Briefing, P1 Orientation and Prize-Giving Day.
-*   **Student Voices &amp; Values-in-action Programs**:<br> Students will be given opportunities to come up with innovative ideas to improve the school community for self and others.
-*   **Teacher's Day Celebration**:<br> Middle and upper primary pupils, together with the prefects will be given the autonomy to plan for Teachers’ Day celebration..
+Besides attending trainings, workshops and learning journeys, our Prefects were also given opportunities to initiate programmes and/or projects to improve the well-being of their peers and/or community.
 
-##### **Appreciation and Recognition**
-An appreciation party will be held in Term 4 to celebrate the successes and milestones achieved for the year. This also serves as a platform for the school to recognise the contributions of the students.
+![](/images/Leadership_3.jpg)
 
-##### **Prefects**
-![](/images/Untitled.png)
-
-##### **CCA Leaders**
-
-![](/images/leadership%202.png)
-![](/images/leadership%203.png)
-![](/images/leadership%204.png)
-![](/images/leadership%205.png)
-
-##### **Class Leaders**
-![](/images/class%20leaders.png)
