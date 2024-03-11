@@ -3,15 +3,13 @@ title: Infocomm Technology (Computing)
 permalink: /passionate-learners/cca/infocomm-computing/
 description: ""
 third_nav_title: Clubs & Uniformed Group
+variant: markdown
 ---
 ### **Infocomm Technology (Computing)**
-The Infocomm Club CCA aims to excite students about Information Communication and Technology (ICT) in a fun and meaningful way by helping them to learn various multimedia skills such as use of digital media, coding, animations and games development. The club also aims to cultivate leadership and entrepreneurship capabilities at an early age.
+Our school's ICT Computing Club is a dynamic platform where students dive into the realms of technology, innovation, and creativity. It strives to ignite students' interest in Information Communication and Technology (ICT) through engaging and purposeful activities, guiding them in acquiring diverse multimedia skills including digital media utilization, coding, animation, and game development. The club also aims to cultivate leadership at an early age and empower students with the skills, knowledge, and confidence to thrive in an increasingly digital world.
 
-During CCA sessions, club members will learn to program their own interactive stories, games, animations and codes. They can also share their creations with others in the online community. Infocomm Club members learn to think creatively, reason systematically, and work collaboratively. These are essential skills for life in the 21st century.
+During CCA sessions, club members will learn to program their own interactive stories, games, animations and codes. They can also learn to think creatively, reason systematically and work collaboratively which are the essential skills for life in the 21st century.
 
-The Infocomm students’ ICT curiosity are nurtured through various activities and participation in national-wide competition which incorporates social, family and school values. Students take part in a variety of Infocomm related competitions such as National Coding Competition (NCC) and National Primary Games Creation Competition (NPGCC).
+The students’ ICT curiosity is nurtured through various activities and participation in national-wide competition which incorporates social, family and school values. Students take part in a variety of Infocomm related competitions such as National Thinkers Challenge (NTC), Pei Hwa Hackathon, National Primary Games Creation and Coding Competition (NPGC3), National Design Project (NDP) and others.
 
-<img src="/images/computing2.jpg" style="width:40%;margin-right:55px;" align = "right">
-
-
-<img src="/images/computing4.jpg" style="width:40%;margin-right:55px;" align = "right">
+![](/images/computing.jpg)
