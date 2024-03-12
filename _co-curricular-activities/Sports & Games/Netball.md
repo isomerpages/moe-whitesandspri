@@ -3,23 +3,14 @@ title: Netball
 permalink: /passionate-learners/cca/netball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ### **Netball**
-In White Sands Primary School, Netball is an established CCA with a history that dates back more than 20 years. With netball, our girls develop the school core values of care, respect, responsibility, resilience, rallying together and excellence through their weekly practices, activities and competitions. Most importantly, netball provides opportunities for our girls to acquire leadership skills and develop strength of character necessary for the 21st century.
+The Netball CCA programme in White Sands Primary School is designed to introduce and cultivate a love for the sport among our pupils. With a focus on skill development, teamwork, and sportsmanship, the netball programme provides a platform for our young athletes to enhance their physical abilities and to foster a competitive spirit. 
 
-For our junior girls, they learn basic Netball skills and experience the joy of learning through modified games. These skills learnt will be applied to actual game play at a later stage.
+Through regular training sessions, the annual National School Games (NSG), friendly matches and annual Netball carnivals, our pupils learn the fundamentals of netball, including passing, shooting, and defending strategies. The programme also aims to instill our school core values of care, respect, responsibility, resilience, rallying together and excellence through our weekly trainings, activities and competitions. 
 
-For the senior girls, they will either be placed in the school teams or the development team. The school teams will train more intensively and participate in the annual National School Games(NSG) while the development team will continue to train weekly and participate in non-competitive Netball carnivals or friendly games.
-
-
-<img src="/images/netball2.jpg" style="width:49%" align=right>
+Coached by experienced netball trainers, our pupils are guided and encouraged to reach their full potential while enjoying the camaraderie of being part of a team. The programme not only promotes physical fitness, it also helps our pupils develop essential life skills that can be carried forward into their secondary education and beyond. 
 
 
-
-<img src="/images/netball3.jpg" style="width:35%;margin-left:45px;" align = "left">
-
-
-<br clear="left">
-
-<img src="/images/netball5.jpg" style="width:49%" align=left>
-<img src="/images/netball6.jpg" style="width:49%" align=right>
+![](/images/netball.jpg)
