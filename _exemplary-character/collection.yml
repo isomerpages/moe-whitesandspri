@@ -2,6 +2,7 @@ collections:
   exemplary-character:
     output: true
     order:
+      - Character & Citizenship (CCE)/.keep
       - Student Development/Character Awards.md
       - Student Development/.keep
       - Education and Career Guidance.md
