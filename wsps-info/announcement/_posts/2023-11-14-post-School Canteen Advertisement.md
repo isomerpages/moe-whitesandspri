@@ -9,9 +9,9 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Noodle or Japanese Food Stall    | 31 May 2024     | Non-Halal     |
+| Chinese Noodle / Japanese Stall    | 30 April 2024     | Non-Halal     |
 
-#### **We are looking for a Chinese Noodle or Japanese Food Stallholder to operate in our school canteen with effect from January 2024.**
+#### **We are looking for a Chinese Noodle or Japanese  Stallholder to operate in our school canteen with effect from 2 May 2024.**
 
 #### **Eligibility and Criteria:**
 
@@ -30,7 +30,7 @@ variant: markdown
 * Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
 
 #### **Other Details**
-* Estimated start date is 2 Jan 2024 after gas and licence has been approved.
+* Estimated start date is 2 May 2024 after gas and licence has been approved.
 * Application for gas, SFA licence, handover etc should preferably be done and completed before the start date. 
 
 #### **Application Procedure**
