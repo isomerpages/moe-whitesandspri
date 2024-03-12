@@ -2,22 +2,19 @@
 title: Learning for Life Programme (LLP)
 permalink: /distinctive-programmes/llp/
 description: ""
+variant: markdown
 ---
 ### **Learning for Life Programme ( LLP )**
 #### **Objective:**
 Learning for Life Programme (LLP) in White Sands focusses on the Visual Arts (VA) of Heritage Art forms. HeARTs (Heritage Art Showcase) provides every White Sandian with real-life experiential learning to develop their character and values, cultivate positive attitudes and self-expression; and strengthen their people skills. It aims to nurture students with a keen sense of Aesthetics and an appreciation for the VA.
 
 #### **Key Programmes:**
-The key feature of LLP is to create a vibrant and strong culture of VA through curriculum and enrichment instructional programmes that will cultivate social and emotional competencies in all students. LLP provides opportunity for students to continuously engage in VA by contributing to and building partnership with the community.
+In Tier 1, spanning specific levels or the entire school community, students engage in hands-on exploration of our Heritage Art. They learn to master Clay building techniques, study the Vanda Miss Joaquim and the intricate strokes of the Chinese Brush and Batik Painting; and immerse themselves in the Peranakan Art. This enriching environment promotes cultural awareness and respect.
 
-LLP at White Sands takes on the Tier 1 & 2 Approach. At Tier 1, LLP opens opportunities for all students to experience the Visual Arts as audience and participants. Within the Art curriculum, they will be able appreciate, use appropriate vocabulary to describe works and practices, acquire skills to create and present; and develop character and values through VA participation. We expose students to as many and different heritage art forms such as
+Transitioning to Tier 2, the LLP tailors an approach for Art Club CCA students and those excelling in visual arts. The Art Talent Development (ATD) program offers a specialised track for skill refinement, providing a platform for deeper exploration. A second ATD program identifies P2 students with potential for Art Club recruitment, ensuring early talent development.
 
-*   Pottery
-*   Batik Painting
-*   Chinese Brush Painting
-*   Rangoli Art
-*   Peranakan Art
+Tier 2 underscores individualised pathways, allowing students to shape their unique artistic journey within our supportive school community.
 
-In Tier 2, students with an aptitude for VA will develop their interests and abilities; and take ownership of their arts learning by expressing ideas, thoughts and emotions through the chosen art forms by initiating and completing VA projects.
+This holistic approach not only cultivates academic excellence but also fosters a lifelong passion for the arts, setting the stage for well-rounded and engaged individuals.
 
-**require image to be provided,unable to download**
+![](/images/LLP.jpg)
