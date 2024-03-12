@@ -15,10 +15,3 @@ Our Table Tennis CCA programme provides a breadth of experience through practisi
 
 
 ![](/images/table_tennis.jpg)
-
-
-
-
-
-
-<img src="/images/tabletennis6.jpg" style="width:49%" align="right">
