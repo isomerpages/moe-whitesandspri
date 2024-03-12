@@ -2,6 +2,7 @@ collections:
   exemplary-character:
     output: true
     order:
+      - Student Development Team/Student Development Team.md
       - Student Development Team/.keep
       - Student Management/.keep
       - Character & Citizenship (CCE)/.keep
