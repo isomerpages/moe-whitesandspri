@@ -2,6 +2,7 @@ collections:
   exemplary-character:
     output: true
     order:
+      - Character & Citizenship (CCE)/Values In Action.md
       - Character & Citizenship (CCE)/National Education & Social Studies.md
       - Character & Citizenship (CCE)/.keep
       - Student Development/Character Awards.md
