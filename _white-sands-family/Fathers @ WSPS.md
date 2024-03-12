@@ -63,11 +63,7 @@ The WSPS community of fathers also provide support for each other through Father
 ![](/images/fathers_photo_2024.png)
 
 
-<br clear="left">
 
-
-|  |
-|:---:|
 #### **Come join us at Fathers@WSPS and rally together to support White Sandians in crafting their success stories!** <br> 
 
 ![](/images/qr_code_fathers_2024.png)
