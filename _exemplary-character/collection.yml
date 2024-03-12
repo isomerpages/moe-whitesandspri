@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Student Development Team/.keep
+      - Character & Citizenship (CCE)/Character Awards.md
       - Character & Citizenship (CCE)/.keep
       - Character & Citizenship (CCE)/Student Leadership.md
       - Character & Citizenship (CCE)/Education and Career Guidance.md
