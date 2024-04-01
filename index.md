@@ -19,16 +19,16 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
+      title: In-Link Bulletin for April 2024
+      id: infobar
+      button: Click here
+      url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
+  - infobar:
       title: 2024 SPECS - P2 to P6  Sharing Slides
       id: infobar
       description: You may view them under 'Briefing Slides'
       button: Click here
       url: https://www.whitesandspri.moe.edu.sg/for-parents/COA/
-  - infobar:
-      title: In-Link Bulletin for March 2024
-      id: infobar
-      button: Click here
-      url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
   - infopic:
       title: School Canteen Advertisement
       id: infopic
