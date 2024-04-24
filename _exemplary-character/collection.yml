@@ -2,17 +2,17 @@ collections:
   exemplary-character:
     output: true
     order:
+      - Student Development Team/.keep
       - Student Development Team/Student Well Being.md
       - Student Development Team/Student Development Team.md
-      - Student Development Team/.keep
-      - Student Management/.keep
+      - Student Management.md
+      - Character & Citizenship (CCE)/.keep
+      - Character & Citizenship (CCE)/C4RE Teacher Guidance Period & Assembly.md
       - Character & Citizenship (CCE)/Character & Citizenship Education
         Lessons.md
-      - Character & Citizenship (CCE)/.keep
       - Character & Citizenship (CCE)/Sexuality Education.md
       - Character & Citizenship (CCE)/Character Awards.md
       - Character & Citizenship (CCE)/Student Leadership.md
       - Character & Citizenship (CCE)/Education and Career Guidance.md
       - Character & Citizenship (CCE)/Values In Action.md
       - Character & Citizenship (CCE)/National Education & Social Studies.md
-      - C4RE Teacher Guidance Period & Assembly.md

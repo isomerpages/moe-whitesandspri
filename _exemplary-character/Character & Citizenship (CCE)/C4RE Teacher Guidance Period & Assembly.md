@@ -3,6 +3,7 @@ title: C4RE Teacher Guidance Period & Assembly
 permalink: /exemplary-character/c4re-teacher-guidance-period-and-assembly/
 description: ""
 variant: markdown
+third_nav_title: Character & Citizenship (CCE)
 ---
 ### **C4RE Teacher Guidance Period/Assembly**
 #### **Objective:**
@@ -25,4 +26,4 @@ Broadly, there are three ways CCE lesson time is used:
 
 (ii) equip students with knowledge and skills to better understand and navigate the real-world, e.g. understand mental health issues, navigate cyberspace responsibly, make appropriate educational and career choices, appreciate family life, understand Singapore’s racial and religious diversity; and 
 
-(iii) provide opportunities for contribution to family, school and community through VIA projects. Time will be given to identify the needs and establish the intent of project, planning the activities and reflecting on learning. 
+(iii) provide opportunities for contribution to family, school and community through VIA projects. Time will be given to identify the needs and establish the intent of project, planning the activities and reflecting on learning.

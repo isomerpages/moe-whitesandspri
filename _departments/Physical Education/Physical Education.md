@@ -3,52 +3,36 @@ title: Physical Education
 permalink: /passionate-learners/departments/pe/
 description: ""
 third_nav_title: Physical Education
+variant: markdown
 ---
 ### **Physical Education**
-#### **Objectives**
-Through the six years of PE Education in White Sands Primary School, every White Sandian will learn sound fundamental skills to be competent movers, lead an active healthy lifestyle, and build school values such as care, respect, responsibility, resilience and rallying together and excellence.
+#### **Vision**
+Every White Sandian striving to be physically active and enjoy a lifetime of healthy living
 
-For PE lessons, students will learn different modules such as Sports & Games, Gymnastics, Dance, Outdoor Education and Physical Health Fitness to further strengthen their experiential learning in a safe environment.
+#### **Mission**
 
-#### **Key Programmes**
+To nurture students’ core values and social emotional competencies through various learning of physical skills and knowledge. 
+
+##### **Summary of key level programmes**
+
+![](/images/pe44.png)
+
+
+    
+#### **Get Fit 1,2,3!**
+Get Fit 1,2,3!  exposes pupils to a variety of sports beyond the PE curriculum and aims to generate their interests to pick up the sport at a recreational level in the future to maintain a healthy lifestyle.
+
+
+
 ##### **Programme for Active Learning (PAL)**
-Primary 1 and Primary 2 students will have differentiated learning experiences through the Programme for Active Learning (PAL). They will learn 21st Century competency skills where SEL competencies are being infused into the lessons.
+The Programme for Active Learning (PAL) is a recommendation by the Ministry of Education (MOE) that was initiated in 2009. PAL is designed to offer Primary 1 and 2 students a comprehensive range of non-academic activities, aiming to enrich their learning experiences across four distinct domains: Sports and Games, Outdoor Education, Performing Arts, and Visual Arts. Through engaging in these activities, students are exposed to diverse and enjoyable learning opportunities while also developing socio-emotional competencies such as respect for others and responsible decision-making. PAL plays a crucial role in fostering confidence, curiosity, and cooperation skills among students.
 
-##### **Outdoor Education Programme**
-The objectives of outdoor education programme are to build our students’ confidence and resilience through the various outdoor activities. These activities will also enable them to appreciate diversity in the teams, thus forging camaraderie with one another through the common outdoor experiences they have. Students will also cultivate responsible citizenry and affinity for Singapore through this outdoor education programme and lay the foundation for active & healthy living.
+![](/images/pe.png)
 
-##### **Primary 1**
-Students learn about moving around the environment and are able to identify hazards and obstacles around them.
+##### **SwimSafer 2.0**
+The ability to swim is part of movement education within the Physical Education (PE) Syllabus. Through the SwimSafer 2.0 programme, pupils will develop water confidence, understand the principles of water safety, and learn techniques to prevent drowning.
 
-##### **Primary 2**
-Students learn to build competency in assessing and managing risk while moving around school, having the sense of place. They also learn to develop social awareness by working together in groups.
+##### **Gamification of P4 and P6 Outdoor Learning Experience**
+Injecting the joy of learning through the gamification of Outdoor Learning Experience to engage pupils’ spirit of adventure, develop their resilience and build their connections with natural and urban environments.
 
-##### **Primary 3**
-Students will have their SwimSafe Programme 2.0 where they learn about water safety. It is designed to teach the students how to stay safe around aquatic environments. The programme aims to teach swimming proficiency and water survival skills in a fun manner.
-
-For P3 outdoor education, students will apply key principles and considerations of packing for a day strip, identify ways to manage the safety of self and others during outdoor activities.
-
-##### **Primary 4**
-Students will learn about communal living and doing team-bonding activities together. They undertake a route  with checkpoints using pictorial charts and other aids. They would apply key principles and considerations of healthy eating and hygiene when preparing for a meal for a day trip.
-
-
-##### **Primary 5**
-Students would have their 3 Days 2 Nights adventure camp where they learn and apply key principles & consideration of packing for a residential camp, describe procedures for treating minor injuries during outdoor activities. They would learn to build resilience and character through mental and physical challenges such as attempting the high elements, caving, bouldering, rock-climbing.
-
-<figure>
-<img src="/images/pe2.png" style="width:55%">
-<figcaption>  Trekking in groups and learning team building
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/pe3.png" style="width:75%">
-<figcaption>  Mini-campfire where students did their reflection within the groups.
- </figcaption>
-</figure>
-
-
-##### **Primary 6**
-Students will learn to create pictorial chart of an area in school indicatiing relative sizes and positions of key landmarks. They will plan and undertake a route with checkpoints using pictorial charts. They will recognise the importance of minimising environmental impact when engaging in outdoor activities. They will have a trekking in MacRitchie reservoir during post exam activity. The students will have to trek 2 different routes through the vegetation as they listen and observe the surroundings.
-
-<img src="/images/pe5.png" style="width:75%">
+![](/images/pe2.jpg)
