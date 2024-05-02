@@ -22,10 +22,9 @@ variant: markdown
 
 |  |  |
 |:---:|:---:|
-| **Administrative Manager** | - |
+| **Administrative Manager** | Ms April Tan Lee Ngoh |
 | **Operations Manager** | Mr Tay Eng Foo Roy |
 | **Operations Manager** | Mr Tan Tong Mou |
-| **Admin Executive** | Ms April Tan Lee Ngoh |
 | **Admin Executive** | Mdm Chua Lay Cheng Jane |
 | **Admin Executive** | Ms Farhana  |
 | **Admin Executive** | Mr Toh Boon Chiang  |
