@@ -23,16 +23,10 @@ sections:
       id: infobar
       button: Click here
       url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
-  - infobar:
-      title: 2024 SPECS - P2 to P6  Sharing Slides
-      id: infobar
-      description: You may view them under 'Briefing Slides'
-      button: Click here
-      url: https://www.whitesandspri.moe.edu.sg/for-parents/COA/
   - infopic:
       title: School Canteen Advertisement
       id: infopic
-      description: We have opening for canteen stall. Click on the link below to read
+      description: We have opening for canteen stall. Click on the link below to read.
       button: Click here
       url: /wsps-info/announcements/canteen/
       image: /images/Green_Brown_Simple_Project_Management_Decision_Tree_Graph__1_.png
