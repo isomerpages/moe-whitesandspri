@@ -9,9 +9,9 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Noodle / Japanese Stall    | 30 April 2024     | Non-Halal     |
+| Chinese Noodle / Japanese Stall    | 30 June 2024     | Non-Halal     |
 
-#### **We are looking for a Chinese Noodle or Japanese  Stallholder to operate in our school canteen with effect from 2 May 2024.**
+#### **We are looking for a Chinese Noodle or Japanese  Stallholder to operate in our school canteen with effect from 1 July 2024.**
 
 #### **Eligibility and Criteria:**
 
