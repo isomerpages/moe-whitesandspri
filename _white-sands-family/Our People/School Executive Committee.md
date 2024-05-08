@@ -367,7 +367,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aesthetics (Internal)</p>
+<p>Aesthetics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Alexandrea Droze</p>
