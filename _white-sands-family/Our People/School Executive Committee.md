@@ -367,10 +367,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aesthetics</p>
+<p>Aesthetics (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mrs Alexandrea Droze</p>
 </td>
 </tr>
 <tr>
@@ -538,14 +538,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Droze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>CCE Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -558,6 +550,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tham-Wong Lin Yen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
