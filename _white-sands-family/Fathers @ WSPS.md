@@ -29,7 +29,7 @@ variant: markdown
   padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" rowspan="9" width="198"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin;mso-ansi-language:MS" lang="MS">Exco Members</span></p></td><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><br>Mdm Low Pei Chen, Yuki<br>
+  padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353">
 <br>Mr Vinson Kong<br>
 <br>Dr Lai Shu Hau<br>
 <br>Mr Tang Yong Chong<br>
