@@ -20,9 +20,9 @@ All pupils of White Sands Primary School should:
 
 \* A detailed list of school procedures and safety measures can be obtained from the yearly Student handbook.
 
-#### **Use of Mobile Phone or Smart Watch**
+#### **Use of Mobile Phone or Smart Device**
 
-The school acknowledges the importance for parents to have a convenient way to reach their children after school hours. Although students are permitted to bring mobile phones or smart devices to school, it is not encouraged. Students who choose to bring mobile phones or smart devices to school must adhere to the following guidelines outlined below:
+The school acknowledges the importance for parents to have a convenient way to reach their children after school hours. Although students are permitted to bring mobile phones or smart watches to school, it is not encouraged. Students who choose to bring mobile phones or smart watches to school must adhere to the following guidelines outlined below:
 
 * Use of smart devices is restricted to before and after school and/or when permission is granted by a teacher
 
@@ -34,6 +34,4 @@ The school acknowledges the importance for parents to have a convenient way to r
 
 * No mobile phone or smart watches will be allowed in examination rooms.
 
-*  The school will not be responsible for the loss and damage of the mobile phone. It is the student’s responsibility to take care of the equipment. 
-
-
+*  The school will not be responsible for the loss and damage of the mobile phone or smart devices. It is the student’s responsibility to take care of the equipment.
