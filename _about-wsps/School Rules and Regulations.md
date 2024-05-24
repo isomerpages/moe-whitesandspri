@@ -25,9 +25,9 @@ All pupils of White Sands Primary School should:
 The school acknowledges the importance for parents to have a convenient way to reach their children after school hours. Although students are permitted to bring mobile phones or smart watches to school, it is not encouraged. Students who choose to bring mobile phones or smart watches to school must adhere to the following guidelines outlined below:
 
 
-- Smart devices are only permitted for use before and after school, or with teacher permission. 
+- Smart devices are only permitted for use before and after school or when permission is granted by a teacher. 
 - Students must refrain from using smart devices during excursions, camps, and co-curricular activities. 
-- Mobile phones should be turned off and kept concealed during all school functions. 
+- Mobile phones should be turned off and kept concealed during all school activities. 
 - Smart watches may only be used for timekeeping outside of assessment or examination periods. 
 - Mobile phones and smart watches are strictly prohibited in examination rooms. 
 - Students are accountable for the safekeeping of their mobile phones or smart devices, as the school will not be liable for any loss or damage.
