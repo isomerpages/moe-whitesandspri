@@ -21,4 +21,4 @@ variant: markdown
 #### **2024 SPECS**
 <br>
 
-* [School Leader's P6 Sharing Slides](/files/School_Leader_s_P6_Sharing_Slides_.pdf)
+* [School Leader's Sharing Slides](/files/23_May_UP_Parents_Engagement_Slides.pdf)
