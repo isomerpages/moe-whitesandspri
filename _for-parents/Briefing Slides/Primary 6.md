@@ -15,3 +15,10 @@ variant: markdown
 * [P6D Sharing Slides](/files/2024_SPECS_6D_.pdf)
 * [P6E Sharing Slides](/files/2024_SPECS_6E_.pdf)
 * [P6F Sharing Slides](/files/2024_SPECS_6F_.pdf)
+
+
+
+#### **2024 UP PARENTS ENGAGEMENT**
+<br>
+
+* [School Leader's Sharing Slides](/files/23_May_UP_Parents_Engagement_Slides.pdf)
