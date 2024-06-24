@@ -2,5 +2,6 @@ collections:
   wsps:
     output: true
     order:
+      - Terms of Use.md
       - Privacy Statement.md
       - Sitemap.md
