@@ -98,5 +98,6 @@ variant: markdown
 | P5 English Teacher | Mrs Goh Bee Chew |
 | PE Teacher | Mr Aaron Yeo |
 | Malay Teacher | Mdm Dira Murshida |
+| Malay Teacher | Mdm Khairunnisa Binte Abdul Samat
 | Tamil Teacher | Mrs Kalpena Gangadaran |
-| Music Teacher | Mdm Ong Tyng Tyng Ruth  |
+| English Teacher | Mdm Noor Rita Bte Noor Mohamed  |
