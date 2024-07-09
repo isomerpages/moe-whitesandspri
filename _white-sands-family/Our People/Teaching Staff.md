@@ -36,7 +36,8 @@ variant: markdown
 |  |  |  |  |
 |---|---|---|---|
 | **3A** | Ms Nurfarahin B Salleh Udin | Mr Michael Chang Chee Kong |
-| **3B** | Mdm Maznah Bte Ismail | Miss Wan Nurin Zahian | Mrs Mak Pui See, Nicole |
+| **3B** | Mdm Maznah Bte Ismail | Miss Wan Nurin Zahian | Mrs Mak Pui See Nicole  
+|   |  ||  Mdm Poonguzhali Narayanasamy 
 | **3C** | Mr Mohd Raizi | Ms May Soh |
 | **3D** | Mdm Amy Ong | Mr Liew Guan Jie | Mr Aaron Yeo |
 | **3E** | Miss Hafila | Mr Mohd Razlee | Mrs Lee Puay Hoon |
@@ -53,7 +54,7 @@ variant: markdown
 | **4B** | Mr Asraf  | Miss Ng Hui Yin | Mdm Hafiza Bte Ahmad |
 | **4C** | Mdm Norhayati Bte Maksom | Ms Leong Yin Leng |  |
 | **4D** | Ms Lim Yeng Peng | Ms Parimala Davi |  |
-| **4E** | Mr Sim Joo Sen | Mdm Ong Tyng Tyng |  |
+| **4E** | Mr Sim Joo Sen | Mdm Ong Tyng Tyng | Helen Tay Yi Lin  |
 | **4F** | Mdm Zainab Bte Abdullah | Mr Chong Thiam Hock |  |
 |
 
@@ -97,5 +98,6 @@ variant: markdown
 | P5 English Teacher | Mrs Goh Bee Chew |
 | PE Teacher | Mr Aaron Yeo |
 | Malay Teacher | Mdm Dira Murshida |
+| Malay Teacher | Mdm Khairunnisa Binte Abdul Samat
 | Tamil Teacher | Mrs Kalpena Gangadaran |
-| Music Teacher | Mdm Ong Tyng Tyng Ruth  |
+| English Teacher | Mdm Noor Rita Bte Noor Mohamed  |
