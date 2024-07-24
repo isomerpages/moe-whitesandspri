@@ -13,3 +13,5 @@ The key focus of the programme is to raise greater awareness of the different cu
 
 
 This programme is part of our core mission to nurture our students to be passionate learners with exemplary character who will lead with a heart and contribute to society. With this programme, we are confident to enable every White Sandian to achieve their best .
+
+![](/images/GOP2024.jpg)
