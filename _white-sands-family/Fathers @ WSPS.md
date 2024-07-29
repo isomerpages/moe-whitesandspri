@@ -30,7 +30,7 @@ variant: markdown
   minor-latin;mso-ansi-language:MS" lang="MS">Exco Members</span></p></td><td style="width:265.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353">
-<br>Mr Vinson Kong<br>
+<br>Mr Vinson Chua<br>
 <br>Dr Lai Shu Hau<br>
 <br>Mr Tang Yong Chong<br>
 <br>Mr Bruce See<br>
