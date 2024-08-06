@@ -7,4 +7,4 @@ variant: markdown
 ---
 ### **School Bus**
 
-To be updated
+This page will be updated soon.
