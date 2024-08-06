@@ -11,6 +11,6 @@ variant: markdown
 |:---:|---|
 | **Company Name** | Atlantic Travel Pte Ltd |
 | **Contact Number**  | 6261 2278 |
-| **Contact Number (After Office Hour Hotline)** | 8877 7192 / 9338 1882 |
+| **Contact Number (After Office Hour Hotline)** | TBC |
 | **Email** | ops@atlantictransport.com.sg |
 |
