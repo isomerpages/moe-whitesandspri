@@ -7,4 +7,11 @@ variant: markdown
 ---
 ### **School Bus**
 
-This page will be updated soon.
+
+
+|  |  |
+|:---:|---|
+| **Company Name** | Peh Bus Service |
+| **Contact Number**  | 90073126 (Mr Peh) / 97231801 (Ms Berlin) |
+| **Email** | wspsbus@gmail.com |
+|
