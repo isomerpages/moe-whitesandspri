@@ -50,11 +50,11 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **4A** | Ms Gunita Kaur | Mr Jiang Yang |  |
+| **4A** | Ms Gunita Kaur | Mr Jiang Yang | Ms Khairunnisa  |
 | **4B** | Mr Asraf  | Miss Ng Hui Yin | Mdm Hafiza Bte Ahmad |
 | **4C** | Mdm Norhayati Bte Maksom | Ms Leong Yin Leng |  |
 | **4D** | Ms Lim Yeng Peng | Ms Parimala Davi |  |
-| **4E** | Mr Sim Joo Sen | Mdm Ong Tyng Tyng | Helen Tay Yi Lin  |
+| **4E** | Mr Sim Joo Sen | Helen Tay Yi Lin |   |
 | **4F** | Mdm Zainab Bte Abdullah | Mr Chong Thiam Hock |  |
 |
 
@@ -79,7 +79,7 @@ variant: markdown
 | **6B** | Mr Shahrunizam | Mrs Tham-Wong Lin Yen |
 | **6C** | Mdm Hirda | Mdm Seah Huixin | Mr Fahmy |
 | **6D** | Mdm Vasathakumari | Mdm Fatimah S |
-| **6E** | Mdm Jacqueline Bay | Mr Tan Yew Wee |
+| **6E** | Mdm Jacqueline Bay | Mr Tan Yew Wee | Mr Maverick
 | **6F** | Mr Mohd Faisal | Mdm Nur Diana | Mr Ravichanthiran
 |  |  |  |   |
 
