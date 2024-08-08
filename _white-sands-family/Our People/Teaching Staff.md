@@ -10,7 +10,7 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **1A** | Mrs Loh-Tan Kim Choo |  Ms Hariza |
+| **1A** | Mrs Loh-Tan Kim Choo |  Ms Khairulhariza |
 | **1B** | Mrs Carine Ong | Mdm Marsita Bte Selamat | 
 | **1C** | Mrs Jean Wong | Mdm See Swee Tee |
 | **1D** | Mdm Syariana Idrus | Mrs Goh Bee Chew | Mdm Siti Alawiah Bte Jaffar

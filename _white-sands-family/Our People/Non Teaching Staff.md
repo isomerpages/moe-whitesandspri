@@ -14,7 +14,6 @@ variant: markdown
 | **Special Educational Needs Officer (SEN Officer)** | Mdm Yee Leng Leng |
 | **Special Educational Needs Officer (SEN Officer)** | Mr Muhd Ismail Bin Rosli |
 | **Special Educational Needs Officer (SEN Officer)** | Mr Zuhri Bin Shariff |
-| **Allied Educator (FTSC)** | Miss Pryiiajit Kaur Sandhu |
 | **Allied Educator (FTSC)** | Ms Tan Boon Huay Janice |
 | **Allied Educator (FTSC)** | Mdm Tan Pei Yuan |
 |
@@ -29,7 +28,7 @@ variant: markdown
 | **Admin Executive** | Mdm Chua Lay Cheng Jane |
 | **Admin Executive** | Ms Farhana  |
 | **Admin Executive** | Mr Toh Boon Chiang  |
-| **Corporate Support Officer** | Ms Mashita Ahmad  |
+| **Corporate Support Officer** | Mdm Mashita Ahmad  |
 | **Operations Support Officer** | Mdm Sarmini Bte Kiat |
 | **Operations Support Officer** | Mdm Rakyah Bte Ahmad |
 | **Operations Support Officer** | Mdm Chua Siew Hiam |
