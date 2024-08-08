@@ -322,7 +322,7 @@ variant: tiptap
 <p>Mathematics (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gunita</p>
+<p>Ms Gunita Kaur</p>
 </td>
 </tr>
 <tr>
@@ -338,7 +338,7 @@ variant: tiptap
 <p>Malay/ Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ismail</p>
+<p>Mr Ismail Kasim</p>
 </td>
 </tr>
 <tr>
@@ -411,7 +411,7 @@ variant: tiptap
 <p>Primary 6 AYH (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Diana</p>
+<p>Mdm Nur Diana</p>
 </td>
 </tr>
 <tr>
