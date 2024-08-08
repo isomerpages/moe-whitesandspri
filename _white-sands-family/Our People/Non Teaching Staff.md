@@ -14,7 +14,6 @@ variant: markdown
 | **Special Educational Needs Officer (SEN Officer)** | Mdm Yee Leng Leng |
 | **Special Educational Needs Officer (SEN Officer)** | Mr Muhd Ismail Bin Rosli |
 | **Special Educational Needs Officer (SEN Officer)** | Mr Zuhri Bin Shariff |
-| **Allied Educator (FTSC)** | Miss Pryiiajit Kaur Sandhu |
 | **Allied Educator (FTSC)** | Ms Tan Boon Huay Janice |
 | **Allied Educator (FTSC)** | Mdm Tan Pei Yuan |
 |
