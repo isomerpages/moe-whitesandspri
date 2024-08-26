@@ -20,10 +20,7 @@ variant: markdown
 |   | Saturday: 10am to 2pm  |
 |   | Closed on Sunday and Public Holidays  |
 | **Mode of payment** | Cash, Nets, PayNow, DBS Paylah!  |
-| **Website** | http://www.jeepsinguniform.com.sg/  |
-| **Enquiry Form** | https://bit.ly/JSFSUPPORT|
-| **Video Directions to our Retail Outlet** | https://youtu.be/BazMFlH6TBs|
+| **Website** | [http://www.jeepsinguniform.com.sg/](http://www.jeepsinguniform.com.sg/)  |
+| **Enquiry Form** | [https://bit.ly/JSFSUPPORT](https://bit.ly/JSFSUPPORT)|
+| **Video Directions to our Retail Outlet** | [https://youtu.be/BazMFlH6TBs](https://youtu.be/BazMFlH6TBs)https://youtu.be/BazMFlH6TBs|
 | **Map to Retail** | ![](/images/jeep.jpg)|
-
-
-
