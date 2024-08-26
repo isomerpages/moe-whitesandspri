@@ -9,6 +9,8 @@ variant: markdown
 
 
 ###### **School Bookshop (HQ)**
+<br>
+
 |  |  |
 |:---:|---|
 | **Company Name** | Pacific Bookstore Pte Ltd |
@@ -18,7 +20,10 @@ variant: markdown
 |
 
 ###### **School Bookshop (White Sands Primary School)**
+<br>
+
 |  |  |
 |:---:|---|
 | **Telephone** | 9475 1282|
 | **Operating Hours** | 9am to 3pm |
+
