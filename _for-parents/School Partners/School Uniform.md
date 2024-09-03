@@ -22,5 +22,5 @@ variant: markdown
 | **Mode of payment** | Cash, Nets, PayNow, DBS Paylah!  |
 | **Website** | [http://www.jeepsinguniform.com.sg/](http://www.jeepsinguniform.com.sg/)  |
 | **Enquiry Form** | [https://bit.ly/JSFSUPPORT](https://bit.ly/JSFSUPPORT)|
-| **Video Directions to our Retail Outlet** | [https://youtu.be/BazMFlH6TBs](https://youtu.be/BazMFlH6TBs)https://youtu.be/BazMFlH6TBs|
+| **Video Directions to our Retail Outlet** | [https://youtu.be/BazMFlH6TBs](https://youtu.be/BazMFlH6TBs)|
 | **Map to Retail** | ![](/images/jeep.jpg)|
