@@ -38,7 +38,6 @@ variant: markdown
 | **Library Assistant** | Mdm Rohaidah Bte Hassan |
 | **ICT Associate** | Mr Mohamed Fadzli |
 | **ICT Manager** | Mr Nur Salim |
-| **Desktop Engineer** | Mr Norman Poh |
 | **Desktop Engineer** | Mr Enson Pang |
 | **Administrative Assistant** | Mdm Azlina Bte Sumri |
 | **Science Lab Assistant** | Mdm Molly Wan Guek Neo |
