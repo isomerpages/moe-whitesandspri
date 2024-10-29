@@ -14,3 +14,4 @@ variant: markdown
 * [In-Link for August 2024](/files/In_Link_Aug_2024_Final.pdf)
 * [In-Link for September 2024](/files/In_Link_Sep_2024_Final.pdf)
 * [In-Link for October 2024](/files/In_Link_Oct_2024_Final.pdf)
+* [In-Link for November 2024](/files/In_Link_Nov_2024.pdf)
