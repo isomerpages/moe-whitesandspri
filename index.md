@@ -23,4 +23,9 @@ sections:
       id: infobar
       button: Click here
       url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
+  - infobar:
+      title: Slides for P1 Orientation 2024
+      id: infobar
+      button: click here
+      url: https://www.whitesandspri.moe.edu.sg/for-parents/briefing-slides-2/p1/
 ---
