@@ -8,4 +8,5 @@ variant: markdown
 ### Sharing Slides
 <br>
 
-* ##### [P1 Transition 2024](/files/Transition_2024__2_Jan_.pdf)
+##### * [P's Address for P1 Orientation 2024](/files/01_P_address_P1_Orientation_Slides_2024_updated.pdf)
+##### * [Year Head Address for P1 Orientation 2024](/files/03_YH_Address_P1_Orientation_slides_2024.pdf)
