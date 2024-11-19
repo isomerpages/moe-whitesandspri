@@ -19,16 +19,13 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
+      title: Slides for P1 Orientation 2024
+      id: infobar
+      button: click here
+      url: https://www.whitesandspri.moe.edu.sg/for-parents/briefing-slides-2/p1/
+  - infobar:
       title: In-Link Bulletin for November 2024
       id: infobar
       button: Click here
       url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
-  - infopic:
-      title: School Canteen Advertisement
-      id: infopic
-      description: We have opening for canteen stall. Click on the link below to read.
-      button: Click here
-      url: /wsps-info/announcements/canteen/
-      image: /images/Green_Brown_Simple_Project_Management_Decision_Tree_Graph__1_.png
-      alt: Image alt text
 ---
