@@ -15,3 +15,4 @@ variant: markdown
 * [In-Link for September 2024](/files/In_Link_Sep_2024_Final.pdf)
 * [In-Link for October 2024](/files/In_Link_Oct_2024_Final.pdf)
 * [In-Link for November 2024](/files/In_Link_Nov_2024.pdf)
+* [In-Link for December 2024](/files/In_Link_Dec_2024_P2_to_P6_2025_Final.pdf) + [Annex 1 Packing List for P2 to P6 2025 Pupils](/files/Annex_1_Packing_List_for_P2_to_P6_Pupils_Final.pdf)
