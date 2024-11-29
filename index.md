@@ -19,13 +19,20 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
+      title: Staff Announcement
+      id: infobar
+      description: Congratulations to our staff on receiving the MOE Excellence
+        Service Awards (MSEA) 2024 and Caring Teacher Awards (CTA) 2024.
+      button: click here
+      url: /staff-announcement/
+  - infobar:
+      title: In-Link Bulletin for December 2024
+      id: infobar
+      button: Click here
+      url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
+  - infobar:
       title: Slides for P1 Orientation 2024
       id: infobar
       button: click here
       url: https://www.whitesandspri.moe.edu.sg/for-parents/briefing-slides-2/p1/
-  - infobar:
-      title: In-Link Bulletin for November 2024
-      id: infobar
-      button: Click here
-      url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
 ---
