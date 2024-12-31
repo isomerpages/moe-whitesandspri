@@ -36,7 +36,7 @@ variant: markdown
 |  |  |  |  |
 |---|---|---|---|
 | **3A** | 	Ms Gunita Kaur | Mrs Fung Chon Hwai Joan |
-| **3B** | Mdm Vasathakumari | Miss Leong Yin Leng | 	Mdm Fatimah M T 
+| **3B** | Mdm Vasathakumari | Miss Leong Yin Leng | 	Mdm Fatimah S 
 | **3C** | Mdm Zainab Bte Abdullah | 	Mr Jiang Yang |
 | **3D** | 	Ms Charlene Yeong Min | Mrs Mak Pui See Nicole | Miss Hafila |
 | **3E** | Mr Sim Joo Sen | 	Mr Maverick | 	Mdm Mardhiyah |
@@ -61,12 +61,12 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **5A** | Mr Ismail Bin Kasim | Mrs Droze |  Mrs Kalpena Gangadaran |
-| **5B** | Mrs Ho-Yap Yuh Kian | Mdm Wang Jingbo |
-| **5C** | Mrs Beverly Peh | Ms Poh Hui Qin |
-| **5D** | Mrs Teo-Sim Hwee Khoon | Mr Amos Sim | 
-| **5E** | Mdm Nadia Hezryn | Mdm Shahira Bte Daud |
-| **5F** | Ms Nur Adilah | Mr Mazlan Bin Hussein |
+| **5A** | Ms Kathryn Kan | Mr Shahrunizam |   |
+| **5B** | 	Mr Chong Thiam Hock | Mdm Julie Katherina | Mdm Nadera
+| **5C** | 	Mdm Fatimah M T | 	Ms Lim Yeng Peng | 	Mr Michael Chang Chee Kong
+| **5D** | Mrs Tham-Wong Lin Yen | Mr Asraf | 
+| **5E** | 	Mdm Jacqueline Bay | 	Mr Mohd Raizi |
+| **5F** | Mr Mohd Faisal | 	Ms Parimala Davi |
 |
 
 
@@ -74,12 +74,12 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **6A** | Ms Kathryn Kan | Miss Khadijah Bte Aron |
-| **6B** | Mr Shahrunizam | Mrs Tham-Wong Lin Yen |
-| **6C** | Mdm Hirda | Mdm Seah Huixin | Mr Fahmy |
-| **6D** | Mdm Vasathakumari | Mdm Fatimah S |
-| **6E** | Mdm Jacqueline Bay | Mr Tan Yew Wee | Mr Maverick
-| **6F** | Mr Mohd Faisal | Mdm Nur Diana | Mr Ravichanthiran
+| **6A** | 	Mr Ismail Bin Kasim | 	Mrs Droze |
+| **6B** | Mrs Ho-Yap Yuh Kian | 	Mdm Wang Jingbo |
+| **6C** | Mrs Beverly Peh | Ms Poh Hui Qin | |
+| **6D** | Mrs Teo-Sim Hwee Khoon | Mr Amos Sim |
+| **6E** | 	Mdm Nadia Hezryn | Mr Tan Yew Wee | 
+| **6F** | Mr Mazlan Bin Hussein | Miss Ng Hui Yin | 
 |  |  |  |   |
 
 
