@@ -49,12 +49,12 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **4A** | Ms Gunita Kaur | Mr Jiang Yang | Ms Khairunnisa  |
-| **4B** | Mr Asraf  | Miss Ng Hui Yin | Mdm Hafiza Bte Ahmad |
-| **4C** | Mdm Norhayati Bte Maksom | Ms Leong Yin Leng |  |
-| **4D** | Ms Lim Yeng Peng | Ms Parimala Davi |  |
-| **4E** | Mr Sim Joo Sen | Helen Tay Yi Lin |   |
-| **4F** | Mdm Zainab Bte Abdullah | Mr Chong Thiam Hock |  |
+| **4A** | 	Ms Nurfarahin B Salleh Udin | Mrs Kalpena Gangadaran |   |
+| **4B** | Miss Wan Nurin Zahian  | Mdm Nur Syahirah Bte Sa'adon |  |
+| **4C** | 	Ms May Soh | Mdm Hirda |  |
+| **4D** | 	Mdm Amy Ong | 	Mr Liew Guan Jie | 	Mrs Lee Puay Hoon |
+| **4E** | 	Ms Nur Adilah | 	Mr Mohd Razlee |  Mdm Mary Pai |
+| **4F** | 	Mdm Anisah | 	Mr Fahmy |  |
 |
 
 #### **Primary 5**
