@@ -233,7 +233,7 @@ variant: tiptap
 <p>Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Qiu Suguan</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -319,7 +319,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics (Internal)</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gunita Kaur</p>
@@ -359,7 +359,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aesthetics (Covering)</p>
+<p>Aesthetics (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Alexandrea Droze</p>
@@ -371,6 +371,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Razlee Bin Bidin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character &amp; Citizenship Education (CCE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Syahirah</p>
 </td>
 </tr>
 <tr>
@@ -416,10 +424,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 &amp; 4 Year Head (Covering)</p>
+<p>Primary 5 AYH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Asraf</p>
+<p>Mdm Julie Katherina</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3 &amp; 4 Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Maizatul Anwar</p>
 </td>
 </tr>
 <tr>
@@ -435,7 +451,7 @@ variant: tiptap
 <p>Primary 1 &amp; 2 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Erica Cheah</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -484,14 +500,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Beverly Peh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
