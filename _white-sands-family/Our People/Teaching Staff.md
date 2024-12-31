@@ -93,10 +93,9 @@ variant: markdown
 | P3 & P4 Math & Science Teacher | Miss Leong Yin Leng |
 | P3 English & Math Teacher | Mrs Mak Pui See, Nicole |
 | P4 English Teacher | Mrs Lee Puay Hoon |
-| P4 & P6 Math Teacher | Mdm Hafiza Bte Ahmad |
-| P5 English Teacher | Mrs Goh Bee Chew |
-| PE Teacher | Mr Aaron Yeo |
+| P4 English Teacher | Mdm Mary Pai |
+| PE Teacher | Mdm Susan Tan |
+| Chinese Teacher | Mdm Elias Gam |
 | Malay Teacher | Mdm Dira Murshida |
-| Malay Teacher | Mdm Khairunnisa Binte Abdul Samat
-| Tamil Teacher | Mrs Kalpena Gangadaran |
+| English Teacher | Mdm Nadera Sultana
 | English Teacher | Mdm Noor Rita Bte Noor Mohamed  |
