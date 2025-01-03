@@ -7,9 +7,6 @@ variant: tiptap
 ---
 <h3><strong>School Executive Committee</strong></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 9%;" height="auto" width="100%" alt="" src="/images/Ms_Wong___Darft_Edit_Name_3.jpg">
-</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -28,9 +25,18 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 22%;" height="auto" width="100%" alt="" src="/images/Ms_Wong___Darft_Edit.jpg">
-</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
@@ -38,75 +44,7 @@ variant: tiptap
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 17%;" height="auto" width="100%" alt="" src="/images/Ms_Wong___Darft_Edit_Name_2.jpg">
-</div>
-<table style="minWidth: 200px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/VPs___Name.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_2025_v2.png">
 </div>
 <table style="width: 0px">
 <colgroup></colgroup>
@@ -114,75 +52,16 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/VPs___Draft_Edit.jpg">
-</div>
-<table style="minWidth: 250px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table style="width: 0px">
+<colgroup></colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="2">
-<p>Ms Lina Tiong</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="4">
-<p>Ms Rezina Khan</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
+</tbody>
+</table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
 </tbody>
 </table>
 <table style="width: 0px">
