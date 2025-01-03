@@ -109,14 +109,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -413,14 +405,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Charlene Yeong Min</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCE Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Maybelline Chan</p>
 </td>
 </tr>
 <tr>
