@@ -28,8 +28,14 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 22%;" height="auto" width="100%" alt="" src="/images/Ms_Wong___Darft_Edit.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/p_2025.png">
 </div>
 <table style="width: 0px">
 <colgroup></colgroup>
@@ -38,7 +44,7 @@ variant: tiptap
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 17%;" height="auto" width="100%" alt="" src="/images/Ms_Wong___Darft_Edit_Name_2.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Ms_Wong___Darft_Edit_Name_2.jpg">
 </div>
 <table style="minWidth: 200px">
 <colgroup>
@@ -114,8 +120,14 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/VPs___Draft_Edit.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Add_a_subheading.png">
 </div>
 <table style="minWidth: 250px">
 <colgroup>
