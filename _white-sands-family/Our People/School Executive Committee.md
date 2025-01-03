@@ -319,10 +319,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1 &amp; 2 Year Head</p>
+<p>Primary 2 AYH (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mdm Nur Diana</p>
 </td>
 </tr>
 <tr>
