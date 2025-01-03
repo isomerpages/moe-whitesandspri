@@ -287,14 +287,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 6 AYH (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Diana</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Primary 5 AYH</p>
 </td>
 <td rowspan="1" colspan="1">
