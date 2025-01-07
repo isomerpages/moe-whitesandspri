@@ -50,9 +50,9 @@ b. Character and Citizenship Education (CCE)<br>
 
 | CCE(FTGP) Theme | LESSONS/DURATION | LESSON OVERVIEW<br> | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |:---:|:---:|---|:---:|
-| Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. | Term 3 Week 9 | 
-|Growing Years|Did You Know?<br>(60 min)|This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do’.** This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |Term 4 Week 2 | 
-|Growing Years|Keeping Myself Safe (60 min)| In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |Term 4 Week 3 | 
+| Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. | Term 4 Week 2 | 
+|Growing Years|Did You Know?<br>(60 min)|This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do’.** This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |Term 4 Week 5 | 
+|Growing Years|Keeping Myself Safe (60 min)| In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |Term 4 Week 6 | 
 
 
 
@@ -73,6 +73,6 @@ b. Character and Citizenship Education (CCE)<br>
 #### **Information for Parents**
 8\.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form would be posted on Parents Gateway. The completed opt-out form is to be submitted by 31/01/2024.
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form would be posted on Parents Gateway. The completed opt-out form is to be submitted by 31/01/2025.
 
 10\. Parents can contact the school at&nbsp;**6922 9100 (Mrs Joycelyn Lok)**&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
