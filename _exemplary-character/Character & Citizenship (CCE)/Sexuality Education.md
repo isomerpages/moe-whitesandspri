@@ -27,7 +27,7 @@ You may click&nbsp;**[here](https://go.gov.sg/moe-sexuality-education)**&nbsp;fo
 You may click **[here](https://go.gov.sg/moe-sexuality-education-scope)** for for more information on the scope of Sexuality Education in the school curriculum.
 
 
-#### **OVERVIEW OF WHITE SANDS PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024**
+#### **OVERVIEW OF WHITE SANDS PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025**
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;**[here](https://go.gov.sg/moe-sexuality-education-scope)**&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 5\. The subjects that incorporate topics on sexuality include:<br>
@@ -41,7 +41,7 @@ b. Character and Citizenship Education (CCE)<br>
 
 7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-##### **At White Sands Primary School, the following Sexual Education lessons will be taught in 2024:**
+##### **At White Sands Primary School, the following Sexual Education lessons will be taught in 2025:**
 
 ##### **Primary 5**
 
