@@ -41,7 +41,7 @@ b. Character and Citizenship Education (CCE)<br>
 
 7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-##### **At White Sands Primary School, the following Sexual Education lessons will be taught in 2024:**
+##### **At White Sands Primary School, the following Sexual Education lessons will be taught in 2025:**
 
 ##### **Primary 5**
 
