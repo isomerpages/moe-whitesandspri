@@ -96,6 +96,5 @@ variant: markdown
 | P4 English Teacher | Mdm Mary Pai |
 | PE Teacher | Mdm Susan Tan |
 | Chinese Teacher | Mdm Elias Gam |
-| Malay Teacher | Mdm Dira Murshida |
 | English Teacher | Mdm Nadera Sultana
 | English Teacher | Mdm Noor Rita Bte Noor Mohamed  |
