@@ -15,7 +15,7 @@ variant: markdown
 | **Special Educational Needs Officer (SEN Officer)** | Mr Muhd Ismail Bin Rosli |
 | **Special Educational Needs Officer (SEN Officer)** | Mr Zuhri Bin Shariff |
 | **Special Educational Needs Officer (SEN Officer)** | Ms Samirah Bte Mohd Noh |
-| **School Counseller** | Ms Tan Boon Huay Janice |
+| **School Counsellor** | Ms Tan Boon Huay Janice |
 
 
 #### **EAS**
