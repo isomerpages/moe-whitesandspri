@@ -10,12 +10,12 @@ variant: markdown
 
 |  |  |
 |:---:|:---:|
-| **Special Educational Needs Officer (Senior SEN Officer)** | Mdm Tan Pei Yuan |
-| **Special Educational Needs Officer (Senior SEN Officer)** | Mdm Yee Leng Leng |
+| **Senior Special Educational Needs Officer (SEN Officer)** | Mdm Yee Leng Leng |
 | **Special Educational Needs Officer (SEN Officer)** | Mr Muhd Ismail Bin Rosli |
 | **Special Educational Needs Officer (SEN Officer)** | Mr Zuhri Bin Shariff |
 | **Special Educational Needs Officer (SEN Officer)** | Ms Samirah Bte Mohd Noh |
-| **School Counsellor** | Ms Tan Boon Huay Janice |
+| **Senior School Counsellor** | Mrs Han Pei Yuan |
+| **School Counsellor (FTSC)** | Ms Tan Boon Huay Janice |
 
 
 #### **EAS**
