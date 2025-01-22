@@ -11,7 +11,7 @@ variant: markdown
 |  |  |  |  |
 |---|---|---|---|
 | **1A** | Ms L T Melwani |  Mdm Shi Haixia |
-| **1B** | Mdm Nor Azimah | Helen Tay | 
+| **1B** | Mdm Nor Azimah | Mrs Helen Tay | 
 | **1C** | Mdm Suzanah Bte Taib | Mdm Seah Huixin |
 | **1D** | Mdm Roza Bte Rahman | Miss Khadijah Bte Aron | 
 | **1E** | Ms Lim Hui Ling | Mdm Nur Diana | Mdm Maznah Bte Ismail |
