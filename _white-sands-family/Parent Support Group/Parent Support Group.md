@@ -39,7 +39,13 @@ variant: markdown
 <br>Mdm Cristina Fulgencio (Ameera)<br>
 <br>Mdm Noorashikin Bte Noordin<br>
 <br>Mdm Lo Loong Wuah, Lauren<br>
-<br>Mdm Goh Ee Lyn, Sharon<br><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:ow:5;height:27.7pt" lang="MS"></span></p></td><td style="width:265.1pt;border-top:none;border-left:  none;border-bottom:soli windowtext 1.0pt;border-right:s windowtext 1.0pt;
+<br>Mdm Goh Ee Lyn, Sharon<br>
+	<br>Mdm Farhanah Tan<br>
+	<br>Mdm Grace Chen<br>
+		<br>Mdm Jing Jing<br>
+		<br>Mdm Manali Choudhary
+<br>
+	<p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:ow:5;height:27.7pt" lang="MS"></span></p></td><td style="width:265.1pt;border-top:none;border-left:  none;border-bottom:soli windowtext 1.0pt;border-right:s windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:27.7pt" valign="top" width="353"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal">
 
 </p></td></tr></tbody></table>
@@ -75,7 +81,7 @@ The PSG supports school programmes and events such as HeARTshine, Teachers’ Da
 
 
 
-![](/images/psg_new_photo.jpg)
+![](/images/PSG_Website.jpg)
 
 #### **Come join us at WSPS Parent Support Group and rally together to support White Sandians in crafting their success stories!**
 ![](/images/psg_new_scan_2024_2.png)
