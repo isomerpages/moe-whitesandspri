@@ -15,7 +15,8 @@ To nurture students’ core values and social emotional competencies through var
 
 ##### **Summary of key level programmes**
 
-![](/images/pe44.png)
+
+![](/images/pe_2025.png)
 
 
     
@@ -27,7 +28,8 @@ Get Fit 1,2,3!  exposes pupils to a variety of sports beyond the PE curriculum a
 ##### **Programme for Active Learning (PAL)**
 The Programme for Active Learning (PAL) is a recommendation by the Ministry of Education (MOE) that was initiated in 2009. PAL is designed to offer Primary 1 and 2 students a comprehensive range of non-academic activities, aiming to enrich their learning experiences across four distinct domains: Sports and Games, Outdoor Education, Performing Arts, and Visual Arts. Through engaging in these activities, students are exposed to diverse and enjoyable learning opportunities while also developing socio-emotional competencies such as respect for others and responsible decision-making. PAL plays a crucial role in fostering confidence, curiosity, and cooperation skills among students.
 
-![](/images/pe.png)
+
+In White Sands Primary, PAL is conducted within curriculum time on Tuesdays for Primary 1 and Fridays for Primary 2. The lessons consist of activities in all four domains and are different every term.
 
 ##### **SwimSafer 2.0**
 The ability to swim is part of movement education within the Physical Education (PE) Syllabus. Through the SwimSafer 2.0 programme, pupils will develop water confidence, understand the principles of water safety, and learn techniques to prevent drowning.
