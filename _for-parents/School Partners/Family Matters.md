@@ -36,4 +36,4 @@ Other than Triple P, CCFFL also offers individual one-to-one consultation for pa
 #### **Empowering Your Children to Have Life to The Full using Triple P**
 
 
-Please click&nbsp;**[here](/files/triplep%20-%20revised.pdf)**&nbsp;for more details.
+Please click&nbsp;**[here](/files/FFLT_FSS_Introduction_letter_2025__P2_6_.pdf)**&nbsp;for more details.
