@@ -8,11 +8,7 @@ variant: markdown
 #### **Positive Parenting Programme (Triple P)**
 Since 2019, White Sands Primary School has partnered a Parenting Support Provider (PSP) designated by MSF to provide parenting programmes. In 2024, Care Corner Families for Life (CCFFL) has become our partner. One key programme is the Positive Parenting Programme, widely known as Triple P.
 
-<img src="/images/triplep1.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/triplep2.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/triplep3.jpg" style="width:30%;margin-right:15px;" align="left">
 
-<br clear="left">
 
 ##### **What is Triple P?**
 Triple P is a parenting and family support strategy designed to prevent behavioural and emotional problems in children.
