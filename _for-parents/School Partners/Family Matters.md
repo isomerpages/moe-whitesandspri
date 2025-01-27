@@ -3,9 +3,10 @@ title: Family Matters
 permalink: /useful-links/family-matters/triple-p/
 description: ""
 third_nav_title: School Partners
+variant: markdown
 ---
 #### **Positive Parenting Programme (Triple P)**
-White Sands Primary School came on on-board the evidence-based parenting programmes in April 2016 under the FamilyMatters@School programme.
+Since 2019, White Sands Primary School has partnered a Parenting Support Provider (PSP) designated by MSF to provide parenting programmes. In 2024, Care Corner Families for Life (CCFFL) has become our partner. One key programme is the Positive Parenting Programme, widely known as Triple P.
 
 <img src="/images/triplep1.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/triplep2.jpg" style="width:30%;margin-right:15px;" align="left">
@@ -27,18 +28,10 @@ Simple and practical strategies to help parents confidently manage their childre
 
 
 
-#### **FamilyMatters @ White Sands Primary School**
-MSF works in partnership with White Sands Primary School to create a pro-family environment through: instilling positive values and shaping mindset towards family, marriage and parenthood.
+#### **Care Corner Families for Life @ White Sands Primary School**
 
-Started in 2002, the programme seeks to:
+Other than Triple P, CCFFL also offers individual one-to-one consultation for parents, parenting clinics and topical talks, for example, Parenting in the Digital Age.
 
-**a) Equip parents with the skills and knowledge to:**<br>
-Enrich and strengthen their family life; and<br>
-Foster better parent-child understanding and relationship;
-
-**b) Equip students with:**<br>
-Skills to build healthy relationships with their peers and family; and<br>
-Positive values and attitudes towards family, relationships and life in general
 
 #### **Empowering Your Children to Have Life to The Full using Triple P**
 
