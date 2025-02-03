@@ -2,6 +2,7 @@
 title: Student Learning Space (SLS)
 permalink: /for-students/sls/
 description: ""
+variant: markdown
 ---
 Dear Students,
 
@@ -25,9 +26,6 @@ SLS can be accessed from [https://vle.learning.moe.edu.sg/login](https://vle.le
 
 **3\. What are my SLS account login details?**
 
-Your username is first five letters of your name and last five characters of your ID.  
-Your password had been given to you through your teacher.  
-or  
 Use your MIMS or Student iCON username (e.g. tan_weiling@students.edu.sg) and MIMS password.
 
 If you have forgotten your password, you could:
