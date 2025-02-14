@@ -5,20 +5,7 @@ description: ""
 third_nav_title: Briefing Slides
 variant: markdown
 ---
-#### **2024 SPECS**
+#### **2025 SPECS**
 <br>
 
-* [School Leader's P6 Sharing Slides](/files/School_Leader_s_P6_Sharing_Slides_.pdf)
-* [P6A Sharing Slides](/files/2024_SPECS_6A_.pdf)
-* [P6B Sharing Slides](/files/2024_SPECS_6B.pdf)
-* [P6C Sharing Slides](/files/2024_SPECS_6C.pdf)
-* [P6D Sharing Slides](/files/2024_SPECS_6D_.pdf)
-* [P6E Sharing Slides](/files/2024_SPECS_6E_.pdf)
-* [P6F Sharing Slides](/files/2024_SPECS_6F_.pdf)
-
-
-
-#### **2024 UP PARENTS ENGAGEMENT**
-<br>
-
-* [School Leader's Sharing Slides](/files/23_May_UP_Parents_Engagement_Slides.pdf)
+* [P6 School Leader Sharing Slides 2025](/files/2025_SPECS_P6.pdf)
