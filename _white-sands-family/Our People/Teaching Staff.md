@@ -63,7 +63,7 @@ variant: markdown
 |---|---|---|---|
 | **5A** | Ms Kathryn Kan | Mr Shahrunizam |   |
 | **5B** | 	Mr Chong Thiam Hock | Mdm Julie Katherina | Mdm Nadera
-| **5C** | 	Mdm Fatimah M T | 	Mrs Linda Chan | 	Mr Michael Chang Chee Kong
+| **5C** | 	Mdm Fatimah M T | 	Mrs Linda Chan |
 | **5D** | Mrs Tham-Wong Lin Yen | Mr Asraf | Mr Ravi
 | **5E** | 	Mdm Jacqueline Bay | 	Mr Mohd Raizi |
 | **5F** | Mr Mohd Faisal | 	Ms Parimala Davi |
