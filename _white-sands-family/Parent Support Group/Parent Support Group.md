@@ -74,14 +74,15 @@ Forming a successful parent-school partnership that is well integrated with the 
 *   provide constructive input on school policies and goals, practices and programmes
 *   support parents in their parenting journey via suitable avenues.<br> For more information, please click here - [MOE Parent Kit](https://www.moe.gov.sg/parentkit)
 
+#### **PSG Newsletter:**
 
+* ##### [Newsletter March 2025](/files/WSPS_PSG_Newsletter_March.pdf)
 
 #### **Key Involvement:**
 The PSG supports school programmes and events such as HeARTshine, Teachers’ Day and Children’s Day. With the knowledge, support, and expertise rendered by the PSG, their hope is to encourage all White Sandians to develop greater motivation to manage their own personal growth, be more engaged in learning while experiencing the joy of learning.
 
-
-
 ![](/images/PSG_Website.jpg)
+
 
 #### **Come join us at WSPS Parent Support Group and rally together to support White Sandians in crafting their success stories!**
 ![](/images/psg_new_scan_2024_2.png)
