@@ -19,6 +19,11 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
+      title: Nomination for Arif Budiman Malay Teacher Award 2025
+      id: infobar
+      button: Click Here
+      url: /staff-nomination/
+  - infobar:
       title: In-Link Bulletin for March 2025
       id: infobar
       button: Click here
