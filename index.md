@@ -25,13 +25,12 @@ sections:
       url: /inspiring-teacher-of-english-award-2025/
       image: /images/english_teacher_award.png
       alt: Image alt text
-      description: Nominations for the annual Inspiring Teacher of English Award are
-        now open. Closing date is 24 March 2025.
+      description: Nominations for the  Inspiring Teacher of English Award are now
+        open. Closing date is 24 March 2025.
   - infopic:
-      title: NOMINATION FOR ARIF BUDIMAN TEACHER AWARD 2025
+      title: ARIF BUDIMAN MALAY LANGUAGE TEACHER AWARD (AGAB) 2025
       id: infopic
-      description: Nominations for the Arif Budiman Award are now open. Closing date
-        is 4 April 2025.
+      description: Nominations for the award are now open. Closing date is 4 April 2025.
       button: Click here to nominate
       url: /arif-budiman-award-2025/
       image: /images/1738546445HJCYGK.png
