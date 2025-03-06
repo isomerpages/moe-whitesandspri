@@ -9,6 +9,9 @@ variant: tiptap
 ---
 <h3><strong>NOMINATION FOR ARIF BUDIMAN MALAY LANGUAGE TEACHER AWARD (AGAB) 2025</strong></h3>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1738546445HJCYGK.png">
+</div>
 <p>The Arif Budiman Malay Language Teacher Award (AGAB) 2025 is an annual
 award jointly organised by the Malay Language Council, Singapore (MBMS),
 Malay Language Teachers’ Association (PGBM), Berita Harian (BH) and Malay
