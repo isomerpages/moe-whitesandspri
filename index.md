@@ -18,11 +18,21 @@ sections:
           description: ""
           url: /for-students/sls/
       background: /images/Playground 3.png
-  - infobar:
-      title: Nomination for Arif Budiman Malay Teacher Award 2025
-      id: infobar
-      button: Click Here
-      url: /staff-nomination/
+  - infopic:
+      title: Inspiring Teacher of English Award 2025
+      id: infopic
+      button: click here to nominate
+      url: /inspiring-teacher-of-english-award-2025/
+      image: /images/english_teacher_award.png
+      alt: Image alt text
+  - infopic:
+      title: NOMINATION FOR ARIF BUDIMAN TEACHER AWARD 2025
+      id: infopic
+      description: ""
+      button: Click here to nominate
+      url: /arif-budiman-award-2025/
+      image: /images/1738546445HJCYGK.png
+      alt: Image alt text
   - infobar:
       title: In-Link Bulletin for March 2025
       id: infobar
