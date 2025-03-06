@@ -1,11 +1,11 @@
 ---
 title: Staff Announcement
 permalink: /staff-announcement/
-date: 2024-11-28
+date: 2025-03-05
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <h4>Congratulations to our staff on receiving the MOE Excellence Service Awards (MSEA) 2024 and Caring Teacher Awards (CTA) 2024.</h4>
 <p></p>
