@@ -19,7 +19,7 @@ variant: markdown
 
 |  |  |
 |:---:|:---:|
-| **Vice-Chairman**<br>Mr Jonathan Lee Kuo Chiang | **Treasurer** <br>Mr Alex Lim Zong Wei |
+| **Vice-Chairman**<br>Mr Jonathan Lee Kuo Chiang | **Member** <br>Mr Alex Lim Zong Wei |
 
 <img src="/images/sac5.jpg" style="width:25%;margin-right:65px;" align="right">
 <img src="/images/sac4.jpg" style="width:25%;margin-left:95px;" align="left">
