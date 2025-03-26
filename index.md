@@ -18,15 +18,11 @@ sections:
           description: ""
           url: /for-students/sls/
       background: /images/Playground 3.png
-  - infopic:
-      title: Inspiring Teacher of English Award 2025
-      id: infopic
-      button: click here to nominate
-      url: /inspiring-teacher-of-english-award-2025/
-      image: /images/english_teacher_award.png
-      alt: Image alt text
-      description: Nominations for the  Inspiring Teacher of English Award are now
-        open. Closing date is 24 March 2025.
+  - infobar:
+      title: In-Link Bulletin for April 2025
+      id: infobar
+      button: Click here
+      url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
   - infopic:
       title: ARIF BUDIMAN MALAY LANGUAGE TEACHER AWARD (AGAB) 2025
       id: infopic
@@ -35,9 +31,4 @@ sections:
       url: /arif-budiman-award-2025/
       image: /images/1738546445HJCYGK.png
       alt: Image alt text
-  - infobar:
-      title: In-Link Bulletin for March 2025
-      id: infobar
-      button: Click here
-      url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
 ---
