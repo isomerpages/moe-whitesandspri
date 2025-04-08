@@ -18,6 +18,15 @@ sections:
           description: ""
           url: /for-students/sls/
       background: /images/Playground 3.png
+  - infopic:
+      title: The 28th Distinguished Chinese Language Teachers Awards
+      id: infopic
+      description: The 28th Distinguished Chinese Language Teachers Awards is now open
+        for nominations online. The closing date is 11 May 2025.
+      button: click to nominate
+      url: https://zb.sg/dclta2025
+      image: /images/CL_Award.png
+      alt: Image alt text
   - infobar:
       title: In-Link Bulletin for April 2025
       id: infobar
