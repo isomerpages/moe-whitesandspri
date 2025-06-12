@@ -98,3 +98,4 @@ variant: markdown
 | Chinese Teacher | Mdm Elias Gam |
 | English Teacher | Mdm Nadera Sultana
 | English Teacher | Mdm Noor Rita Bte Noor Mohamed  |
+| Math Teacher | Mdm Goh Hong Buay Iris  |
