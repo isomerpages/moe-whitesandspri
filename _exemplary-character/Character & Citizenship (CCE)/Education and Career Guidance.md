@@ -14,4 +14,5 @@ The Education and Career Guidance (ECG) is a developmental programme which facil
 
 
 *   **ECG Career Fair Talk (P6)**<br>The ECG Career Fair Talk is designed to broaden our students' horizons by exposing them to various professions and industries. The school will be inviting parents and guest speakers to share their career highlights for this talk. Through the speakers’ valuable insights and experiences, students will be equipped with the knowledge and insights needed to make informed career choices.
-![](/images/ECG_Pics.png)
+
+![](/images/ecg.png)
