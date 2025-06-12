@@ -17,4 +17,4 @@ Broadly, there are three ways CCE lesson time is used: <br>
 
 (iii) provide opportunities for contribution to family, school and community through VIA projects. Time will be given to identify the needs and establish the intent of project, planning the activities and reflecting on learning. 
 
-![](/images/cce.jpg)
+![](/images/Buddy_Clean_Programme.png)
