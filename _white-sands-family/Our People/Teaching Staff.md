@@ -14,7 +14,7 @@ variant: markdown
 | **1B** | Mdm Nor Azimah | Mrs Helen Tay | 
 | **1C** | Mdm Suzanah Bte Taib | Mdm Seah Huixin |
 | **1D** | Mdm Roza Bte Rahman | Miss Khadijah Bte Aron | 
-| **1E** | Ms Lim Hui Ling | Mdm Nur Diana | Mdm Maznah Bte Ismail |
+| **1E** | Ms Lim Hui Ling | Mdm Nur Diana |  |
 | **1F** | Mdm Wong Hui Bing | Mdm Garmit |   |
 | Transit Teacher | Mdm Naziathul  |
 
