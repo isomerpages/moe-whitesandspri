@@ -15,7 +15,7 @@ The yearly awards are given based on the Values &amp; Character Assessment where
 *   **Model Pupil Award**<br>The Model Pupil Award is part of the school’s effort to nurture our pupils in character development. Students will be observed throughout the year and selected for the award if they exemplify the school’s values, show positive character traits as well as serve as role models to their peers. Selection of nominees is based on the school’s Values and Character Assessment.
 
 
-*   **Award for Character Excellence(ACE) Award**<br>Students who have achieved up to Level 3 of the Model Pupil Award will be eligible for the ACE Award which recognizes their exemplary conduct. Deserving students will be receiving the award during our annual Prize Giving Day each year.
+*   **Award for Character Excellence(ACE) Award**<br>Students who have consistently received the Model Pupil Award for four consecutive semester since Primary 5 will be eligible for the ACE Award, which recognizes their exemplary conduct.
 
 
 *   **All Round Excellence Award (AREA)**<br>A pinnacle award, it recognizes a student in Primary 6 for his/ her achievements in academics, CCA and Character Development. Deserving students will be receiving the award during our annual Prize Giving Day each year.
