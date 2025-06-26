@@ -99,3 +99,4 @@ variant: markdown
 | English Teacher | Mdm Nadera Sultana
 | English Teacher | Mdm Noor Rita Bte Noor Mohamed  |
 | Math Teacher | Mdm Goh Hong Buay Iris  |
+| Math Teacher | Mdm Mazida  |
