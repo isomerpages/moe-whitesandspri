@@ -16,10 +16,11 @@ At White Sands Primary School, we aspire to enable students to acquire and devel
 **Excellence 2000 (E2K) Mathematics Programme for P4 &amp; P5**
 
 The E2K Mathematics Programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach.
-Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematical explorations specially designed for this programme. The rich learning experiences offered by the programme serve to help students to:
-•	Develop the habits, attitudes and dispositions mathematicians possess
-•	Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills
-Teachers who have been trained in the E2K pedagogy run the programme in schools.
+Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematical explorations specially designed for this programme. The rich learning experiences offered by the programme serve to help students to:<br>
+
+•	Develop the habits, attitudes and dispositions mathematicians possess<br>
+•	Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills<br>
+•Teachers who have been trained in the E2K pedagogy run the programme in schools.
 
 
 
