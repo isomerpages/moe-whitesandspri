@@ -18,7 +18,8 @@ As part of the school’s continuous efforts to expose students to their culture
 
 During the MTL Fortnight, a wide range of MTL activities is conducted to enable students to learn and use MTL in novel and exciting ways. The activities include handicrafts, storytelling, show and tell, making of traditional snacks and desserts using clay, traditional games etc. Cultural camps are organised to provide students with an immersive environment to learn and use the language. The students will enjoy the event tremendously and have a very rich cultural learning experience.
 
-•	**Festive Celebrations (Chinese New Year, Hari Raya and Deepavali)**<br>
+
+#### **Festive Celebrations**
 Various festive celebrations were held in school with the aim of providing authentic experiences for our students to observe, understand, appreciate, and respect the different cultures. Beyond the vibrant festivities, it also serves as a nurturing platform for character development, honing students' performance skills, and fostering a deep appreciation for cultural heritage.
 
 
@@ -28,7 +29,10 @@ Various festive celebrations were held in school with the aim of providing authe
 #### **CHINESE LANGUAGE DEPARTMENT KEY PROGRAMMES**
 
 **P1 &amp; P2 Reading Programme:**<br>
-This program is designed to spark the interest of pupils in reading Chinese books by offering engaging activities such as storytelling, creating bookmarks, and designing book covers. Online stories and quizzes are also assigned for pupils to read e-books during school holidays. Students earn tokens for each book they read, which they can later exchange for exciting rewards.
+Our Primary 1 and 2 students participate in the MTL SOAR programme, which is designed to Spark interest, Open minds, Appreciate cultural heritage, and help them Rise as confident readers.
+This programme aims to ignite pupils’ interest in reading Mother Tongue storybooks through a range of engaging activities such as storytelling sessions, bookmark-making, and book cover design. 
+During SOAR sessions, teachers use Small Readers and age-appropriate texts to create meaningful learning experiences. These not only foster a love for language and storytelling but also help students develop essential 21st-century competencies such as civic literacy, communication, and critical thinking.
+
 
 
 **P3 Cultural Performance Exposure Scheme (CPES):**<br>
