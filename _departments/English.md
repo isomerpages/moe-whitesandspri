@@ -34,4 +34,15 @@ Project S.P.E.A.K! is an English enrichment programme helmed by the English Lang
  
 The Reading Week aims to imbibe the importance and love for reading within our students. Students take part in a variety of activities, including Read For Books organised by the National Library Board (NLB). Teachers and students read silently for a period of time such that a book is donated to selected beneficiaries selected by the NLB. Students are also given an opportunity to design book jackets for their favourite books during this Reading Week.
 
-![](/images/EL_photos_website__change_photo_only__write_up_same_.jpg)
+![](/images/EL_photos_website__change_photo_only__write_up_same_.jpg)<br>
+
+
+**Reading Rocks Programme**<br>
+
+As part of the school’s Reading Rocks Programme, the English Language and Mother Tongue teachers have organised a variety of engaging literacy activities throughout the year. The programme aims to foster a lifelong love of reading, strengthen students’ literacy skills, and stimulate their imagination and creativity.<br>
+
+One of the highlights is the Mystery Reader segment, where a surprise guest - either a teacher or a student - reads a book aloud during recess in the library. The element of surprise sparks excitement and anticipation, making the reading experience more engaging and enjoyable for students. Other fun and interactive library activities include Reader’s Theatre (featuring puppetry and scripts), Wheel-of-Words (a creative approach to learning spelling), choral recitations, storytelling sessions, crossword puzzles, and quizzes. <br>
+
+In addition, The Little Red Dot, a weekly newspaper, has also been introduced into our upper primary curriculum to support students’ learning. Through engaging newspaper-based activities, students are kept informed about current affairs and contemporary issues, helping them develop into critical thinkers and confident communicators.
+
+![](/images/english.png)
