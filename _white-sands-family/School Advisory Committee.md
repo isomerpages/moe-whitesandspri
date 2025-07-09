@@ -48,4 +48,5 @@ variant: markdown
 
 |  |  |
 |:---:|:---:|
-| **Member**<br>Mr Kevin Loh | **___________** <br>
+| **Member**<br>Mr Kevin Loh | **       **<br>|
+|  |  |
