@@ -38,7 +38,7 @@ variant: markdown
 |  |  |
 |:---:|:---:|
 | **Member**<br>Dr Lai Shu Hau | **Member**<br>Mr Alfred Tay |
-|  |  |
+
 
 <img src="/images/white.png" style="width:25%;margin-right:65px;" align="right">
 <img src="/images/kevin_loh.jpg" style="width:25%;margin-left:95px;" align="left">
@@ -49,4 +49,3 @@ variant: markdown
 |  |  |
 |:---:|:---:|
 | **Member**<br>Mr Kevin Loh | **       **<br>|
-|  |  |
