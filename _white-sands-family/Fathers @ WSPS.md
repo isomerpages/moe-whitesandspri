@@ -25,7 +25,7 @@ The WSPS community of fathers also provide support for each other through Father
 ![](/images/fathers_coney_island.png)<br>
 ![](/images/fathers_camp.png)
 <br>
-![](/images/fathers_qr_code.png)
 
+![](/images/qr_code_fathers_2024.png)
 
 <br clear="left">
