@@ -18,15 +18,13 @@ Procedure below.</p>
 </p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Request_for_School_Bus_Service_and_T_C_Governing_the_Requests_for_Services_for_WSPS_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Request Agreement for Appointment of School Bus Operator</u></a></strong>
 </p>
-<p>&nbsp;</p>
 <p>&nbsp;<strong>Application Procedure</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Complete the&nbsp;<strong><a href="/files/Information_from_Vendor_Annex_A_WSPS_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Call for Proposal - Annex A</u></a></strong> (information
 Required from Vendor)</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit the completed Call for Proposal
 - Annex A by closing date, 26 Aug 2025, to the School’s General Office.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 2 Pasir Ris Street 11 Singapore 519075</p>
