@@ -23,21 +23,22 @@ Procedure below.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Complete the&nbsp;<strong><a href="/files/Information_from_Vendor_Annex_A_WSPS_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Call for Proposal - Annex A</u></a></strong> (information
 Required from Vendor)</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit the completed Call for Proposal
-- Annex A by closing date, 26 Aug 2025, to the School’s General Office.</p>
+- Annex A by <strong>closing date 3pm on 26 Aug 2025</strong>, to the School’s
+General Office.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 2 Pasir Ris Street 11 Singapore 519075</p>
+<p><strong>Address: </strong>2 Pasir Ris Street 11 Singapore 519075</p>
 </li>
 <li>
-<p>Contact No:&nbsp;6922 9100</p>
+<p><strong>Contact No:&nbsp;</strong>6922 9100</p>
 </li>
 <li>
-<p>Email: <strong><a rel="noopener noreferrer nofollow" target="_blank">wsps@moe.edu.sg</a></strong>
+<p><strong>Email:</strong>  <strong><a rel="noopener noreferrer nofollow" target="_blank">wsps@moe.edu.sg</a></strong>
 </p>
 </li>
 <li>
-<p>Contact Person:&nbsp;Ms April Tan, Administration Manager</p>
+<p><strong>Contact Person:</strong>&nbsp;Ms April Tan, Administration Manager</p>
 </li>
 </ul>
 <p></p>
