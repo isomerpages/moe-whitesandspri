@@ -95,7 +95,6 @@ variant: markdown
 | P4 English Teacher | Mrs Lee Puay Hoon |
 | P4 English Teacher | Mdm Mary Pai |
 | PE Teacher | Mdm Susan Tan |
-| Chinese Teacher | Mdm Elias Gam |
 | English Teacher | Mdm Nadera Sultana
 | English Teacher | Mdm Noor Rita Bte Noor Mohamed  |
 | Math Teacher | Mdm Goh Hong Buay Iris  |
