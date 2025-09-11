@@ -28,7 +28,7 @@ variant: markdown
 | **2C** | 	Mrs Jean Wong | 	Mdm See Swee Tee |
 | **2D** | 	Mdm Syariana Idrus | 	Mdm Siti Alawiah Bte Jaffar |
 | **2E** | 	Mdm Noor Rita | 	Mdm Ang Siew Peng | 
-| **2F** | 	Mdm Ng Hui Wen | 	Mdm Farahdilla Bte Ariffin | Mdm Elias 
+| **2F** | 	Mdm Ng Hui Wen | 	Mdm Farahdilla Bte Ariffin |
 |
 
 #### **Primary 3**
@@ -39,7 +39,7 @@ variant: markdown
 | **3B** | Mdm Vasathakumari | Miss Leong Yin Leng | 	Mdm Fatimah S 
 | **3C** | Mdm Zainab Bte Abdullah | 	Mr Jiang Yang |
 | **3D** | 	Ms Charlene Yeong Min | Mrs Mak Pui See Nicole | Miss Hafila |
-| **3E** | Mr Sim Joo Sen | 	Mr Maverick | 	Mdm Mardhiyah |
+| **3E** | Mr Sim Joo Sen | 	Mdm Hafiza | 	Mdm Mardhiyah |
 
 
 
@@ -95,7 +95,6 @@ variant: markdown
 | P4 English Teacher | Mrs Lee Puay Hoon |
 | P4 English Teacher | Mdm Mary Pai |
 | PE Teacher | Mdm Susan Tan |
-| Chinese Teacher | Mdm Elias Gam |
 | English Teacher | Mdm Nadera Sultana
 | English Teacher | Mdm Noor Rita Bte Noor Mohamed  |
 | Math Teacher | Mdm Goh Hong Buay Iris  |
