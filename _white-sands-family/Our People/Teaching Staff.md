@@ -28,7 +28,7 @@ variant: markdown
 | **2C** | 	Mrs Jean Wong | 	Mdm See Swee Tee |
 | **2D** | 	Mdm Syariana Idrus | 	Mdm Siti Alawiah Bte Jaffar |
 | **2E** | 	Mdm Noor Rita | 	Mdm Ang Siew Peng | 
-| **2F** | 	Mdm Ng Hui Wen | 	Mdm Farahdilla Bte Ariffin | Mdm Elias 
+| **2F** | 	Mdm Ng Hui Wen | 	Mdm Farahdilla Bte Ariffin |
 |
 
 #### **Primary 3**
