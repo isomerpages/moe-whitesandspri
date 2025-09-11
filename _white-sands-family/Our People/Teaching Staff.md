@@ -39,7 +39,7 @@ variant: markdown
 | **3B** | Mdm Vasathakumari | Miss Leong Yin Leng | 	Mdm Fatimah S 
 | **3C** | Mdm Zainab Bte Abdullah | 	Mr Jiang Yang |
 | **3D** | 	Ms Charlene Yeong Min | Mrs Mak Pui See Nicole | Miss Hafila |
-| **3E** | Mr Sim Joo Sen | 	Mdm Hafizah | 	Mdm Mardhiyah |
+| **3E** | Mr Sim Joo Sen | 	Mdm Hafiza | 	Mdm Mardhiyah |
 
 
 
