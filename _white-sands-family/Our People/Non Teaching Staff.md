@@ -40,5 +40,6 @@ variant: markdown
 | **ICT Associate** | Mr Mohamed Fadzli |
 | **ICT Manager** | Mr Nur Salim |
 | **Desktop Engineer** | Mr Enson Pang |
+| **Desktop Engineer** | Miss Catherine Liew |
 | **Science Lab Assistant** | Mdm Azlina |
 |
