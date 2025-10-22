@@ -15,3 +15,10 @@ variant: markdown
 | **Contact Number**  | 90073126 (Mr Peh) / 97231801 (Ms Berlin) |
 | **Email** | wspsbus@gmail.com |
 |
+
+
+##### School Bus Operator and Bus Fare
+
+* [School Bus Service 2025](/files/DETAILS_OF_BUS_OPERATORS_AND_BUS_FARES_2025_17102025.pdf)
+
+* [School Bus Service 2026](/files/DETAILS_OF_BUS_OPERATORS_AND_BUS_FARES_2026_17102025.pdf)
