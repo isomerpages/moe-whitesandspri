@@ -20,4 +20,4 @@ In Music lessons, students are exposed to a broad range of music and activities 
 
 To nurture students’ musical talents and confidence, opportunities such as My Stage, SYF Youth Station Project and other school events are provided to showcase their musical abilities and gain performance experiences.
 
-![](/images/Aesthetics_Photos_for_Website.png)
+![](/images/Aesthetics_Photo_Collage_School_Website.png)
