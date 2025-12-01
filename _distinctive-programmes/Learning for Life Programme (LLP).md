@@ -17,11 +17,11 @@ Tier 1 programmes engage the entire school community in hands-on explorations of
 
 * Exploring neighbourhood playgrounds, including celebrating the nostalgic "Dragon Playground" of yesteryears.
 
-* Discovering the vibrant art of Cantonese Opera Masks.
+* Discovering the vibrant world of Shows, Performances and Theatre.
 
 * Creating abstract representations of their family dynamics.
 
-* Mastering the intricate techniques of Batik Painting.
+* Exploring global batik traditions and learning how cultural stories and practices shape batik designs.
 
 * Immersing themselves in the rich tapestry of Peranakan Culture.
 
@@ -45,4 +45,4 @@ This tier underscores personalised pathways, empowering students to craft their 
 Through this holistic and tiered approach, the LLP at White Sands not only nurtures artistic excellence but also fosters a lifelong passion for the arts. By connecting students with their cultural heritage, we aim to develop well-rounded, engaged individuals who appreciate the beauty of art and its role in shaping identity and community.
 
 
-![](/images/LLP.jpg)
+![](/images/LLP_Photo_Collage_for_Website.png)
