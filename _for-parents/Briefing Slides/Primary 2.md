@@ -5,7 +5,5 @@ description: ""
 third_nav_title: Briefing Slides
 variant: markdown
 ---
-#### **2025 SPECS**
+#### **No content available yet**
 <br>
-
-* ##### [School Leaders P2 Sharing Slides](/files/2025_SPECS_P2_SL_slides_for_website.pdf)
