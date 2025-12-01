@@ -19,14 +19,8 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
-      title: In-Link Bulletin for November 2025
+      title: In-Link Bulletin for December 2025
       id: infobar
       button: Click here
       url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
-  - infobar:
-      title: P1 Orientation 2025
-      id: infobar
-      description: The P1 Orientation will be conducted in the school on Monday, 24
-        November 2025 from 9am to 11am.  More information will be emailed to you
-        nearing the date.
 ---
