@@ -18,7 +18,8 @@ school devices)</p>
 <p>-&nbsp;&nbsp;&nbsp;ICT system accounts (e.g. Singapore Student Learning
 Space (SLS), iCON); and school internet networks.</p>
 <p>&nbsp;For more information, please refer to:</p>
-<p><strong>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary) – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a>&nbsp;</strong>
+<p><strong>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary) – </strong>
+<a href="https://go.gov.sg/cw-studentkitpri" rel="noopener nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a>
 </p>
 <p></p>
 <h4><strong>General</strong></h4>
