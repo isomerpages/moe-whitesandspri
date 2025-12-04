@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Acceptable Use Policy (AUP) for use of EdTech Resources</strong></h4>
-<h4><strong>Purpose of the Acceptable Use Policy (AUP) </strong></h4>
+<h4><strong>Purpose of the Acceptable Use Policy (AUP)</strong></h4>
 <p>Technology is an essential part of learning in today’s world.</p>
 <p>&nbsp;This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
 use of EdTech resources to help you understand how to use these resources
@@ -18,8 +18,8 @@ school devices)</p>
 <p>-&nbsp;&nbsp;&nbsp;ICT system accounts (e.g. Singapore Student Learning
 Space (SLS), iCON); and school internet networks.</p>
 <p>&nbsp;For more information, please refer to:</p>
-<p>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
-– <strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a></strong>&nbsp;</p>
+<p><strong>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary) – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a>&nbsp;</strong>
+</p>
 <p></p>
 <h4><strong>General</strong></h4>
 <p><strong>1.&nbsp;</strong>&nbsp;&nbsp;&nbsp; You should not attempt to
@@ -58,7 +58,7 @@ digital files in an unauthorised or illegal manner.</p>
 <p><strong>8.&nbsp;</strong> You must ensure that you meet the minimum age
 requirement specified in each AI tool's age restrictions before using it.</p>
 <p><strong>9.&nbsp;</strong> If the use of AI is permitted, you should acknowledge
-the use of AI in weighted assessments and homework as required.3</p>
+the use of AI in weighted assessments and homework as required.</p>
 <p><strong>10</strong>.&nbsp; You are to practice academic integrity and
 be responsible for your own learning when using AI. Understand that you
 are ultimately short-changing yourself if you pass off other’s work as
@@ -75,7 +75,7 @@ sharing, avoiding clicking on suspicious links or downloading unknown files,
 and being cautious when interacting with others online (e.g. on social
 media) by not engaging with strangers.</p>
 <p><strong>13. </strong>You should exercise caution regarding the limitations
-of AI tools, including potential inaccuracies / fabricated responses, inherent
+of AI tools, including potential inaccuracies/fabricated responses, inherent
 biases and outdated information.</p>
 <h4><strong>Digital Wellbeing and Balance</strong></h4>
 <p><strong>14. </strong>You are reminded to balance screentime with other
