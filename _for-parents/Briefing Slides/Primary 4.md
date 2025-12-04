@@ -7,8 +7,6 @@ variant: markdown
 ---
 <br>
 
-#### **2025 SPECS**
+#### **No content available yet**
 
 <br>
-
-* [School Leaders P4 Sharing Slides](/files/2025_SPECS_P4_SL_slides_for_website_upload.pdf)
