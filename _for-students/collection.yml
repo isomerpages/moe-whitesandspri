@@ -2,6 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - Acceptable Use Policy (AUP).md
       - Student Learning Space (SLS).md
       - MySkillsFuture.md
+      - Acceptable Use Policy (AUP).md
