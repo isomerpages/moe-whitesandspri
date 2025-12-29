@@ -117,10 +117,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Suzanah Binte Yahya</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE/CCA/Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Chun Wei Jerry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joycelyn Lok</p>
+<p>Ms Quek Li Ching Kat</p>
 </td>
 </tr>
 <tr>
@@ -153,14 +169,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Hui Yuen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -206,14 +214,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay/ Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ismail Kasim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,7 +230,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aesthetics (Internal)</p>
+<p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Alexandrea Droze</p>
@@ -258,6 +258,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Asraf S/O Salavan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -299,6 +307,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Maizatul Anwar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1 &amp; 2 Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Soon Li Ming Karen</p>
 </td>
 </tr>
 <tr>
@@ -359,6 +375,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Hong Buay Iris</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lead Teacher (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -371,6 +395,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Beverly Peh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
