@@ -10,12 +10,13 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **1A** | Ms L T Melwani |  Mdm Shi Haixia |
-| **1B** | Mdm Nor Azimah | Mrs Helen Tay | 
-| **1C** | Mdm Suzanah Bte Taib | Mdm Seah Huixin |
-| **1D** | Mdm Roza Bte Rahman | Miss Khadijah Bte Aron | 
-| **1E** | Ms Lim Hui Ling | Mdm Nur Diana |  |
-| **1F** | Mdm Wong Hui Bing | Mdm Garmit |   |
+| **1A** | Mdm Syariana Idrus  |  Mdm Wang Jingbo |
+| **1B** | Mdm Ng Hui Wen | Mdm Farahdilla Bte Ariffin | 
+| **1C** |	Mdm Noor Rita | Mdm Sun Yahui |
+| **1D** | Mrs Loh-Tan Kim Choo | Miss Khadijah Bte Aron | 
+| **1E** | Mrs Carine Ong | Mrs Kalpena Gangadaran |  |
+| **1F** | Mrs Jean Wong | Mdm Marsita Bte Selama |   |
+| **1G** | Mdm Ang Siew Peng | Mdm Anisah |   |
 | Transit Teacher | Mdm Naziathul  |
 
 
