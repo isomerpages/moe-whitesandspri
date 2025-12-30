@@ -36,11 +36,11 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **3A** | 	Ms Gunita Kaur | Mrs Fung Chon Hwai Joan |
-| **3B** | Mdm Vasathakumari | Miss Leong Yin Leng | 	Mdm Fatimah S 
-| **3C** | Mdm Zainab Bte Abdullah | 	Mr Jiang Yang |
-| **3D** | 	Ms Charlene Yeong Min | Mrs Mak Pui See Nicole | Miss Hafila |
-| **3E** | Mr Sim Joo Sen | 	Mdm Hafiza | 	Mdm Mardhiyah |
+| **3A** | 	Mr Liew Guan Jie | Mrs Lee Puay Hoon | Ms Parimala Davi
+| **3B** | Ms Nurfarahin B Salleh Udin | Miss Leong Yin Leng | 	Mdm Fatimah S 
+| **3C** | Mr Fahmy | 	Ms May Soh |
+| **3D** | 	Mdm Nur Diana | 	Mdm Mary Pai |  |
+| **3E** | Miss Wan Nurin Zahian | 	Mdm Susan Tan | 	 |
 
 
 
