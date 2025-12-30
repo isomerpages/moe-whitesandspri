@@ -24,12 +24,12 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **2A** | Mrs Loh-Tan Kim Choo | Ms Khairulhariza  |
-| **2B** | Mrs Carine Ong | Mdm Marsita Bte Selamat | 
-| **2C** | 	Mrs Jean Wong | 	Mdm See Swee Tee |
-| **2D** | 	Mdm Syariana Idrus | 	Mdm Siti Alawiah Bte Jaffar |
-| **2E** | 	Mdm Noor Rita | 	Mdm Ang Siew Peng | 
-| **2F** | 	Mdm Ng Hui Wen | 	Mdm Farahdilla Bte Ariffin |
+| **2A** | Ms L T Melwani | Mrs Fung Chon Hwai Joan  |
+| **2B** | Mdm Nor Azimah |	Mrs Helen Tay | 
+| **2C** | 	Mdm Suzanah Bte Taib | 	Mdm Seah Huixin | Mr Ravi
+| **2D** | 	Mdm Roza Bte Rahman | 	Miss Khadijah Bte Aron |
+| **2E** | 	Ms Lim Hui Ling | 	Mdm Nur Syahirah Bte Sa’adon | 
+| **2F** | 	Mdm Wong Hui Bing | 	Mdm Mardhiyah | Mdm Mazida
 |
 
 #### **Primary 3**
