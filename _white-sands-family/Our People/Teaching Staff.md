@@ -50,24 +50,24 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **4A** | 	Ms Nurfarahin B Salleh Udin | Mrs Kalpena Gangadaran |   |
-| **4B** | Miss Wan Nurin Zahian  | Mdm Nur Syahirah Bte Sa'adon |  |
-| **4C** | 	Ms May Soh | Mdm Hirda |  |
-| **4D** | 	Mdm Amy Ong | 	Mr Liew Guan Jie | 	Mrs Lee Puay Hoon |
+| **4A** | 	Ms Gunita Kaur | Mrs Fung Chon Hwai Joan |   |
+| **4B** | Mdm Fatimah S  | Miss Leong Yin Leng |  |
+| **4C** | Mdm Zainab Bte Abdullah | Mdm Hafiza |  |
+| **4D** | 	Mdm Vasathakumari | 	Miss Hafila | 	Mrs Mak Pui See, Nicole |
 | **4E** | 	Ms Nur Adilah | 	Mr Mohd Razlee |  Mdm Mary Pai |
-| **4F** | 	Mdm Anisah | 	Mr Fahmy |  |
-|
+
+
 
 #### **Primary 5**
 
 |  |  |  |  |
 |---|---|---|---|
-| **5A** | Ms Kathryn Kan | Mr Shahrunizam |   |
-| **5B** | 	Mr Chong Thiam Hock | Mdm Julie Katherina | Mdm Nadera
-| **5C** | 	Mdm Fatimah M T | 	Mrs Linda Chan |
-| **5D** | Mrs Tham-Wong Lin Yen | Mr Asraf | Mr Ravi
-| **5E** | 	Mdm Jacqueline Bay | 	Mr Mohd Raizi |
-| **5F** | Mr Mohd Faisal | 	Ms Parimala Davi |
+| **5A** | 	Mrs Droze | Mrs Ho-Yap Yuh Kian |   |
+| **5B** | 		Mrs Beverly Peh |  Mdm Nadera
+| **5C** | 	Mrs Teo-Sim Hwee Khoon | 	Mr Teo Yi Zuo |
+| **5D** | 	Mdm Hirda | 	Miss Ng Hui Yin
+| **5E** | 	Mr Amos Sim | 	Mdm Amy Ong |
+| **5F** | Ms Nur Adilah | 	Mr Mazlan Bin Hussein |
 |
 
 
@@ -75,12 +75,12 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **6A** | 	Mr Ismail Bin Kasim | 	Mrs Droze |
-| **6B** | Mrs Ho-Yap Yuh Kian | 	Mdm Wang Jingbo |
-| **6C** | Mrs Beverly Peh | Ms Poh Hui Qin | |
-| **6D** | Mrs Teo-Sim Hwee Khoon | Mr Amos Sim |
-| **6E** | 	Mdm Nadia Hezryn | Mr Tan Yew Wee | 
-| **6F** | Mr Mazlan Bin Hussein | Miss Ng Hui Yin | 
+| **6A** | Ms Kathryn Kan | 	Mr Shahrunizam |
+| **6B** | Mdm Goh Hong Buay Iris | Mdm Julie Katherina |
+| **6C** | Mdm Fatimah M T | 	Mrs Linda Chan | |
+| **6D** | Mrs Tham-Wong Lin Yen | Mr Asraf |
+| **6E** | 	Mdm Nadia Hezryn | 	Mr Mohd Raizi | 
+| **6F** | Mr Mohd Faisal | Miss Lee Yuan Shan | 
 |  |  |  |   |
 
 
@@ -98,5 +98,4 @@ variant: markdown
 | PE Teacher | Mdm Susan Tan |
 | English Teacher | Mdm Nadera Sultana
 | English Teacher | Mdm Noor Rita Bte Noor Mohamed  |
-| Math Teacher | Mdm Goh Hong Buay Iris  |
 | Math Teacher | Mdm Mazida  |
