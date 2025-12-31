@@ -19,7 +19,7 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
-      title: In-Link Bulletin for December 2025
+      title: In-Link Bulletin for January 2026
       id: infobar
       button: Click here
       url: https://staging.d107tbbuy8btfe.amplifyapp.com/useful-links/in-link-bulletin/
