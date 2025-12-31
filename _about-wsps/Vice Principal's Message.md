@@ -33,15 +33,16 @@ White Sands Primary School
 
 <img src="/images/vpa_2025.jpg" style="width:30%;margin-right:15px;" align="left">         
 
-A warm and heartfelt welcome to all pupils, staff, and families of White Sands Primary School as we embark on the exciting journey of 2025! It is with great joy and anticipation that we begin this new year together, filled with opportunities for learning, growth, and success. At White Sands, we are united by a shared vision: “Every White Sandian, a success story,” and we are committed to making that vision a reality for each and every one of our pupils. 
+A warm welcome to all pupils, staff, and families of White Sands Primary School as we begin 2026. As a school community, we continue our work together, guided by our vision, “Every White Sandian, a success story.”
 
-We place great value on each White Sandian, supporting them to become passionate learners, responsible leaders, and compassionate citizens. Through the strong collaboration between our dedicated teachers, staff, and families, we create a nurturing environment where our pupils can thrive. Every day is an opportunity for our White Sandians to discover new strengths, embrace challenges, and reach new heights in their educational journey.
+At White Sands, we believe in every child. Guided by our values of care, respect, and responsibility, we support our pupils to become confident learners, responsible leaders, and caring individuals. Through everyday learning experiences and a supportive school environment, our pupils are encouraged to discover their strengths, build resilience, and grow in confidence.
 
-Reflecting on the past, we take pride in the resilience, determination, and growth our pupils have demonstrated. They have faced challenges with courage, seized opportunities with enthusiasm, and exhibited the values of kindness, responsibility, and perseverance. These success stories are a result of the collective efforts of our school community, and we celebrate each of these achievements.
+Looking back, we are encouraged by the effort and positive attitudes shown by our pupils. These are made possible when we rally together as a school community. The strong partnership between our staff, families, and community partners continues to play an important role in creating a safe and nurturing environment for learning.
 
-As we step into the new year, let us embrace the fresh opportunities it brings — a year full of exploration, achievement, and personal growth. Together, with the continued support of our school-home-community partnership, we will create a space where every White Sandian’s potential is realised and celebrated.
+As we move forward in 2026, we will continue to strengthen learning, develop character, and provide meaningful experiences for our pupils. With our school-home-community partnership firmly in place, we remain committed to helping every White Sandian strive for excellence in both learning and character.
 
-Here’s to an inspiring and successful 2025 at White Sands Primary School, where every step forward is a step towards greater success!
+We look forward to a steady and meaningful year ahead at White Sands Primary School, as we care for one another, grow together, and support every White Sandian in writing their own success story.
+
 
 
 _Your partner-in-education,_
