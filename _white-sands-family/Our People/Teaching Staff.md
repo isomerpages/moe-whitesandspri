@@ -54,7 +54,7 @@ variant: markdown
 | **4B** | Mdm Fatimah S  | Miss Leong Yin Leng |  |
 | **4C** | Mdm Zainab Bte Abdullah | Mdm Hafiza |  |
 | **4D** | 	Mdm Vasathakumari | 	Miss Hafila | 	Mrs Mak Pui See, Nicole |
-| **4E** | 	Ms Nur Adilah | 	Mr Mohd Razlee |  Mdm Mary Pai |
+| **4E** | 	Mr Jason Sim | 	Mdm Hariza |  Ms Charlene |
 
 
 
