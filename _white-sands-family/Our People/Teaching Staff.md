@@ -15,7 +15,7 @@ variant: markdown
 | **1C** |	Mdm Noor Rita | Mdm Sun Yahui |
 | **1D** | Mrs Loh-Tan Kim Choo | Miss Khadijah Bte Aron | 
 | **1E** | Mrs Carine Ong | Mrs Kalpena Gangadaran |  |
-| **1F** | Mrs Jean Wong | Mdm Marsita Bte Selama |   |
+| **1F** | Mrs Jean Wong | Mdm Marsita Bte Selamat |   |
 | **1G** | Mdm Ang Siew Peng | Mdm Anisah |   |
 | Transit Teacher | Mdm Naziathul  |
 
