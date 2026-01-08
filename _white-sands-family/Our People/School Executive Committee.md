@@ -444,7 +444,7 @@ variant: tiptap
 <p>Student Leadership Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tham-Wong Lin Yen</p>
+<p>Ms Kathryn Kan</p>
 </td>
 </tr>
 <tr>
