@@ -24,7 +24,7 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **2A** | Ms L T Melwani | Mrs Fung Chon Hwai Joan  |
+| **2A** | Ms L T Melwani | Mdm Shi Haixia  |
 | **2B** | Mdm Nor Azimah |	Mrs Helen Tay | 
 | **2C** | 	Mdm Suzanah Bte Taib | 	Mdm Seah Huixin | Mr Ravi
 | **2D** | 	Mdm Roza Bte Rahman | 	Miss Khadijah Bte Aron |
