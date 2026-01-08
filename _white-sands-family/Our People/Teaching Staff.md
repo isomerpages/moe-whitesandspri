@@ -37,7 +37,7 @@ variant: markdown
 |  |  |  |  |
 |---|---|---|---|
 | **3A** | 	Mr Liew Guan Jie | Mrs Lee Puay Hoon | Ms Parimala Davi
-| **3B** | Ms Nurfarahin B Salleh Udin | Miss Leong Yin Leng | 	Mdm Fatimah S 
+| **3B** | Mdm Nurfarahin B Salleh Udin | Mdm Elias Giam | 	 
 | **3C** | Mr Fahmy | 	Ms May Soh |
 | **3D** | 	Mdm Nur Diana | 	Mdm Mary Pai |  |
 | **3E** | Miss Wan Nurin Zahian | 	Mdm Susan Tan | 	 |
