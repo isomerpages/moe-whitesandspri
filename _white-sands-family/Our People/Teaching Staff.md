@@ -13,7 +13,7 @@ variant: markdown
 | **1A** | Mdm Syariana Idrus  |  Mdm Wang Jingbo |
 | **1B** | Mdm Ng Hui Wen | Mdm Farahdilla Bte Ariffin | 
 | **1C** |	Mdm Noor Rita | Mdm Sun Yahui |
-| **1D** | Mrs Loh-Tan Kim Choo | Miss Khadijah Bte Aron | 
+| **1D** | Mrs Loh-Tan Kim Choo | Mdm Siti Alawiah | 
 | **1E** | Mrs Carine Ong | Mrs Kalpena Gangadaran |  |
 | **1F** | Mrs Jean Wong | Mdm Marsita Bte Selamat |   |
 | **1G** | Mdm Ang Siew Peng | Mdm Anisah |   |
