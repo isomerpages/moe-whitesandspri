@@ -13,9 +13,9 @@ variant: markdown
 | **1A** | Mdm Syariana Idrus  |  Mdm Wang Jingbo |
 | **1B** | Mdm Ng Hui Wen | Mdm Farahdilla Bte Ariffin | 
 | **1C** |	Mdm Noor Rita | Mdm Sun Yahui |
-| **1D** | Mrs Loh-Tan Kim Choo | Miss Khadijah Bte Aron | 
+| **1D** | Mrs Loh-Tan Kim Choo | Mdm Siti Alawiah | 
 | **1E** | Mrs Carine Ong | Mrs Kalpena Gangadaran |  |
-| **1F** | Mrs Jean Wong | Mdm Marsita Bte Selama |   |
+| **1F** | Mrs Jean Wong | Mdm Marsita Bte Selamat |   |
 | **1G** | Mdm Ang Siew Peng | Mdm Anisah |   |
 | Transit Teacher | Mdm Naziathul  |
 
@@ -24,7 +24,7 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| **2A** | Ms L T Melwani | Mrs Fung Chon Hwai Joan  |
+| **2A** | Ms L T Melwani | Mdm Shi Haixia  |
 | **2B** | Mdm Nor Azimah |	Mrs Helen Tay | 
 | **2C** | 	Mdm Suzanah Bte Taib | 	Mdm Seah Huixin | Mr Ravi
 | **2D** | 	Mdm Roza Bte Rahman | 	Miss Khadijah Bte Aron |
@@ -37,7 +37,7 @@ variant: markdown
 |  |  |  |  |
 |---|---|---|---|
 | **3A** | 	Mr Liew Guan Jie | Mrs Lee Puay Hoon | Ms Parimala Davi
-| **3B** | Ms Nurfarahin B Salleh Udin | Miss Leong Yin Leng | 	Mdm Fatimah S 
+| **3B** | Mdm Nurfarahin B Salleh Udin | Mdm Elias Giam | 	 
 | **3C** | Mr Fahmy | 	Ms May Soh |
 | **3D** | 	Mdm Nur Diana | 	Mdm Mary Pai |  |
 | **3E** | Miss Wan Nurin Zahian | 	Mdm Susan Tan | 	 |
