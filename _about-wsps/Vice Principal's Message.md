@@ -9,19 +9,17 @@ variant: markdown
 <img src="/images/vp_2025.jpg" style="width:30%;margin-right:15px;" align="left">  
          
 
-As we embark on a new academic year, let us set sail into an ocean of opportunities, where every horizon holds promise and every wave brings possibility. Our journey is guided by our commitment to cultivating resilience, striving for excellence, and fostering motivation to succeed. We believe that every individual has the potential to navigate the ocean of opportunities and reach their desired destinations.
+As we raise the sails and embark on a new year,  we will continue with our theme for 2026: Let's Set Sail!  🌟 At White Sands, we are not just navigating a new calendar year – we are charting a course for growth, discovery, and excellence.
 
-At White Sands Primary School, our vision of Every White Sandian, A Success Story remains anchored in the belief that every pupil in this school is capable of being his and her best. We are dedicated to creating a supportive and inclusive environment that empowers each pupil to chart their own course and ride the waves of success.
+Our vision, "Every White Sandian a Success Story," reminds us that each and every one of you has the potential to create a narrative of victory and perseverance. It is about unlocking your unique strengths, passions, and talents to craft a story that inspires and uplifts others.
 
-Our mission is to nurture a community of learners who embody our six core values of care, respect, responsibility, resilience, rallying together and excellence. We nurture passionate learners by fostering a love for learning, encouraging curiosity, and providing opportunities for exploration and discovery. We foster exemplary character by instilling values such as empathy, kindness, and integrity, and providing opportunities for pupils to develop self-awareness, self-regulation, and self-motivation. We develop pupils who lead with a heart by cultivating student agency and leadership skills, encouraging pupils to take initiative and developing a sense of social responsibility. We cultivate pupils who contribute to society by providing opportunities for community service, environmental stewardship, and cultural exchange and encouraging pupils to become active and engaged global citizens.
+Our mission, "To nurture learners with exemplary character to lead with a heart and contribute to society," is our promise to guide every child in developing the skills, values, and resilience needed to make a meaningful impact. We hope our students can lead with empathy, integrity, and kindness – not just for personal success, but to create positive changes around them.
 
-Through our diverse range of school initiatives, we will provide the tools, support, and guidance necessary for our pupils to develop the skills and mindsets required to succeed. From academics to arts, sports to service, we will encourage our pupils to dive into their passions, develop their talents, and make a positive impact in the world. In the classroom, our dedicated teachers will deliver engaging and challenging lessons via Play Pedagogy, designed to foster critical thinking, creativity, and problem-solving skills. Our co-curricular activities will provide opportunities for pupils to develop new skills, build relationships, and indulge in fun.
+Guided by our core values - Care, Respect, Responsibility, Resilience, Rallying Together, and Excellence - we will create a supportive community where everyone can thrive. This year, as we embrace "Grow With Me!" - our Growth Mindset initiative, let us remember that our abilities can be developed, and that challenges are opportunities for growth.
 
-Our signature programmes such as GROW With Me!, Heritage Art  (ALP), Digital Literacy (LLP) and Outdoor Education initiatives will continue to play a vital role in shaping well-rounded individuals. Additionally, our school camps, community service projects, and leadership development programs will help pupils develop resilience, empathy, and a sense of social responsibility.
+Just as the tides constantly shape the shoreline, we too can be shaped by our experiences. Let us harness the power of continuous learning and improvement to become better versions of ourselves. As we navigate the seas of 2026, we will anchor ourselves in our values and chart a course for excellence.
 
-As we navigate the ocean of opportunities, we will encounter challenges and setbacks, but with perseverance and determination, we will ride the waves and reach our destinations together as a community with the pupils, staff and our parents and partners.
-
-Here's to a year of charting new courses, exploring new horizons, and making Every White Sandian, A Success Story!
+May we have the courage in exploring new horizons, be resilient in the face of challenges, be steadfast in our pursuit of greatness and arrive at destinations we aspire to be. Together, let's make every White Sandian a success story, leading with heart and making a positive impact on the world.
 
 
 _Your partner-in-education_
