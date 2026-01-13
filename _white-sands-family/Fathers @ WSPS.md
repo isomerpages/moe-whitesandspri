@@ -7,7 +7,7 @@ variant: markdown
 ### **Fathers@WSPS**
 
 
-![](/images/fathers_new.png)
+![](/images/fathers_2026.png)
 
 #### **Objectives:**
 Fathers@School is a key initiative and part of a larger vision for the Dads for Life movement which provides opportunities to engage fathers to be involved in their children’s lives. White Sands Primary School launched its first Fathers@School activity in September 2010 with a group of 8 dedicated fathers. Today, this number has grown to more than 30 enthusiastic and committed fathers who work together to heighten the spirit of learning and camaraderie amongst the team members and engage all fathers in WSPS in planned activities.
