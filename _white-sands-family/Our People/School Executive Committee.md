@@ -295,7 +295,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 5 AYH</p>
+<p>Primary 6 AYH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Julie Katherina</p>
