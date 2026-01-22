@@ -11,7 +11,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | Chinese Noodle / Japanese Stall    | 15 Nov 2024     | Non-Halal     |
 
-#### **We are looking for a Chinese Noodle or Japanese  Stallholder to operate in our school canteen.**
+#### **We are looking for a Chinese Noodle or Japanese  Stallholder to operate in our school canteen .**
 
 #### **Eligibility and Criteria:**
 
