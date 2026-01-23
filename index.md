@@ -19,6 +19,11 @@ sections:
           url: /for-students/sls/
       background: /images/Playground 3.png
   - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      button: Click here
+      url: /wsps-info/announcements/canteen/
+  - infobar:
       title: In-Link Bulletin for January 2026
       id: infobar
       button: Click here
