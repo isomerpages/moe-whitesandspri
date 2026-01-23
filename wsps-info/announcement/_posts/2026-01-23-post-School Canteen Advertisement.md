@@ -10,9 +10,7 @@ variant: markdown
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Snack and Hot Drink   | 31 Dec 2026     | Hot drinks and snacks     |
-| Chinese Noodle / Japanese Stall    | 31 Dec 2026     | Non-Halal     |
-
-#### **We are looking for a Chinese Noodle and Snack and Hot Drink stall to operate in our school canteen .**
+| Chinese Noodle   | 31 Dec 2026     | Non-Halal     |
 
 
 #### **Application Procedure**
