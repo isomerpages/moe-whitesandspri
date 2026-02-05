@@ -9,8 +9,8 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Snack and Hot Drink   | 31 Dec 2026     | Hot drinks and snacks     |
-| Chinese Noodle   | 31 Dec 2026     | Non-Halal     |
+| Snack and Hot Drink   | 11 Feb 2026     | Hot drinks and snacks     |
+| Chinese Noodle   | 31 May 2026     | Non-Halal     |
 
 
 #### **Application Procedure**
