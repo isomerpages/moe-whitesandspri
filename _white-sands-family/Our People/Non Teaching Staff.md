@@ -16,6 +16,7 @@ variant: markdown
 | **Special Educational Needs Officer (SEN Officer)** | Ms Samirah Bte Mohd Noh |
 | **Senior School Counsellor** | Mrs Han Pei Yuan |
 | **School Counsellor (FAJSC)** | Mdm Mazirah Binte Abdul Rahman |
+| **School Counsellor (FAJSC)** | Mdm Christine Lim Peck Sim |
 | **School Counsellor (FTSC)** | Vacant|
 
 
