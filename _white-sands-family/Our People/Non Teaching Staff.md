@@ -14,7 +14,6 @@ variant: markdown
 | **Special Educational Needs Officer (SEN Officer)** | Mr Muhd Ismail Bin Rosli |
 | **Special Educational Needs Officer (SEN Officer)** | Mr Zuhri Bin Shariff |
 | **Special Educational Needs Officer (SEN Officer)** | Ms Samirah Bte Mohd Noh |
-| **Special Educational Needs Officer (SEN Officer)** | Ms Shim Bao Ling |
 | **Senior School Counsellor** | Mrs Han Pei Yuan |
 | **School Counsellor (FAJSC)** | Mdm Mazirah Binte Abdul Rahman |
 | **School Counsellor (FTSC)** | Vacant|
