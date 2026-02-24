@@ -120,7 +120,7 @@ variant: tiptap
 <p>Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suzanah Binte Yahya</p>
+<p>Mdm Suzanah Binte Yahaya</p>
 </td>
 </tr>
 <tr>
