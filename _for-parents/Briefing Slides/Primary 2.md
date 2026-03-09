@@ -5,5 +5,7 @@ description: ""
 third_nav_title: Briefing Slides
 variant: markdown
 ---
-#### **No content available yet**
+#### **Briefing Slides**
 <br>
+
+* ##### [2026 SPECS - School Leader Engagement for Primary 2](/files/2026_SPECS_SL_engagement_P2_website.pdf)
