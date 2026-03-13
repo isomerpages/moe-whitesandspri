@@ -4,4 +4,5 @@ permalink: /for-parents/COA/
 description: ""
 variant: markdown
 ---
-![](/images/Term_1_2026.png)
+
+![](/images/term_2.png)
