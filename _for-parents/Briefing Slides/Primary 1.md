@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Briefing Slides
 variant: markdown
 ---
-### No content available yet
+### **Briefing Slides**
 <br>
 
+* ##### [2026 SPECS - Year Head Engagement for Primary 1](/files/2026_SPECS_YH_Engagement_P1_website.pdf)
