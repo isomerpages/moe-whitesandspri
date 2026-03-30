@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### **School Advisory Committee**
 
-![](/images/WSPS_SAC_2026.png)
+![](/images/2.png)
