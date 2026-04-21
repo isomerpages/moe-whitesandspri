@@ -9,7 +9,7 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Snack and Hot Drink   | 28 June 2026     | Hot drinks and snacks     |
+| Snack and Hot Drink   | 22 April 2026     | Hot drinks and snacks     |
 | Noodle Stall (Chinese/Japanese/Korean)   | 31 Dec 2026     | Non-Halal     |
 
 
