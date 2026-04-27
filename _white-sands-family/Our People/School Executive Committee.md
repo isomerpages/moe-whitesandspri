@@ -303,6 +303,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Primary 5 AYH (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Li Ping Amy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Primary 3 &amp; 4 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,26 +319,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Primary 3 AYH (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Diana</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Primary 1 &amp; 2 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Soon Li Ming Karen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 3 AYH (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Li Ping Amy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 2 AYH (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Diana</p>
 </td>
 </tr>
 <tr>
