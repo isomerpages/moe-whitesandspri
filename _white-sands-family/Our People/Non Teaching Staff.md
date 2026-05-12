@@ -17,7 +17,7 @@ variant: markdown
 | **Senior School Counsellor** | Mrs Han Pei Yuan |
 | **School Counsellor (FAJSC)** | Mdm Mazirah Binte Abdul Rahman |
 | **School Counsellor (FAJSC)** | Mdm Christine Lim Peck Sim |
-| **School Counsellor (FTSC)** | Vacant|
+| **School Counsellor (FTSC)** | Ms Li Rongzhuang (Shernise)|
 
 
 #### **EAS**
