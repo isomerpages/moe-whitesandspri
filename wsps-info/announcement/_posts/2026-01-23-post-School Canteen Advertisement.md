@@ -9,7 +9,8 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Noodle Stall (Chinese/Japanese/Korean)   | 31 Dec 2026     | Non-Halal     |
+| Hot drink and snacks stall  | 31 Aug 2026     |     |
+| Noodle Stall    | 30 Sep 2026     | Non-Halal     |
 
 
 #### **Application Procedure**
