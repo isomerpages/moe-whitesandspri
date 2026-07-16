@@ -38,8 +38,7 @@ third_nav_title: School Partners
 <p>Centre Email</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>wsscc@<a href="mailto:ymca@edu.sg" rel="noopener noreferrer nofollow" target="_blank">ymca@edu.sg</a>
-</p>
+<p>wsscc@ymca.edu.sg</p>
 </td>
 </tr>
 </tbody>
