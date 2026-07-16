@@ -64,7 +64,7 @@ variant: markdown
 |---|---|---|---|
 | **5A** | 	Mrs Droze | Mrs Ho-Yap Yuh Kian |   |
 | **5B** | 		Mrs Beverly Peh |  Mdm Nadera
-| **5C** | 	Mrs Teo-Sim Hwee Khoon | 	Mr Teo Yi Zuo |
+| **5C** | 	Mrs Teo-Sim Hwee Khoon | 	Mdm Ho Fui Hee |
 | **5D** | 	Mdm Hirda | 	Miss Ng Hui Yin
 | **5E** | 	Mr Amos Sim | 	Mdm Amy Ong |
 | **5F** | Ms Nur Adilah | 	Mr Mazlan Bin Hussein |
