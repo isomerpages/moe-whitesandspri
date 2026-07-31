@@ -28,7 +28,7 @@ variant: markdown
 | **2B** | Mdm Nor Azimah |	Mrs Helen Tay | 
 | **2C** | 	Mdm Suzanah Bte Taib | 	Mdm Seah Huixin | Mr Ravi
 | **2D** | 	Mdm Roza Bte Rahman | 	Miss Khadijah Bte Aron |
-| **2E** | 	Ms Lim Hui Ling | 	Mdm Nur Syahirah Bte Sa’adon | 
+| **2E** | 	Ms Lim Hui Ling | 	| 
 | **2F** | 	Mdm Wong Hui Bing | 	Mdm Mardhiyah | Mdm Mazida
 |
 
