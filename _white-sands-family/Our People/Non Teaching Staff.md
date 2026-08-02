@@ -23,14 +23,12 @@ variant: markdown
 
 |  |  |
 |:---:|:---:|
-| **Administration Manager** | Ms April Tan Lee Ngoh |
+| **Administration Manager** | Mdm April Tan Lee Ngoh |
 | **Operations Manager** | Mr Tay Eng Foo Roy |
 | **Operations Manager** | Mr Tan Tong Mou |
 | **Admin Executive** | Mdm Chua Lay Cheng Jane |
 | **Admin Executive** | Ms Farhana  |
-| **Admin Executive** | Mr Toh Boon Chiang  |
 | **Corporate Support Officer** | Mdm Mashita Ahmad  |
-| **Operations Support Officer** | Mdm Sarmini Bte Kiat |
 | **Operations Support Officer** | Mdm Rakyah Bte Ahmad |
 | **Operations Support Officer** | Mdm Chua Siew Hiam |
 | **Operations Support Officer** | Mdm Guo Yiying |
