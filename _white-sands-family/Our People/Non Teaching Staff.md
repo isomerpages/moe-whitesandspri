@@ -29,7 +29,6 @@ variant: markdown
 | **Operations Manager** | Mr Tan Tong Mou |
 | **Admin Executive** | Mdm Chua Lay Cheng Jane |
 | **Admin Executive** | Ms Farhana  |
-| **Corporate Support Officer** | Mdm Mashita Ahmad  |
 | **Operations Support Officer** | Mdm Rakyah Bte Ahmad |
 | **Operations Support Officer** | Mdm Chua Siew Hiam |
 | **Operations Support Officer** | Mdm Guo Yiying |
