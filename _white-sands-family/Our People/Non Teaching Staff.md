@@ -39,5 +39,5 @@ variant: markdown
 | **ICT Manager** | Mr Nur Salim |
 | **Desktop Engineer** | Mr Enson Pang |
 | **Desktop Engineer** | Miss Catherine Liew |
-| **Science Lab Assistant** | Mdm Azlina |
-|
+| **Science Lab Assistant** | Mdm Fitriah |
+| **Admin Assistant** | Mdm Azlina |
